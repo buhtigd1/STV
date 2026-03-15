@@ -27,8 +27,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install httpx
 
-      - name: Run scraper
-        run: python scraper.py
+      - name: Run scraper and verify no "… Other" group-title
+        shell: bash
+        run: |
+          set -e
+          python scraper.py
+
+          # Fail the job if the unwanted group-title is present
+          if grep -n 'group-title="… Other"' stv.m3u8; then
+            echo '❌ Found group-title="… Other" in stv.m3u8'
+            exit 1
+          else
+            echo '✅ No "… Other" group-title found in stv.m3u8'
+          fi
 
       - name: Commit updated files (if changed)
         run: |
