@@ -24,9 +24,9 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Category mapping — used for both grouping and M3U group-title
 CATEGORY_MAP = {
-    15:  {"key": 15, "name": "F1",       "icon": "🏎️", "priority": 0},  # F1 on top
+    15:  {"key": 15,  "name": "F1",       "icon": "🏎️", "priority": 0},  # F1 on top
     9:   {"key": 9,   "name": "Football",   "icon": "⚽", "priority": 1},
-    "other": {"key": "other", "name": "… Other", "icon": "…", "priority": 99},
+    "other": {"key": "other", "name": "Other", "icon": "", "priority": 99},
 }
 
 NFL_PATTERNS = [
@@ -168,7 +168,7 @@ async def main():
                 for s in valid:
                     # Determine group-title from category
                     cid = s.get("categoryId")
-                    group_name = "… Other"
+                    group_name = "Other"
                     if cid == 10 or any(p in s.get("original_name_upper", "") for p in NFL_PATTERNS):
                         group_name = "NFL"
                     elif cid in CATEGORY_MAP and cid != "other":
