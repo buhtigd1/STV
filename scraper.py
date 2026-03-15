@@ -24,6 +24,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Category mapping — used for both grouping and M3U group-title
 CATEGORY_MAP = {
+    1:   {"key": 1,   "name": "F1",        "icon": "🏎️", "priority": 0},  # NEW: F1 on top
     9:   {"key": 9,   "name": "Football",   "icon": "⚽", "priority": 1},
     "other": {"key": "other", "name": "… Other", "icon": "…", "priority": 99},
 }
