@@ -117,7 +117,9 @@ async def main():
                     continue
 
                 if "<" in chunk:
-                    url, lang = [x       # ────────────────────────────────────────────────
+                    url, lang = [x       
+                                 
+        # ────────────────────────────────────────────────
         # M3U — ONLY FOOTBALL & F1
         # ────────────────────────────────────────────────
         with open(os.path.join(BASE_DIR, M3U_FILENAME), "w", encoding="utf-8") as f:
