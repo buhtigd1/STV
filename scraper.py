@@ -23,63 +23,55 @@ async def resolve_m3u8(client, embed_url):
     try:
         r1 = await client.get(embed_url, headers=headers, follow_redirects=True)
 
-        iframe_match = re.search(r'<iframe\s+src="\'["\']', r1.text)
-        if not iframe_match:
-            return embed_url
+        iframe_match = re.search(r'\")
+                else:
+                    url = chunk
+                    lang = "English"
 
-        inner = iframe_match.group(1)
-        if inner.startswith("//"):
-            inner = "https:" + inner
+                if url.startswith("http"):
+                    raw_streams.append({
+                        "id": gid,
+                        "name": f"{name} ({lang})",
+                        "url": url,
+                        "categoryId": cid,
+                        "start": start,
+                        "logo1": logo1,
+                        "logo2": logo2,
+                    })
 
-        headers["Referer"] = embed_url
-        r2 = await client.get(inner, headers=headers, follow_redirects=True)
+        semaphore = asyncio.Semaphore(4)
 
-        input_match = re.search(r'input\s*:\s*"\'["\']', r2.text)
-        if input_match:
-            decrypt = await client.post(
-                "https://streams.center/embed/decrypt.php",
-                data={"input": input_match.group(1)},
-                headers={
-                    "User-Agent": "Mozilla/5.0",
-                    "Referer": inner,
-                    "X-Requested-With": "XMLHttpRequest",
-                },
-            )
+        async def process(s):
+            async with semaphore:
+                if ".php" in s["url"]:
+                    s["url"] = await resolve_m3u8(client, s["url"])
+                return s
 
-            if decrypt.is_success and ".m3u8" in decrypt.text:
-                return decrypt.text.strip()
+        resolved = await asyncio.gather(*(process(s) for s in raw_streams))
 
-        return embed_url
-    except:
-        return embed_url
+        valid = [r for r in resolved if isinstance(r, dict) and ".m3u8" in r["url"]]
+        valid = [v for v in valid if v["categoryId"] in [9, 15]]
 
+        root = ET.Element("tv")
 
-async def main():
-    api_url = "https://backend.streamcenter.live/api/Parties?pageNumber=1&pageSize=500"
-    epg_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/{EPG_FILENAME}"
+        for s in valid:
+            ch = ET.SubElement(root, "channel", id=s["id"])
+            ET.SubElement(ch, "display-name").text = s["name"]
 
-    async with httpx.AsyncClient(timeout=35.0, verify=False) as client:
-        resp = await client.get(api_url)
-        resp.raise_for_status()
-        games = resp.json()
+            now = datetime.datetime.utcnow()
+            st = now.strftime("%Y%m%d%H%M%S +0000")
+            en = (now + datetime.timedelta(hours=6)).strftime("%Y%m%d%H%M%S +0000")
 
-        raw_streams = []
+            prog = ET.SubElement(root, "programme", start=st, stop=en, channel=s["id"])
+            ET.SubElement(prog, "title", lang="en").text = s["name"]
 
-        for game in games:
-            vid_str = game.get("videoUrl", "")
-            if not vid_str:
-                continue
+        with open(os.path.join(BASE_DIR, EPG_FILENAME), "w", encoding="utf-8") as f:
+            f.write(minidom.parseString(ET.tostring(root)).toprettyxml(indent="  "))
 
-            gid = str(game.get("id"))
-            name = game.get("gameName") or game.get("name") or "No name"
-            cid = game.get("categoryId")
-            start = game.get("beginPartie")
-            logo1 = game.get("logoTeam1")
-            logo2 = game.get("logoTeam2")
-
-            for chunk in vid_str.split(";"):
-                chunk = chunk.strip()
-                ifId"] == 15 else "Football"
+        with open(os.path.join(BASE_DIR, M3U_FILENAME), "w", encoding="utf-8") as f:
+            f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
+            for s in valid:
+                group = "F1" if s["categoryId"] == 15 else "Football"
                 logo = s["logo1"] or s["logo2"] or ""
                 f.write(
                     f'#EXTINF:-1 tvg-id="{s["id"]}" tvg-logo="{logo}" group-title="{group}",{s["name"]}\n'
