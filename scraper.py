@@ -12,18 +12,18 @@ import os
 # Configuration
 # ────────────────────────────────────────────────
 GITHUB_USERNAME = "buhtigd1"
-REPO_NAME       = "STV"
+REPO_NAME = "STV"
 
 DEFAULT_LOGO = ""
-EPG_FILENAME    = "epg.xml"
-M3U_FILENAME    = "stv.m3u8"
-STREAMS_JSON    = "streams.json"
+EPG_FILENAME = "epg.xml"
+M3U_FILENAME = "stv.m3u8"
+STREAMS_JSON = "streams.json"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 CATEGORY_MAP = {
-    15: {"key": 15, "name": "F1", "icon": "🏎️"},
-    9:  {"key": 9,  "name": "Football", "icon": "⚽"},
+    15: {"key": 15, "name": "F1"},
+    9: {"key": 9, "name": "Football"},
 }
 
 NFL_PATTERNS = ["NFL", "NATIONAL FOOTBALL"]
@@ -42,7 +42,6 @@ async def resolve_m3u8(client: httpx.AsyncClient, embed_url: str) -> str:
     try:
         r1 = await client.get(embed_url, headers=headers, follow_redirects=True)
 
-        # Clean iframe regex (NO HTML ESCAPE!)
         iframe_match = re.search(
             r'<iframe\s+src="\'["\']',
             r1.text,
@@ -59,9 +58,9 @@ async def resolve_m3u8(client: httpx.AsyncClient, embed_url: str) -> str:
         headers["Referer"] = embed_url
         r2 = await client.get(inner, headers=headers, follow_redirects=True)
 
-        # Clean decrypt key regex
         input_match = re.search(
-            r'input\s*:\s*["\']([A-Za-z0         r2.text
+            r'input\s*:\s*"\'["\']',
+            r2.text
         )
 
         if input_match:
@@ -114,10 +113,11 @@ async def main():
 
             for chunk in vid_str.split(";"):
                 chunk = chunk.strip()
-                if               ET.tostring(root)
-            ).toprettyxml(indent="  "))
+                if not chunk:
+                    continue
 
-        # ────────────────────────────────────────────────
+                if "<" in chunk:
+                    url, lang = [x       # ────────────────────────────────────────────────
         # M3U — ONLY FOOTBALL & F1
         # ────────────────────────────────────────────────
         with open(os.path.join(BASE_DIR, M3U_FILENAME), "w", encoding="utf-8") as f:
@@ -135,7 +135,6 @@ async def main():
                 f.write('#EXTVLCOPT:http-referrer=https://streams.center/\n')
                 f.write(f'{s["url"]}\n')
 
-        # Save JSON
         with open(os.path.join(BASE_DIR, STREAMS_JSON), "w", encoding="utf-8") as f:
             json.dump(valid, f, indent=2, ensure_ascii=False)
 
