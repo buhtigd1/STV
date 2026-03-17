@@ -115,10 +115,13 @@ async def main():
                 chunk = chunk.strip()
                 if not chunk:
                     continue
-
-                if "<" in chunk:
-                    url, lang = [x       
                                  
+                if "<" in chunk:
+                    url, lang = [x.strip() for x in chunk.split("<", 1)]
+                    lang = lang.rstrip(">")
+                else:
+                    url, lang = chunk, "English"
+               
         # ────────────────────────────────────────────────
         # M3U — ONLY FOOTBALL & F1
         # ────────────────────────────────────────────────
