@@ -168,13 +168,12 @@ async def main():
                 for s in valid:
                     # Determine group-title from category
                     cid = s.get("categoryId")
-                    group_name = None  # default: no group-title added
-                    
+                    group_name = "Other"
                     if cid == 10 or any(p in s.get("original_name_upper", "") for p in NFL_PATTERNS):
                         group_name = "NFL"
                     elif cid in CATEGORY_MAP and cid != "other":
                         group_name = CATEGORY_MAP[cid]["name"]
-                    
+
                     # Choose best logo
                     logo = DEFAULT_LOGO
                     if s.get("logoTeam1") and isinstance(s["logoTeam1"], str) and s["logoTeam1"].startswith("http"):
@@ -182,17 +181,11 @@ async def main():
                     elif s.get("logoTeam2") and isinstance(s["logoTeam2"], str) and s["logoTeam2"].startswith("http"):
                         logo = s["logoTeam2"]
 
-                    if group_name:
-                        f.write(
-                            f'#EXTINF:-1 tvg-id="{s["id"]}" '
-                            f'tvg-logo="{logo}" '
-                            f'group-title="{group_name}",{s["name"]}\n'
-                        )
-                    else:
-                        f.write(
-                            f'#EXTINF:-1 tvg-id="{s["id"]}" '
-                            f'tvg-logo="{logo}",{s["name"]}\n'
-                        )
+                    f.write(
+                        f'#EXTINF:-1 tvg-id="{s["id"]}" '
+                        f'tvg-logo="{logo}" '
+                        f'group-title="{group_name}",{s["name"]}\n'
+                    )
                     f.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n')
                     f.write('#EXTVLCOPT:http-referrer=https://streams.center/\n')
                     f.write(f'{s["url"]}\n')
