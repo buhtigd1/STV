@@ -39,7 +39,7 @@ jobs:
           git add *.m3u* *.json *.xml 2>/dev/null || true
 
           if ! git diff --cached --quiet; then
-            git commit -m "hourly update – $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Update – $(date -u +'%Y-%m-%d %H:%M UTC')"
             
             # Fix: Pull latest changes and rebase before pushing
             git pull --rebase origin main
