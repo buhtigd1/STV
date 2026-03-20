@@ -146,35 +146,21 @@ async def main():
 
             # ── EPG ──
             root = ET.Element("tv")
-
             for s in valid:
                 ch = ET.SubElement(root, "channel", id=s["id"])
                 ET.SubElement(ch, "display-name").text = s["name"]
                 ET.SubElement(ch, "icon", src=DEFAULT_LOGO)
 
-            # Parse start time
-            start_raw = s.get("start")
-            try:
-                start_dt = datetime.datetime.fromisoformat(start_raw.replace("Z", "+00:00"))
-            except:
-                start_dt = datetime.datetime.now(datetime.timezone.utc)
+                now = datetime.datetime.now(datetime.timezone.utc)
+                st = now.strftime("%Y%m%d%H%M%S +0000")
+                en = (now + datetime.timedelta(hours=6)).strftime("%Y%m%d%H%M%S +0000")
 
-            # Auto-detect event duration
-            duration_min = detect_duration(s.get("original_name_upper", ""))
+                prog = ET.SubElement(root, "programme", start=st, stop=en, channel=s["id"])
+                ET.SubElement(prog, "title", lang="en").text = s["name"]
+                ET.SubElement(prog, "icon", src=DEFAULT_LOGO)
 
-            end_dt = start_dt + datetime.timedelta(minutes=duration_min)
-
-            st = start_dt.strftime("%Y%m%d%H%M%S +0000")
-            en = end_dt.strftime("%Y%m%d%H%M%S +0000")
-
-            prog = ET.SubElement(root, "programme", start=st, stop=en, channel=s["id"])
-            ET.SubElement(prog, "title", lang="en").text = s["name"]
-            ET.SubElement(prog, "icon", src=DEFAULT_LOGO)
-   
-            epg_path = os.path.join(BASE_DIR, EPG_FILENAME)
-            with open(epg_path, "w", encoding="utf-8") as f:
-                xml_data = minidom.parseString(ET.tostring(root)).toprettyxml(indent="  ")
-                f.write(xml_data)
+            with open(os.path.join(BASE_DIR, EPG_FILENAME), "w", encoding="utf-8") as f:
+                f.write(minidom.parseString(ET.tostring(root)).toprettyxml(indent="  "))
 
             # ── M3U with real group-titles + team logos ──
             with open(os.path.join(BASE_DIR, M3U_FILENAME), "w", encoding="utf-8") as f:
