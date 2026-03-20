@@ -170,10 +170,12 @@ async def main():
             prog = ET.SubElement(root, "programme", start=st, stop=en, channel=s["id"])
             ET.SubElement(prog, "title", lang="en").text = s["name"]
             ET.SubElement(prog, "icon", src=DEFAULT_LOGO)
+   
+            epg_path = os.path.join(BASE_DIR, EPG_FILENAME)
+            with open(epg_path, "w", encoding="utf-8") as f:
+                xml_data = minidom.parseString(ET.tostring(root)).toprettyxml(indent="  ")
+                f.write(xml_data)
 
-            with open(os.path.join(BASE_DIR, EPG_FILENAME), "w", encoding="utf-8") as f:
-            f.write(minidom.parseString(ET.tostring(root)).toprettyxml(indent="  "))
-        
             # ── M3U with real group-titles + team logos ──
             with open(os.path.join(BASE_DIR, M3U_FILENAME), "w", encoding="utf-8") as f:
                 f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
