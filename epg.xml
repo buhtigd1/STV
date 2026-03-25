@@ -1,10 +1,18 @@
 <?xml version="1.0" ?>
 <tv>
+  <channel id="7647">
+    <display-name>Illinois State Redbirds vs Dayton Flyers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7647">
+    <title lang="en">Illinois State Redbirds vs Dayton Flyers (English)</title>
+    <icon src=""/>
+  </programme>
   <channel id="7632">
     <display-name>Atlanta Hawks at Detroit Pistons (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7632">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7632">
     <title lang="en">Atlanta Hawks at Detroit Pistons (English)</title>
     <icon src=""/>
   </programme>
@@ -12,7 +20,7 @@
     <display-name>Los Angeles Lakers at Indiana Pacers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7633">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7633">
     <title lang="en">Los Angeles Lakers at Indiana Pacers (English)</title>
     <icon src=""/>
   </programme>
@@ -20,7 +28,7 @@
     <display-name>Chicago Bulls at Philadelphia 76ers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7634">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7634">
     <title lang="en">Chicago Bulls at Philadelphia 76ers (English)</title>
     <icon src=""/>
   </programme>
@@ -28,7 +36,7 @@
     <display-name>Oklahoma City Thunder at Boston Celtics (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7635">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7635">
     <title lang="en">Oklahoma City Thunder at Boston Celtics (English)</title>
     <icon src=""/>
   </programme>
@@ -36,7 +44,7 @@
     <display-name>Miami Heat at Cleveland Cavaliers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7636">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7636">
     <title lang="en">Miami Heat at Cleveland Cavaliers (English)</title>
     <icon src=""/>
   </programme>
@@ -44,7 +52,7 @@
     <display-name>Boston Bruins at Buffalo Sabres (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7645">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7645">
     <title lang="en">Boston Bruins at Buffalo Sabres (English)</title>
     <icon src=""/>
   </programme>
@@ -52,7 +60,7 @@
     <display-name>New York Rangers at Toronto Maple Leafs (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7646">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7646">
     <title lang="en">New York Rangers at Toronto Maple Leafs (English)</title>
     <icon src=""/>
   </programme>
@@ -60,7 +68,7 @@
     <display-name>San Antonio Spurs at Memphis Grizzlies (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7637">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7637">
     <title lang="en">San Antonio Spurs at Memphis Grizzlies (English)</title>
     <icon src=""/>
   </programme>
@@ -68,15 +76,23 @@
     <display-name>New York Yankees at San Francisco Giants (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7644">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7644">
     <title lang="en">New York Yankees at San Francisco Giants (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="7648">
+    <display-name>Nevada Wolf Pack vs Auburn Tigers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7648">
+    <title lang="en">Nevada Wolf Pack vs Auburn Tigers (English)</title>
     <icon src=""/>
   </programme>
   <channel id="7638">
     <display-name>Washington Wizards at Utah Jazz (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7638">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7638">
     <title lang="en">Washington Wizards at Utah Jazz (English)</title>
     <icon src=""/>
   </programme>
@@ -84,7 +100,7 @@
     <display-name>Houston Rockets at Minnesota Timberwolves (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7639">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7639">
     <title lang="en">Houston Rockets at Minnesota Timberwolves (English)</title>
     <icon src=""/>
   </programme>
@@ -92,7 +108,7 @@
     <display-name>Dallas Mavericks at Denver Nuggets (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7640">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7640">
     <title lang="en">Dallas Mavericks at Denver Nuggets (English)</title>
     <icon src=""/>
   </programme>
@@ -100,7 +116,7 @@
     <display-name>Brooklyn Nets at Golden State Warriors (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7641">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7641">
     <title lang="en">Brooklyn Nets at Golden State Warriors (English)</title>
     <icon src=""/>
   </programme>
@@ -108,7 +124,7 @@
     <display-name>Milwaukee Bucks at Portland Trail Blazers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7642">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7642">
     <title lang="en">Milwaukee Bucks at Portland Trail Blazers (English)</title>
     <icon src=""/>
   </programme>
@@ -116,7 +132,7 @@
     <display-name>Toronto Raptors at LA Clippers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260325150324 +0000" stop="20260325210324 +0000" channel="7643">
+  <programme start="20260325170715 +0000" stop="20260325230715 +0000" channel="7643">
     <title lang="en">Toronto Raptors at LA Clippers (English)</title>
     <icon src=""/>
   </programme>
