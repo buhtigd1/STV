@@ -1,18 +1,8 @@
 [
   {
-    "id": "7687",
-    "name": "F1 Japanese GP Free Practice 2 (English)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=yllHfM8vI8B2oPpzNU0xzdX8-TzXYs05dV3SPIA4GNM&e=1774612695",
-    "categoryId": 15,
-    "start": "2026-03-27T07:00:00",
-    "original_name_upper": "F1 JAPANESE GP FREE PRACTICE 2",
-    "logoTeam1": "data:image/png;base64,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",
-    "logoTeam2": "data:image/png;base64,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"
-  },
-  {
     "id": "7718",
     "name": "Uruguay at England (English)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=iNJdc91o9Gm_NdWvvhnHCgycywmKQ8LV8QC1pnA5akg&e=1774612695",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=7v5gkpVTMFReXD5d4ZX_Fy66j3oDTUNnwtzuHgAgCF0&e=1774616453",
     "categoryId": 9,
     "start": "2026-03-27T20:45:00",
     "original_name_upper": "URUGUAY AT ENGLAND",
@@ -22,7 +12,7 @@
   {
     "id": "7724",
     "name": "Motogp USA (English)",
-    "url": "https://mainstreams.pro/hls/oeenzgezcz47.m3u8?st=ykG5LDeYUd-_Jqp6MGGQOjZ9hBiTSGrlTWowdUx8iSo&e=1774612695",
+    "url": "https://mainstreams.pro/hls/oeenzgezcz47.m3u8?st=OaktWEtjXPh_3j_55FH2eiBKIq0FMSfuYZWDlGbFwP8&e=1774616453",
     "categoryId": 15,
     "start": "2026-03-27T21:00:00",
     "original_name_upper": "MOTOGP USA",
@@ -32,7 +22,7 @@
   {
     "id": "7708",
     "name": "New York Yankees at San Francisco Giants (English)",
-    "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=3VRnFV15vDnjPJEpBgYJ7XE_n4qbs9TkOJOJyf4EUzo&e=1774612695",
+    "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=ad1ChEXc-ffPhHyohQ0FQTEwLbdflS1-9r5g5YERtQ8&e=1774616453",
     "categoryId": 13,
     "start": "2026-03-27T21:35:00",
     "original_name_upper": "NEW YORK YANKEES AT SAN FRANCISCO GIANTS",
@@ -42,7 +32,7 @@
   {
     "id": "7698",
     "name": "LA Clippers at Indiana Pacers (English)",
-    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=sQ7P0hk9CvYm7huCp8E9ZcjBfEMYwk8I8VJRzSSm3E8&e=1774612694",
+    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=ZbXvkSMHbd7NcYu12k50ECulaMZwpbaSpp5PYk0lbR8&e=1774616452",
     "categoryId": 4,
     "start": "2026-03-28T00:00:00",
     "original_name_upper": "LA CLIPPERS AT INDIANA PACERS",
@@ -52,7 +42,7 @@
   {
     "id": "7716",
     "name": "Detroit Red Wings at Buffalo Sabres (English)",
-    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=9Xmb8C2xC2od4wGiQN6TcpMlH8boecsGrV7jh0gce3Q&e=1774612694",
+    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=mc0nXBuKvY3y3GRNS26KnIBgCvP5PqsHcPxbSqnqG1A&e=1774616452",
     "categoryId": 16,
     "start": "2026-03-28T00:00:00",
     "original_name_upper": "DETROIT RED WINGS AT BUFFALO SABRES",
@@ -62,7 +52,7 @@
   {
     "id": "7717",
     "name": "Chicago Blackhawks at New York Rangers (English)",
-    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=nZEWmSIP4-t1d-2y-LYQPvyEoPT7cDUT8TYs07I-qD8&e=1774612694",
+    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=gKm_-L5vAjILcOQ1W1IDu4zVyHSIibxrU7WAOBHgQg8&e=1774616452",
     "categoryId": 16,
     "start": "2026-03-28T00:00:00",
     "original_name_upper": "CHICAGO BLACKHAWKS AT NEW YORK RANGERS",
@@ -72,7 +62,7 @@
   {
     "id": "7720",
     "name": "St. Johns Red Storm vs Duke Blue Devils (English)",
-    "url": "https://mainstreams.pro/hls/xcsfadafgzfg76.m3u8?st=SOo3o4ZtjzXwKUKEwYu4BjCSdGqJy0l2JkIP5-B6Wgs&e=1774612694",
+    "url": "https://mainstreams.pro/hls/xcsfadafgzfg76.m3u8?st=trdlFTN3dWX0EwkRGiJ3zzBMBll9u6GA70S8-BWMKsA&e=1774616452",
     "categoryId": 26,
     "start": "2026-03-28T00:00:00",
     "original_name_upper": "ST. JOHNS RED STORM VS DUKE BLUE DEVILS",
@@ -82,7 +72,7 @@
   {
     "id": "7709",
     "name": "Athletics Athletics at Toronto Blue Jays (English)",
-    "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=J3WhIf4dQVz9ZZawLLEfA8WHb_nq-rKmqfw3n3CXWdo&e=1774612694",
+    "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=eSCSDpmQR7-Vd_Hb5DeEfq42tBDukwNzRuuwPstbrLg&e=1774616452",
     "categoryId": 13,
     "start": "2026-03-28T00:07:00",
     "original_name_upper": "ATHLETICS ATHLETICS AT TORONTO BLUE JAYS",
@@ -92,7 +82,7 @@
   {
     "id": "7710",
     "name": "Colorado Rockies at Miami Marlins (English)",
-    "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=Najt6SJwLQCD4xaHIu_tA4cz9xbwezrf6V8cMUf1dzk&e=1774612694",
+    "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=0xThLx0Eg0twVpp_Ne5enqkvikwpbuPvjh4U_W2LPE0&e=1774616452",
     "categoryId": 13,
     "start": "2026-03-28T00:10:00",
     "original_name_upper": "COLORADO ROCKIES AT MIAMI MARLINS",
@@ -102,7 +92,7 @@
   {
     "id": "7719",
     "name": "Mauritania at Argentina (Spanish)",
-    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=VYvCHfRH1nEJsfysMsTihTGKG1IwjNK1asB5LRChoMw&e=1774612694",
+    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=4d8xLROhCGKqIZ1I4bnV2l8mbJ5OrujZdp_H-C9x-cw&e=1774616452",
     "categoryId": 9,
     "start": "2026-03-28T00:15:00",
     "original_name_upper": "MAURITANIA AT ARGENTINA",
@@ -112,7 +102,7 @@
   {
     "id": "7711",
     "name": "Kansas City Royals at Atlanta Braves (English)",
-    "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=glYw80dj7egaHKlWg1BMeB4hgFvF1_jI7sOQAqPpAeQ&e=1774612694",
+    "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=9kE4GFQyONAVsrLOu7IFy6EwfHvlLCFGU81d2iIdmTA&e=1774616452",
     "categoryId": 13,
     "start": "2026-03-28T00:15:00",
     "original_name_upper": "KANSAS CITY ROYALS AT ATLANTA BRAVES",
@@ -122,7 +112,7 @@
   {
     "id": "7699",
     "name": "Atlanta Hawks at Boston Celtics (English)",
-    "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=t9oaG8JncZZGMDLt3fmaV_nKSFq19FATIT6iqPlPsK0&e=1774612694",
+    "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=N-NnJsOUCN20TL8NcJVRYQwbP9pd_DfxoLVLPa7XLwI&e=1774616451",
     "categoryId": 4,
     "start": "2026-03-28T00:30:00",
     "original_name_upper": "ATLANTA HAWKS AT BOSTON CELTICS",
@@ -132,7 +122,7 @@
   {
     "id": "7700",
     "name": "Miami Heat at Cleveland Cavaliers (English)",
-    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=1XBld50lyuBHQ7MV7BBYfiLQ9Qbrg2inxSOkNWwAqA8&e=1774612694",
+    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=5kDftsJYK4Ia41BLWGdfNz6IBUBNdTXFXtt_dO6KCeo&e=1774616451",
     "categoryId": 4,
     "start": "2026-03-28T00:30:00",
     "original_name_upper": "MIAMI HEAT AT CLEVELAND CAVALIERS",
@@ -142,7 +132,7 @@
   {
     "id": "7722",
     "name": "Alabama Crimson Tide vs Michigan Wolverines (English)",
-    "url": "https://mainstreams.pro/hls/rteztryzathc77.m3u8?st=21RpiC1MaNTIQSixkJNHioHFPsR8j8wK9adzpGQZFEE&e=1774612694",
+    "url": "https://mainstreams.pro/hls/rteztryzathc77.m3u8?st=_cUlo3fT9EyBZgIOqCrUXOKOEWQ4bc00UQaSEDdNpyo&e=1774616451",
     "categoryId": 26,
     "start": "2026-03-28T00:30:00",
     "original_name_upper": "ALABAMA CRIMSON TIDE VS MICHIGAN WOLVERINES",
@@ -152,7 +142,7 @@
   {
     "id": "7701",
     "name": "Houston Rockets at Memphis Grizzlies (English)",
-    "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=T6Dxn61A-6aBX6UTvQIBz13CbanhT3vRMzPyGu4WEMk&e=1774612693",
+    "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=5DzCDAE1WL3v0ZsrH6K-5q-uIZ-w8r9Q0O8WJ78-Erg&e=1774616451",
     "categoryId": 4,
     "start": "2026-03-28T01:00:00",
     "original_name_upper": "HOUSTON ROCKETS AT MEMPHIS GRIZZLIES",
@@ -162,7 +152,7 @@
   {
     "id": "7702",
     "name": "Chicago Bulls at Oklahoma City Thunder (English)",
-    "url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?st=G6nqzljlU7IQgOcmqaRWB8NS7tfayIIrErMU2_fC2Rc&e=1774612694",
+    "url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?st=dQsADKhuS_4239XFA4JkNKNVlvQi_6LhUxc0UGafkTk&e=1774616451",
     "categoryId": 4,
     "start": "2026-03-28T01:00:00",
     "original_name_upper": "CHICAGO BULLS AT OKLAHOMA CITY THUNDER",
@@ -172,7 +162,7 @@
   {
     "id": "7712",
     "name": "Los Angeles Angels at Houston Astros (English)",
-    "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=Jw7Vmn_ZWbX7DOZjKdOxk9Cs83JDdU_YAPs988tkxEY&e=1774612693",
+    "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=zOjZns71zxZJntKncY8D2bxlr8HCRC2uIvrRxL1jr6s&e=1774616451",
     "categoryId": 13,
     "start": "2026-03-28T01:10:00",
     "original_name_upper": "LOS ANGELES ANGELS AT HOUSTON ASTROS",
@@ -182,7 +172,7 @@
   {
     "id": "7703",
     "name": "New Orleans Pelicans at Toronto Raptors (English)",
-    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=mkaBQ37iGKtzci9tOk53Z9eMhgoeAddVnR5H0JS2sp0&e=1774612693",
+    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=AriTyBHv9YfcmI329zv5hJSONcsCpMRbMoxDNn_VA3M&e=1774616451",
     "categoryId": 4,
     "start": "2026-03-28T01:30:00",
     "original_name_upper": "NEW ORLEANS PELICANS AT TORONTO RAPTORS",
@@ -192,7 +182,7 @@
   {
     "id": "7704",
     "name": "Utah Jazz at Denver Nuggets (English)",
-    "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=GpPOpsj8J6SwRH_0GeV5p44lw6NQGYbB0OVTcGXWb9E&e=1774612693",
+    "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=TgFth7UosUXjwtsZo6MiU_AcRn98f07pAynzmWy81BE&e=1774616451",
     "categoryId": 4,
     "start": "2026-03-28T02:00:00",
     "original_name_upper": "UTAH JAZZ AT DENVER NUGGETS",
@@ -202,7 +192,7 @@
   {
     "id": "7721",
     "name": "Michigan State Spartans vs UConn Huskies (English)",
-    "url": "https://mainstreams.pro/hls/xcsfadafgzfg76.m3u8?st=DWmLKy9Ae8GBHf2CZcICUjfA23AuBUD-YQl2yZ68jAQ&e=1774612693",
+    "url": "https://mainstreams.pro/hls/xcsfadafgzfg76.m3u8?st=8hKB71DW2JZ76v84zpOMgZuyYBUc8TO_e8XpAVl2cmM&e=1774616451",
     "categoryId": 26,
     "start": "2026-03-28T02:40:00",
     "original_name_upper": "MICHIGAN STATE SPARTANS VS UCONN HUSKIES",
@@ -212,7 +202,7 @@
   {
     "id": "7713",
     "name": "Cleveland Guardians at Seattle Mariners (English)",
-    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=W3bhOpYr5V46vYmeB08ope86N_HN_1hUwBficJnX13E&e=1774612693",
+    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=FFp6HdlED5Tmxgxel2jkVuoz6NVTYFyxsp-hHn9_sG8&e=1774616451",
     "categoryId": 13,
     "start": "2026-03-28T02:40:00",
     "original_name_upper": "CLEVELAND GUARDIANS AT SEATTLE MARINERS",
@@ -222,7 +212,7 @@
   {
     "id": "7714",
     "name": "Detroit Tigers at San Diego Padres (English)",
-    "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=MH5w-4EZz-pOXotj2UtRkQZVmod9gTYNNVNVE5l-rAs&e=1774612693",
+    "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=cxbmLiPjEWL0hiiyynAq-mkeANAkId-bWu3j9swzEIY&e=1774616451",
     "categoryId": 13,
     "start": "2026-03-28T02:40:00",
     "original_name_upper": "DETROIT TIGERS AT SAN DIEGO PADRES",
@@ -232,7 +222,7 @@
   {
     "id": "7723",
     "name": "Tennessee Volunteers vs Iowa State Cyclones (English)",
-    "url": "https://mainstreams.pro/hls/rteztryzathc77.m3u8?st=2NUQK0bUpIcXRiIYEaKBzQkYqs3YiLXJQQdkjIzjav8&e=1774612692",
+    "url": "https://mainstreams.pro/hls/rteztryzathc77.m3u8?st=a7Rfg8Ssv-sdYt5bcw11Ghla7iwXhItND61RnkXbRWg&e=1774616450",
     "categoryId": 26,
     "start": "2026-03-28T03:00:00",
     "original_name_upper": "TENNESSEE VOLUNTEERS VS IOWA STATE CYCLONES",
@@ -242,7 +232,7 @@
   {
     "id": "7705",
     "name": "Washington Wizards at Golden State Warriors (English)",
-    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=2diELbfzBunaQGEVFgU5eCm5Kun_nYVNRBSz8jtTPy0&e=1774612692",
+    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=DhemgT8P8Q1-E8iVVo3W5Q5gLCGO5nlHmHD3RdIWwBw&e=1774616450",
     "categoryId": 4,
     "start": "2026-03-28T03:00:00",
     "original_name_upper": "WASHINGTON WIZARDS AT GOLDEN STATE WARRIORS",
@@ -252,7 +242,7 @@
   {
     "id": "7706",
     "name": "Dallas Mavericks at Portland Trail Blazers (English)",
-    "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=kyRJys0iW1EAxmKWH0Mhq-8bI-yFjTNWYnAoPc0SX84&e=1774612693",
+    "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=wzW3yX3YI5eyzsXBeSFbevrVfa4emIo6ic1xir8vIN0&e=1774616451",
     "categoryId": 4,
     "start": "2026-03-28T03:00:00",
     "original_name_upper": "DALLAS MAVERICKS AT PORTLAND TRAIL BLAZERS",
@@ -262,7 +252,7 @@
   {
     "id": "7715",
     "name": "Arizona Diamondbacks at Los Angeles Dodgers (English)",
-    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=oOISC-NBDjWsmM1_VavVNZ5EvqKJZzbhwZ9SnuAnPy4&e=1774612692",
+    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=k24GAx0PGAMuDKvdQKFVI2hFVE46BdBkSMJsp9zGUGs&e=1774616450",
     "categoryId": 13,
     "start": "2026-03-28T03:10:00",
     "original_name_upper": "ARIZONA DIAMONDBACKS AT LOS ANGELES DODGERS",
@@ -270,19 +260,9 @@
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
   },
   {
-    "id": "7707",
-    "name": "Brooklyn Nets at Los Angeles Lakers (English)",
-    "url": "https://mainstreams.pro/hls/yjtzafghvjza74.m3u8?st=q80BMf2vH_r0GQ0zg4BcMedsCFsSaT3GdnsMoRUCtrE&e=1774612692",
-    "categoryId": 4,
-    "start": "2026-03-28T03:30:00",
-    "original_name_upper": "BROOKLYN NETS AT LOS ANGELES LAKERS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
-  },
-  {
     "id": "7688",
     "name": "F1 Japanese GP Free Practice 3 (English)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=7ETzezVMR-5vQ-uLa-Q4Rd-17nfHemReQW-cI7_mMCY&e=1774612692",
+    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=b2OaDi25T2p6hE4gah8Z0Vz8IrSLsvB2-6jQNNJjktc&e=1774616450",
     "categoryId": 15,
     "start": "2026-03-28T03:30:00",
     "original_name_upper": "F1 JAPANESE GP FREE PRACTICE 3",
@@ -290,9 +270,19 @@
     "logoTeam2": "data:image/png;base64,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"
   },
   {
+    "id": "7707",
+    "name": "Brooklyn Nets at Los Angeles Lakers (English)",
+    "url": "https://mainstreams.pro/hls/yjtzafghvjza74.m3u8?st=wXjQWEtwUMKjmBiqTg7TPE0ir1n3_ZsCrRcmXtTEtdw&e=1774616450",
+    "categoryId": 4,
+    "start": "2026-03-28T03:30:00",
+    "original_name_upper": "BROOKLYN NETS AT LOS ANGELES LAKERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
+  },
+  {
     "id": "7689",
     "name": "F1 Japanese GP Qualifying (English)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=7ETzezVMR-5vQ-uLa-Q4Rd-17nfHemReQW-cI7_mMCY&e=1774612692",
+    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=b2OaDi25T2p6hE4gah8Z0Vz8IrSLsvB2-6jQNNJjktc&e=1774616450",
     "categoryId": 15,
     "start": "2026-03-28T07:00:00",
     "original_name_upper": "F1 JAPANESE GP QUALIFYING",
@@ -302,7 +292,7 @@
   {
     "id": "7691",
     "name": "UFC Fight Night: Adesanya vs. Pyfer (English)",
-    "url": "https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=yZNUWpUQWn4-AfGpR85OIbHUniRS9WUeWBNpMU7n8n0&e=1774612692",
+    "url": "https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=z5llrK_W5bvOG3O5qFZgo_xcXWF0KUyf-ffxvkuwEG4&e=1774616450",
     "categoryId": 17,
     "start": "2026-03-28T22:00:00",
     "original_name_upper": "UFC FIGHT NIGHT: ADESANYA VS. PYFER",
@@ -312,7 +302,7 @@
   {
     "id": "7690",
     "name": "F1 Japanese GP Race (English)",
-    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=7ETzezVMR-5vQ-uLa-Q4Rd-17nfHemReQW-cI7_mMCY&e=1774612692",
+    "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=b2OaDi25T2p6hE4gah8Z0Vz8IrSLsvB2-6jQNNJjktc&e=1774616450",
     "categoryId": 15,
     "start": "2026-03-29T07:00:00",
     "original_name_upper": "F1 JAPANESE GP RACE",
