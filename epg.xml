@@ -1,106 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="7749">
-    <display-name>Minnesota Timberwolves at Dallas Mavericks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7749">
-    <title lang="en">Minnesota Timberwolves at Dallas Mavericks (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7775">
-    <display-name>Calgary Flames at Colorado Avalanche (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7775">
-    <title lang="en">Calgary Flames at Colorado Avalanche (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7750">
-    <display-name>Cleveland Cavaliers at Utah Jazz (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7750">
-    <title lang="en">Cleveland Cavaliers at Utah Jazz (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7751">
-    <display-name>Detroit Pistons at Oklahoma City Thunder (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7751">
-    <title lang="en">Detroit Pistons at Oklahoma City Thunder (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7817">
-    <display-name>New York Yankees at Seattle Mariners (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7817">
-    <title lang="en">New York Yankees at Seattle Mariners (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7818">
-    <display-name>San Francisco Giants at San Diego Padres (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7818">
-    <title lang="en">San Francisco Giants at San Diego Padres (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7752">
-    <display-name>Washington Wizards at Los Angeles Lakers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7752">
-    <title lang="en">Washington Wizards at Los Angeles Lakers (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7776">
-    <display-name>Vancouver Canucks at Vegas Golden Knights (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7776">
-    <title lang="en">Vancouver Canucks at Vegas Golden Knights (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7777">
-    <display-name>Toronto Maple Leafs at Anaheim Ducks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7777">
-    <title lang="en">Toronto Maple Leafs at Anaheim Ducks (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7778">
-    <display-name>St. Louis Blues at San Jose Sharks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7778">
-    <title lang="en">St. Louis Blues at San Jose Sharks (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7819">
-    <display-name>Cleveland Guardians at Los Angeles Dodgers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7819">
-    <title lang="en">Cleveland Guardians at Los Angeles Dodgers (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="7820">
-    <display-name>Detroit Tigers at Arizona Diamondbacks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7820">
-    <title lang="en">Detroit Tigers at Arizona Diamondbacks (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="7837">
     <display-name>Japan at England (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7837">
+  <programme start="20260331072107 +0000" stop="20260331132107 +0000" channel="7837">
     <title lang="en">Japan at England (English)</title>
     <icon src=""/>
   </programme>
@@ -108,7 +12,7 @@
     <display-name>Egypt at Spain (Spain)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260331051224 +0000" stop="20260331111224 +0000" channel="7836">
+  <programme start="20260331072107 +0000" stop="20260331132107 +0000" channel="7836">
     <title lang="en">Egypt at Spain (Spain)</title>
     <icon src=""/>
   </programme>
