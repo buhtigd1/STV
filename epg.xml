@@ -1,2 +1,43 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel id="7875">
+    <display-name>Philadelphia 76ers at Washington Wizards (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260401091041 +0000" stop="20260401151041 +0000" channel="7875">
+    <title lang="en">Philadelphia 76ers at Washington Wizards (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="7876">
+    <display-name>Atlanta Hawks at Orlando Magic (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260401091041 +0000" stop="20260401151041 +0000" channel="7876">
+    <title lang="en">Atlanta Hawks at Orlando Magic (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="7877">
+    <display-name>Boston Celtics at Miami Heat (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260401091041 +0000" stop="20260401151041 +0000" channel="7877">
+    <title lang="en">Boston Celtics at Miami Heat (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="7878">
+    <display-name>New York Knicks at Memphis Grizzlies (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260401091041 +0000" stop="20260401151041 +0000" channel="7878">
+    <title lang="en">New York Knicks at Memphis Grizzlies (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="7879">
+    <display-name>Sacramento Kings at Toronto Raptors (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260401091041 +0000" stop="20260401151041 +0000" channel="7879">
+    <title lang="en">Sacramento Kings at Toronto Raptors (English)</title>
+    <icon src=""/>
+  </programme>
+</tv>
