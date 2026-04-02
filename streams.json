@@ -1,38 +1,8 @@
 [
   {
-    "id": "7897",
-    "name": "Detroit Tigers at Arizona Diamondbacks (English)",
-    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=ItKs-UZJtLQr4LJln_6KEgznIBHWz0qVK8d80o593y8&e=1775097574",
-    "categoryId": 13,
-    "start": "2026-04-01T20:40:00",
-    "original_name_upper": "DETROIT TIGERS AT ARIZONA DIAMONDBACKS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
-  },
-  {
-    "id": "7898",
-    "name": "New York Yankees at Seattle Mariners (English)",
-    "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=l5uSrwhZBsx56iIr9_TFjlVvruIMD6UMZiDBb6QS79A&e=1775097574",
-    "categoryId": 13,
-    "start": "2026-04-01T21:10:00",
-    "original_name_upper": "NEW YORK YANKEES AT SEATTLE MARINERS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
-  },
-  {
-    "id": "7899",
-    "name": "San Francisco Giants at San Diego Padres (English)",
-    "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=e72M-2PiCnCM9p6bmh_DlEgNgmMW8O8dvJK7IPrHeLo&e=1775097574",
-    "categoryId": 13,
-    "start": "2026-04-01T21:10:00",
-    "original_name_upper": "SAN FRANCISCO GIANTS AT SAN DIEGO PADRES",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-  },
-  {
     "id": "7875",
     "name": "Philadelphia 76ers at Washington Wizards (English)",
-    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=7lKEjDrtyxjBctYM1b44x3CuLC35dPUDEtWBDHQ-_tU&e=1775097574",
+    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=5pQ6-USN6QKJiRg-2JX0Wl38mp-SMklTD4ruagW1oPQ&e=1775108307",
     "categoryId": 4,
     "start": "2026-04-02T00:00:00",
     "original_name_upper": "PHILADELPHIA 76ERS AT WASHINGTON WIZARDS",
@@ -42,7 +12,7 @@
   {
     "id": "7876",
     "name": "Atlanta Hawks at Orlando Magic (English)",
-    "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=J7vhoYd-Q-uaRTt89mHskd6QzLn-vx5gaZpDtkuJKwo&e=1775097574",
+    "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=uBWFVjgNA471P7d3JEbbTs7mYEsd0hQPrqad4aXix2s&e=1775108307",
     "categoryId": 4,
     "start": "2026-04-02T00:00:00",
     "original_name_upper": "ATLANTA HAWKS AT ORLANDO MAGIC",
@@ -52,7 +22,7 @@
   {
     "id": "7877",
     "name": "Boston Celtics at Miami Heat (English)",
-    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=whBQnH63rOCSe5DlimNwqH9VAwzxuYmnGh70M4V8QsI&e=1775097573",
+    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=NQ5BzN9G8l6CvntWUlG4EpLG-cGwW2UQd72bIa4vXB4&e=1775108307",
     "categoryId": 4,
     "start": "2026-04-02T00:30:00",
     "original_name_upper": "BOSTON CELTICS AT MIAMI HEAT",
@@ -62,7 +32,7 @@
   {
     "id": "7900",
     "name": "Minnesota Twins at Kansas City Royals (English)",
-    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=2F4l1RLXNoS4Xnqvfz1MVoKIYIAniNVQ6TIX-bduK7I&e=1775097573",
+    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=RXnCOo2N8tfpgXhkWww5l2Itj9hLF_uA1FEYQUA-bEc&e=1775108307",
     "categoryId": 13,
     "start": "2026-04-02T00:40:00",
     "original_name_upper": "MINNESOTA TWINS AT KANSAS CITY ROYALS",
@@ -72,7 +42,7 @@
   {
     "id": "7878",
     "name": "New York Knicks at Memphis Grizzlies (English)",
-    "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=T-fdxX5e6s3JlWa0PxSpRhFdfFqfVC_gz_QvE3v6Mb8&e=1775097573",
+    "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=yRXReHI_PZxaDdom62jnR8WJMhPOMH0jV0L15ht_9Os&e=1775108307",
     "categoryId": 4,
     "start": "2026-04-02T01:00:00",
     "original_name_upper": "NEW YORK KNICKS AT MEMPHIS GRIZZLIES",
@@ -82,7 +52,7 @@
   {
     "id": "7879",
     "name": "Sacramento Kings at Toronto Raptors (English)",
-    "url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?st=HSO9mH17QKZtYx0aXXJKC1lfyixFMovQG3k47lGvThM&e=1775097573",
+    "url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?st=LLHdeOVxlWSSSLTNksSV56Jkw5J-bJwU2FFNmupxTuo&e=1775108307",
     "categoryId": 4,
     "start": "2026-04-02T01:00:00",
     "original_name_upper": "SACRAMENTO KINGS AT TORONTO RAPTORS",
@@ -92,7 +62,7 @@
   {
     "id": "7880",
     "name": "Indiana Pacers at Chicago Bulls (English)",
-    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=q1o3CisGcQnIlGZfpd6b8gTkFPoJ-To8748AbeNTKKQ&e=1775097573",
+    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=U2-IGeborkg1tgpHdELt1pIfnVtZ-mdEBgUEWN95Wk4&e=1775108307",
     "categoryId": 4,
     "start": "2026-04-02T01:00:00",
     "original_name_upper": "INDIANA PACERS AT CHICAGO BULLS",
@@ -102,7 +72,7 @@
   {
     "id": "7881",
     "name": "Milwaukee Bucks at Houston Rockets (English)",
-    "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=8pkJOuwQk9kYQ164VykxOTP5naI-cU9CGBHRCGr8Ymw&e=1775097573",
+    "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=eXFDY_F3n-o5O-NV749aP-Lglw6FYrPR6WhgGDMiSn4&e=1775108307",
     "categoryId": 4,
     "start": "2026-04-02T01:00:00",
     "original_name_upper": "MILWAUKEE BUCKS AT HOUSTON ROCKETS",
@@ -112,7 +82,7 @@
   {
     "id": "7901",
     "name": "Cleveland Guardians at Los Angeles Dodgers (English)",
-    "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=aSpgAVb4lQ_HLSDsupPqjoqxHpa1683ypN9h9FgAhco&e=1775097573",
+    "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=mjukWY6E29-ZqkzJsX1Cnac0UkVx3YrVet8zOPXsD4U&e=1775108307",
     "categoryId": 13,
     "start": "2026-04-02T01:20:00",
     "original_name_upper": "CLEVELAND GUARDIANS AT LOS ANGELES DODGERS",
@@ -122,7 +92,7 @@
   {
     "id": "7884",
     "name": "Vancouver Canucks at Colorado Avalanche (English)",
-    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=T1XiXEJHFcptUmpfppeUhA9CLYlVJfc63eK6fZOLo8g&e=1775097573",
+    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=Z3qSooJPslDEMap3Z2dMSVYso8InnPEdZEXzWXIXkb4&e=1775108306",
     "categoryId": 16,
     "start": "2026-04-02T01:30:00",
     "original_name_upper": "VANCOUVER CANUCKS AT COLORADO AVALANCHE",
@@ -132,7 +102,7 @@
   {
     "id": "7885",
     "name": "St. Louis Blues at Los Angeles Kings (English)",
-    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=5t-WTOhvuJZQE3slmU_Z1l4WSmdTn6-iEcrWfecHlFk&e=1775097572",
+    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=MHDMIDgqDCKXBcjgZTCP22RxcVCEwYrN3dKmyBrr6WE&e=1775108306",
     "categoryId": 16,
     "start": "2026-04-02T02:00:00",
     "original_name_upper": "ST. LOUIS BLUES AT LOS ANGELES KINGS",
@@ -142,7 +112,7 @@
   {
     "id": "7886",
     "name": "Anaheim Ducks at San Jose Sharks (English)",
-    "url": "https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=ScH4fzXlVYrpzDwA_hr9a3pLCljzRix2sO_vLD-FXoY&e=1775097572",
+    "url": "https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=f7p5MvgpF3qJnInp4K5RMCjL-YmpnZwgGSKTn_1dPHU&e=1775108306",
     "categoryId": 16,
     "start": "2026-04-02T02:00:00",
     "original_name_upper": "ANAHEIM DUCKS AT SAN JOSE SHARKS",
@@ -152,7 +122,7 @@
   {
     "id": "7882",
     "name": "Denver Nuggets at Utah Jazz (English)",
-    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=gpqW5ti9XG8ugoEyI5Z_jXrXZA-S7PWauwDMu1MdUW4&e=1775097572",
+    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=AK2X28wVY-Mxkj5h06KveyFEIeHmaGT1uYg6aYPssq0&e=1775108306",
     "categoryId": 4,
     "start": "2026-04-02T02:00:00",
     "original_name_upper": "DENVER NUGGETS AT UTAH JAZZ",
@@ -162,11 +132,531 @@
   {
     "id": "7883",
     "name": "San Antonio Spurs at Golden State Warriors (English)",
-    "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=Kp_x0KMJHZo5WhAhbYgrUNnGvdCP1wVZtU5ZWeJufwI&e=1775097572",
+    "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=SrQxEL9onWkk_RosOpc_rC5n6o9q8XwmKc13ddBfwEU&e=1775108306",
     "categoryId": 4,
     "start": "2026-04-02T03:00:00",
     "original_name_upper": "SAN ANTONIO SPURS AT GOLDEN STATE WARRIORS",
     "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
     "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+  },
+  {
+    "id": "7933",
+    "name": "Minnesota Twins at Kansas City Royals (English)",
+    "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=mUyMdv4o6eE6Qg-Dkm6eubVTy4Afv7-XwrbZzIoxGDo&e=1775108306",
+    "categoryId": 13,
+    "start": "2026-04-02T19:10:00",
+    "original_name_upper": "MINNESOTA TWINS AT KANSAS CITY ROYALS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+  },
+  {
+    "id": "7934",
+    "name": "Toronto Blue Jays at Chicago White Sox (English)",
+    "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=GAwSxd89UdKf2fqbtQ5Z6u5UC5pHpJkcCYfXjGjJJdQ&e=1775108306",
+    "categoryId": 13,
+    "start": "2026-04-02T21:10:00",
+    "original_name_upper": "TORONTO BLUE JAYS AT CHICAGO WHITE SOX",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+  },
+  {
+    "id": "7917",
+    "name": "Buffalo Sabres at Ottawa Senators (English)",
+    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=wYc7054EtsoQdsIkcD4F0Eral_cAXlivfhmZS4qZM7E&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T00:00:00",
+    "original_name_upper": "BUFFALO SABRES AT OTTAWA SENATORS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
+  },
+  {
+    "id": "7918",
+    "name": "Pittsburgh Penguins at Tampa Bay Lightning (English)",
+    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=v4-OYHaQvip-m0wQgeR1tGdQjHNFdXm0k90kA2VypR4&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T00:00:00",
+    "original_name_upper": "PITTSBURGH PENGUINS AT TAMPA BAY LIGHTNING",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
+  },
+  {
+    "id": "7919",
+    "name": "Boston Bruins at Florida Panthers (English)",
+    "url": "https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=2trDf-5G17UdkwC4dLkUcGG2Iqi-3nqyBV9WlF5D1VU&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T00:00:00",
+    "original_name_upper": "BOSTON BRUINS AT FLORIDA PANTHERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+  },
+  {
+    "id": "7920",
+    "name": "Montreal Canadiens at New York Rangers (English)",
+    "url": "https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=fQgURlmyG7DZu5wZ3tn6VpH-llBO3GqJrhYEh7M0Qzg&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T00:00:00",
+    "original_name_upper": "MONTREAL CANADIENS AT NEW YORK RANGERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
+  },
+  {
+    "id": "7921",
+    "name": "Detroit Red Wings at Philadelphia Flyers (English)",
+    "url": "https://mainstreams.pro/hls/bnvcxwhfg54.m3u8?st=9xVg3ovd0CRs1IuvhyA5UseBBPiIJ4iEOU-ZCcDIKU0&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T00:00:00",
+    "original_name_upper": "DETROIT RED WINGS AT PHILADELPHIA FLYERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
+  },
+  {
+    "id": "7922",
+    "name": "Columbus Blue Jackets at Carolina Hurricanes (English)",
+    "url": "https://mainstreams.pro/hls/sdezqfza55.m3u8?st=DKepZNSovNpMQoGXsMtKo6VnAPb7RyTzhiNcwDPkc4E&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T00:00:00",
+    "original_name_upper": "COLUMBUS BLUE JACKETS AT CAROLINA HURRICANES",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
+  },
+  {
+    "id": "7902",
+    "name": "Phoenix Suns at Charlotte Hornets (English)",
+    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=fAeSpiorIVDTFlADnkaTSMjZUQugROFrd7DqsORX6RA&e=1775108306",
+    "categoryId": 4,
+    "start": "2026-04-03T00:00:00",
+    "original_name_upper": "PHOENIX SUNS AT CHARLOTTE HORNETS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
+  },
+  {
+    "id": "7903",
+    "name": "Minnesota Timberwolves at Detroit Pistons (English)",
+    "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=U3GnRBicdO_QekXSQUmgy57VEyaNeXm7YKWYx8np1Cs&e=1775108306",
+    "categoryId": 4,
+    "start": "2026-04-03T00:00:00",
+    "original_name_upper": "MINNESOTA TIMBERWOLVES AT DETROIT PISTONS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+  },
+  {
+    "id": "7923",
+    "name": "Washington Capitals at New Jersey Devils (English)",
+    "url": "https://mainstreams.pro/hls/poiryezafv56.m3u8?st=FUJP3om3lnI-eFM_mkhM4fwzyCDgfcfaibRWFPvhw0Q&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T00:30:00",
+    "original_name_upper": "WASHINGTON CAPITALS AT NEW JERSEY DEVILS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
+  },
+  {
+    "id": "7924",
+    "name": "Winnipeg Jets at Dallas Stars (English)",
+    "url": "https://mainstreams.pro/hls/rzavbdyua57.m3u8?st=UHGOtioptxEgnnibAP9O5dehUlG_Zpc47fjd982JPy8&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T01:00:00",
+    "original_name_upper": "WINNIPEG JETS AT DALLAS STARS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
+  },
+  {
+    "id": "7925",
+    "name": "Vancouver Canucks at Minnesota Wild (English)",
+    "url": "https://mainstreams.pro/hls/earzfddshg58.m3u8?st=sWlalqOnhjhbiSN4zZrqBdczOv78tKEBxWJ90dktCgw&e=1775108305",
+    "categoryId": 16,
+    "start": "2026-04-03T01:00:00",
+    "original_name_upper": "VANCOUVER CANUCKS AT MINNESOTA WILD",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png"
+  },
+  {
+    "id": "7926",
+    "name": "Chicago Blackhawks at Edmonton Oilers (English)",
+    "url": "https://mainstreams.pro/hls/bvnzadfvyt59.m3u8?st=E9H7lPRRUeMuQiIyWFacLVFIoxRKUmo6AVKEE7ttn7E&e=1775108304",
+    "categoryId": 16,
+    "start": "2026-04-03T02:00:00",
+    "original_name_upper": "CHICAGO BLACKHAWKS AT EDMONTON OILERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+  },
+  {
+    "id": "7904",
+    "name": "Los Angeles Lakers at Oklahoma City Thunder (English)",
+    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=oCtpLHfkERsJxvmVbDVbE2Nq3CzmgCZjfP0LYOQAe3c&e=1775108304",
+    "categoryId": 4,
+    "start": "2026-04-03T02:30:00",
+    "original_name_upper": "LOS ANGELES LAKERS AT OKLAHOMA CITY THUNDER",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+  },
+  {
+    "id": "7935",
+    "name": "Atlanta Braves at Arizona Diamondbacks (English)",
+    "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=uDfqz8j3F-goucepmblptYJytFcLpqypIKjZYlJ7O0I&e=1775108304",
+    "categoryId": 13,
+    "start": "2026-04-03T02:40:00",
+    "original_name_upper": "ATLANTA BRAVES AT ARIZONA DIAMONDBACKS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+  },
+  {
+    "id": "7936",
+    "name": "New York Mets at San Francisco Giants (English)",
+    "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=OmsMsI4iEOHgbTDsmocjBSEOSkuCz_zpCJMnDvyVcOY&e=1775108304",
+    "categoryId": 13,
+    "start": "2026-04-03T02:45:00",
+    "original_name_upper": "NEW YORK METS AT SAN FRANCISCO GIANTS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+  },
+  {
+    "id": "7905",
+    "name": "Cleveland Cavaliers at Golden State Warriors (English)",
+    "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=oTzBksCLmRbxFWGvtpCHeLkczrNmDdSgkk3d1_dz39M&e=1775108304",
+    "categoryId": 4,
+    "start": "2026-04-03T03:00:00",
+    "original_name_upper": "CLEVELAND CAVALIERS AT GOLDEN STATE WARRIORS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+  },
+  {
+    "id": "7906",
+    "name": "New Orleans Pelicans at Portland Trail Blazers (English)",
+    "url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?st=T49xz04hFXjqxA0f0d5zV9pKH7IDMPIUZDSMMmRVmfc&e=1775108304",
+    "categoryId": 4,
+    "start": "2026-04-03T03:00:00",
+    "original_name_upper": "NEW ORLEANS PELICANS AT PORTLAND TRAIL BLAZERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"
+  },
+  {
+    "id": "7927",
+    "name": "Calgary Flames at Vegas Golden Knights (English)",
+    "url": "https://mainstreams.pro/hls/cwxvbnfghq60.m3u8?st=nzo424vEIUQ5ncXeR118wnBBu1rgxncmQBB_43k7pTE&e=1775108304",
+    "categoryId": 16,
+    "start": "2026-04-03T03:00:00",
+    "original_name_upper": "CALGARY FLAMES AT VEGAS GOLDEN KNIGHTS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
+  },
+  {
+    "id": "7928",
+    "name": "Toronto Maple Leafs at San Jose Sharks (English)",
+    "url": "https://mainstreams.pro/hls/gfhfgsqda61.m3u8?st=ttCHEplfwSoRT4qyUPFEvaMdjm9Y-uWRmFBEjpDFPDY&e=1775108304",
+    "categoryId": 16,
+    "start": "2026-04-03T03:00:00",
+    "original_name_upper": "TORONTO MAPLE LEAFS AT SAN JOSE SHARKS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
+  },
+  {
+    "id": "7929",
+    "name": "Utah Mammoth at Seattle Kraken (English)",
+    "url": "https://mainstreams.pro/hls/wxdaztfhd62.m3u8?st=Rg2x-SqZTuXXrPH6GTVRWXppO9pPmcuxvgo29AvPPYk&e=1775108304",
+    "categoryId": 16,
+    "start": "2026-04-03T03:00:00",
+    "original_name_upper": "UTAH MAMMOTH AT SEATTLE KRAKEN",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png"
+  },
+  {
+    "id": "7930",
+    "name": "Nashville Predators at Los Angeles Kings (English)",
+    "url": "https://mainstreams.pro/hls/wxcgfaiiog63.m3u8?st=UmDvhNmb57GkX3fPEIgE30f7Jze21K2fuyTkr9zlxmY&e=1775108304",
+    "categoryId": 16,
+    "start": "2026-04-03T03:30:00",
+    "original_name_upper": "NASHVILLE PREDATORS AT LOS ANGELES KINGS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png"
+  },
+  {
+    "id": "7907",
+    "name": "San Antonio Spurs at LA Clippers (English)",
+    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=7Rm-60Hmpj2i6XNugwH4wUeXKmi_koUjPdRV6JjWHmc&e=1775108304",
+    "categoryId": 4,
+    "start": "2026-04-03T03:30:00",
+    "original_name_upper": "SAN ANTONIO SPURS AT LA CLIPPERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+  },
+  {
+    "id": "7937",
+    "name": "Los Angeles Dodgers at Washington Nationals (English)",
+    "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=jwan2EsB_4RCI6-74SiA7W_V6bQBEoZRkyZsbneQKYY&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T18:05:00",
+    "original_name_upper": "LOS ANGELES DODGERS AT WASHINGTON NATIONALS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+  },
+  {
+    "id": "7938",
+    "name": "St. Louis Cardinals at Detroit Tigers (English)",
+    "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=DvIcj3KwrRASIJu5Ujc2xtpoBu00gqPVV38EOGZjHLI&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T18:10:00",
+    "original_name_upper": "ST. LOUIS CARDINALS AT DETROIT TIGERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+  },
+  {
+    "id": "7939",
+    "name": "Miami Marlins at New York Yankees (English)",
+    "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=GmmXeRp6--binqyp0fglhotmjgSZdPNZK-IuOw6SkI0&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T18:35:00",
+    "original_name_upper": "MIAMI MARLINS AT NEW YORK YANKEES",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+  },
+  {
+    "id": "7940",
+    "name": "San Diego Padres at Boston Red Sox (English)",
+    "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=C2sVr0oEnQVXPqHqBXOxfKnDiJ43X-06zZEeXq6His4&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T19:10:00",
+    "original_name_upper": "SAN DIEGO PADRES AT BOSTON RED SOX",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+  },
+  {
+    "id": "7941",
+    "name": "Cincinnati Reds at Texas Rangers (English)",
+    "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=lnkJ_EHl8wanyus5IB089ndkEebk-XAvTjxngGQDYlo&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T21:05:00",
+    "original_name_upper": "CINCINNATI REDS AT TEXAS RANGERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+  },
+  {
+    "id": "7942",
+    "name": "Chicago Cubs at Cleveland Guardians (English)",
+    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=E8ohIj9AlqjSjkW25luL4hMq7LT8Yg3SXZGp_2-xlNQ&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T21:10:00",
+    "original_name_upper": "CHICAGO CUBS AT CLEVELAND GUARDIANS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+  },
+  {
+    "id": "7943",
+    "name": "Tampa Bay Rays at Minnesota Twins (English)",
+    "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=6S_EAe3YDSsJfnGHtiH0AQSOEKbiLvqXmTI828Q9kh8&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T21:10:00",
+    "original_name_upper": "TAMPA BAY RAYS AT MINNESOTA TWINS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+  },
+  {
+    "id": "7944",
+    "name": "Philadelphia Phillies at Colorado Rockies (English)",
+    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=vW8mgoisG6LVt8NNR3XwiE84BB2Ieh-8BR5VN2WPY20&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T21:10:00",
+    "original_name_upper": "PHILADELPHIA PHILLIES AT COLORADO ROCKIES",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+  },
+  {
+    "id": "7945",
+    "name": "Baltimore Orioles at Pittsburgh Pirates (English)",
+    "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=l9fUx9TcBlrQz1BQDltDoAtebS8rBSkpDi9nLA88oV0&e=1775108303",
+    "categoryId": 13,
+    "start": "2026-04-03T21:12:00",
+    "original_name_upper": "BALTIMORE ORIOLES AT PITTSBURGH PIRATES",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+  },
+  {
+    "id": "7908",
+    "name": "Indiana Pacers at Charlotte Hornets (English)",
+    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=4yk-yJ3Ayzek6K--8CpRmmLJ6_domnGvw1zFO3rg9k4&e=1775108302",
+    "categoryId": 4,
+    "start": "2026-04-04T00:00:00",
+    "original_name_upper": "INDIANA PACERS AT CHARLOTTE HORNETS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
+  },
+  {
+    "id": "7909",
+    "name": "Minnesota Timberwolves at Philadelphia 76ers (English)",
+    "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=UqKKvliGseML9jwgm6J8lM0iFtFExDrUYRP2G9nb8-k&e=1775108302",
+    "categoryId": 4,
+    "start": "2026-04-04T00:00:00",
+    "original_name_upper": "MINNESOTA TIMBERWOLVES AT PHILADELPHIA 76ERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+  },
+  {
+    "id": "7931",
+    "name": "Philadelphia Flyers at New York Islanders (English)",
+    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=VnMHgRCmUdWXLOSZbLZjUsPuPQGhZhqzNU3j6W4P8uw&e=1775108302",
+    "categoryId": 16,
+    "start": "2026-04-04T00:00:00",
+    "original_name_upper": "PHILADELPHIA FLYERS AT NEW YORK ISLANDERS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
+  },
+  {
+    "id": "7910",
+    "name": "Atlanta Hawks at Brooklyn Nets (English)",
+    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=e3RYPPfbuPAcn0kWBlx3ADLyBcYfnUkdi2U0QVjqkNw&e=1775108302",
+    "categoryId": 4,
+    "start": "2026-04-04T00:30:00",
+    "original_name_upper": "ATLANTA HAWKS AT BROOKLYN NETS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
+  },
+  {
+    "id": "7911",
+    "name": "Chicago Bulls at New York Knicks (English)",
+    "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=tVUw8ywX16I-s661KtpbqIHgL-lxXk_LUln_cQFahMQ&e=1775108302",
+    "categoryId": 4,
+    "start": "2026-04-04T00:30:00",
+    "original_name_upper": "CHICAGO BULLS AT NEW YORK KNICKS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
+  },
+  {
+    "id": "7946",
+    "name": "Milwaukee Brewers at Kansas City Royals (English)",
+    "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=cWZw7hPLJFpSKfiVXza6mDt-R0Be_71PhcJgyfup-lY&e=1775108302",
+    "categoryId": 13,
+    "start": "2026-04-04T00:40:00",
+    "original_name_upper": "MILWAUKEE BREWERS AT KANSAS CITY ROYALS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+  },
+  {
+    "id": "7912",
+    "name": "Utah Jazz at Houston Rockets (English)",
+    "url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?st=pTPHfa76N3KGncZvgpMWUcJd-A1l-J8WGD_sBHmVBe0&e=1775108302",
+    "categoryId": 4,
+    "start": "2026-04-04T01:00:00",
+    "original_name_upper": "UTAH JAZZ AT HOUSTON ROCKETS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png"
+  },
+  {
+    "id": "7913",
+    "name": "Toronto Raptors at Memphis Grizzlies (English)",
+    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=a7xq_JdmyyLxFfzSmMCbJuJrQOgAtvHjwqpv0Ladv0U&e=1775108302",
+    "categoryId": 4,
+    "start": "2026-04-04T01:00:00",
+    "original_name_upper": "TORONTO RAPTORS AT MEMPHIS GRIZZLIES",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+  },
+  {
+    "id": "7914",
+    "name": "Boston Celtics at Milwaukee Bucks (English)",
+    "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=LZXzbrMDVuQ4kBxFKq_WD4B0XWlqZQjTddWUlWvcu5k&e=1775108302",
+    "categoryId": 4,
+    "start": "2026-04-04T01:00:00",
+    "original_name_upper": "BOSTON CELTICS AT MILWAUKEE BUCKS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+  },
+  {
+    "id": "7915",
+    "name": "Orlando Magic at Dallas Mavericks (English)",
+    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=LNOEaacdqDRzFs9S4kIwBGWBLMUDXYTEc0V3C53Q-sM&e=1775108302",
+    "categoryId": 4,
+    "start": "2026-04-04T01:30:00",
+    "original_name_upper": "ORLANDO MAGIC AT DALLAS MAVERICKS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
+  },
+  {
+    "id": "7947",
+    "name": "Seattle Mariners at Los Angeles Angels (English)",
+    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=d-RLRQNI-VCODDr0hyqqIiGhS-vqZR4FzOj-odUVOzA&e=1775108302",
+    "categoryId": 13,
+    "start": "2026-04-04T02:38:00",
+    "original_name_upper": "SEATTLE MARINERS AT LOS ANGELES ANGELS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+  },
+  {
+    "id": "7948",
+    "name": "Atlanta Braves at Arizona Diamondbacks (English)",
+    "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=cXB5uDUmWVLC1m8qtPIm5DcA9a937VHaZQ0i2rhFhKM&e=1775108301",
+    "categoryId": 13,
+    "start": "2026-04-04T02:40:00",
+    "original_name_upper": "ATLANTA BRAVES AT ARIZONA DIAMONDBACKS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+  },
+  {
+    "id": "7949",
+    "name": "Houston Astros at Athletics Athletics (English)",
+    "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=uk4mxbz6j1WsxdmquW_xJYYevDSFG2rdHkt1NBHxA7g&e=1775108301",
+    "categoryId": 13,
+    "start": "2026-04-04T02:40:00",
+    "original_name_upper": "HOUSTON ASTROS AT ATHLETICS ATHLETICS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+  },
+  {
+    "id": "7932",
+    "name": "St. Louis Blues at Anaheim Ducks (English)",
+    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=JTFx7zjAx67PV6PUSx6LDE1fZQpbkL-_0-BwCeRwZZI&e=1775108301",
+    "categoryId": 16,
+    "start": "2026-04-04T03:00:00",
+    "original_name_upper": "ST. LOUIS BLUES AT ANAHEIM DUCKS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
+  },
+  {
+    "id": "7916",
+    "name": "New Orleans Pelicans at Sacramento Kings (English)",
+    "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=hcMEgbPUkbK6nssmbb5FiytIYy072kA6-keGvi1d46I&e=1775108301",
+    "categoryId": 4,
+    "start": "2026-04-04T03:00:00",
+    "original_name_upper": "NEW ORLEANS PELICANS AT SACRAMENTO KINGS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"
+  },
+  {
+    "id": "7950",
+    "name": "New York Mets at San Francisco Giants (English)",
+    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=h6YZM2CVtaxW3-YY-NK4heWxNgfS6LfGQJ-vLfN9X5M&e=1775108300",
+    "categoryId": 13,
+    "start": "2026-04-04T03:15:00",
+    "original_name_upper": "NEW YORK METS AT SAN FRANCISCO GIANTS",
+    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png",
+    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+  },
+  {
+    "id": "7953",
+    "name": "UFC Fight Night: Moicano vs. Duncan (English)",
+    "url": "https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=DUpSkc2LljFYe_m2XoH4aRItfhBhXE5NBV7Nxku70bo&e=1775108300",
+    "categoryId": 17,
+    "start": "2026-04-04T22:00:00",
+    "original_name_upper": "UFC FIGHT NIGHT: MOICANO VS. DUNCAN",
+    "logoTeam1": "data:image/png;base64,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",
+    "logoTeam2": "data:image/png;base64,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"
+  },
+  {
+    "id": "7951",
+    "name": "Illinois Fighting Illini vs UConn Huskies (English)",
+    "url": "https://mainstreams.pro/hls/bvsdgayiqf78.m3u8?st=aRFjCJjrKTsvzsvBq6vKWt91hvMc3DEIWyT9Sa8e_1E&e=1775108300",
+    "categoryId": 26,
+    "start": "2026-04-04T23:00:00",
+    "original_name_upper": "ILLINOIS FIGHTING ILLINI VS UCONN HUSKIES",
+    "logoTeam1": "",
+    "logoTeam2": ""
+  },
+  {
+    "id": "7952",
+    "name": "Michigan Wolverines vs Arizona Wildcats (English)",
+    "url": "https://mainstreams.pro/hls/bvsdgayiqf78.m3u8?st=aRFjCJjrKTsvzsvBq6vKWt91hvMc3DEIWyT9Sa8e_1E&e=1775108300",
+    "categoryId": 26,
+    "start": "2026-04-05T01:45:00",
+    "original_name_upper": "MICHIGAN WOLVERINES VS ARIZONA WILDCATS",
+    "logoTeam1": "",
+    "logoTeam2": ""
   }
 ]
