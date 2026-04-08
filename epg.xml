@@ -1,210 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="8141">
-    <display-name>Milwaukee Brewers at Boston Red Sox (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8141">
-    <title lang="en">Milwaukee Brewers at Boston Red Sox (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8142">
-    <display-name>St. Louis Cardinals at Washington Nationals (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8142">
-    <title lang="en">St. Louis Cardinals at Washington Nationals (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8124">
-    <display-name>Florida Panthers at Montreal Canadiens (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8124">
-    <title lang="en">Florida Panthers at Montreal Canadiens (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8125">
-    <display-name>Tampa Bay Lightning at Ottawa Senators (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8125">
-    <title lang="en">Tampa Bay Lightning at Ottawa Senators (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8126">
-    <display-name>Columbus Blue Jackets at Detroit Red Wings (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8126">
-    <title lang="en">Columbus Blue Jackets at Detroit Red Wings (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8127">
-    <display-name>Philadelphia Flyers at New Jersey Devils (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8127">
-    <title lang="en">Philadelphia Flyers at New Jersey Devils (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8128">
-    <display-name>Boston Bruins at Carolina Hurricanes (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8128">
-    <title lang="en">Boston Bruins at Carolina Hurricanes (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8114">
-    <display-name>Chicago Bulls at Washington Wizards (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8114">
-    <title lang="en">Chicago Bulls at Washington Wizards (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8115">
-    <display-name>Minnesota Timberwolves at Indiana Pacers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8115">
-    <title lang="en">Minnesota Timberwolves at Indiana Pacers (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8143">
-    <display-name>Athletics Athletics at New York Yankees (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8143">
-    <title lang="en">Athletics Athletics at New York Yankees (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8145">
-    <display-name>Los Angeles Dodgers at Toronto Blue Jays (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8145">
-    <title lang="en">Los Angeles Dodgers at Toronto Blue Jays (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8116">
-    <display-name>Milwaukee Bucks at Brooklyn Nets (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8116">
-    <title lang="en">Milwaukee Bucks at Brooklyn Nets (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8117">
-    <display-name>Miami Heat at Toronto Raptors (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8117">
-    <title lang="en">Miami Heat at Toronto Raptors (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8146">
-    <display-name>Detroit Tigers at Minnesota Twins (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8146">
-    <title lang="en">Detroit Tigers at Minnesota Twins (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8103">
-    <display-name>América at Nashville SC (Spanish)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8103">
-    <title lang="en">América at Nashville SC (Spanish)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8113">
-    <display-name>Cruzeiro at Barcelona SC (Spanish)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8113">
-    <title lang="en">Cruzeiro at Barcelona SC (Spanish)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8118">
-    <display-name>Charlotte Hornets at Boston Celtics (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8118">
-    <title lang="en">Charlotte Hornets at Boston Celtics (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8119">
-    <display-name>Utah Jazz at New Orleans Pelicans (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8119">
-    <title lang="en">Utah Jazz at New Orleans Pelicans (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8129">
-    <display-name>Colorado Avalanche at St. Louis Blues (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8129">
-    <title lang="en">Colorado Avalanche at St. Louis Blues (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8130">
-    <display-name>Calgary Flames at Dallas Stars (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8130">
-    <title lang="en">Calgary Flames at Dallas Stars (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8131">
-    <display-name>Seattle Kraken at Minnesota Wild (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8131">
-    <title lang="en">Seattle Kraken at Minnesota Wild (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8147">
-    <display-name>Seattle Mariners at Texas Rangers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8147">
-    <title lang="en">Seattle Mariners at Texas Rangers (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8111">
-    <display-name>Boca Juniors at Universidad Católica (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8111">
-    <title lang="en">Boca Juniors at Universidad Católica (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8111">
-    <display-name>Boca Juniors at Universidad Católica (Spanish)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8111">
-    <title lang="en">Boca Juniors at Universidad Católica (Spanish)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8148">
-    <display-name>Houston Astros at Colorado Rockies (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8148">
-    <title lang="en">Houston Astros at Colorado Rockies (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="8132">
     <display-name>Edmonton Oilers at Utah Mammoth (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8132">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8132">
     <title lang="en">Edmonton Oilers at Utah Mammoth (English)</title>
     <icon src=""/>
   </programme>
@@ -212,7 +12,7 @@
     <display-name>Atlanta Braves at Los Angeles Angels (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8149">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8149">
     <title lang="en">Atlanta Braves at Los Angeles Angels (English)</title>
     <icon src=""/>
   </programme>
@@ -220,39 +20,15 @@
     <display-name>Philadelphia Phillies at San Francisco Giants (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8150">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8150">
     <title lang="en">Philadelphia Phillies at San Francisco Giants (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8133">
-    <display-name>Vegas Golden Knights at Vancouver Canucks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8133">
-    <title lang="en">Vegas Golden Knights at Vancouver Canucks (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8134">
-    <display-name>Nashville Predators at Anaheim Ducks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8134">
-    <title lang="en">Nashville Predators at Anaheim Ducks (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8120">
-    <display-name>Sacramento Kings at Golden State Warriors (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8120">
-    <title lang="en">Sacramento Kings at Golden State Warriors (English)</title>
     <icon src=""/>
   </programme>
   <channel id="8104">
     <display-name>Cruz Azul at LAFC (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8104">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8104">
     <title lang="en">Cruz Azul at LAFC (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -260,7 +36,7 @@
     <display-name>Universitario at Deportes Tolima (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8112">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8112">
     <title lang="en">Universitario at Deportes Tolima (English)</title>
     <icon src=""/>
   </programme>
@@ -268,15 +44,39 @@
     <display-name>Universitario at Deportes Tolima (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8112">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8112">
     <title lang="en">Universitario at Deportes Tolima (Spanish)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8120">
+    <display-name>Sacramento Kings at Golden State Warriors (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8120">
+    <title lang="en">Sacramento Kings at Golden State Warriors (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8133">
+    <display-name>Vegas Golden Knights at Vancouver Canucks (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8133">
+    <title lang="en">Vegas Golden Knights at Vancouver Canucks (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8134">
+    <display-name>Nashville Predators at Anaheim Ducks (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8134">
+    <title lang="en">Nashville Predators at Anaheim Ducks (English)</title>
     <icon src=""/>
   </programme>
   <channel id="8121">
     <display-name>Oklahoma City Thunder at Los Angeles Lakers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8121">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8121">
     <title lang="en">Oklahoma City Thunder at Los Angeles Lakers (English)</title>
     <icon src=""/>
   </programme>
@@ -284,7 +84,7 @@
     <display-name>Dallas Mavericks at LA Clippers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8122">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8122">
     <title lang="en">Dallas Mavericks at LA Clippers (English)</title>
     <icon src=""/>
   </programme>
@@ -292,15 +92,23 @@
     <display-name>Houston Rockets at Phoenix Suns (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8123">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8123">
     <title lang="en">Houston Rockets at Phoenix Suns (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8151">
+    <display-name>San Diego Padres at Pittsburgh Pirates (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8151">
+    <title lang="en">San Diego Padres at Pittsburgh Pirates (English)</title>
     <icon src=""/>
   </programme>
   <channel id="8105">
     <display-name>Real Betis at Braga (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8105">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8105">
     <title lang="en">Real Betis at Braga (English)</title>
     <icon src=""/>
   </programme>
@@ -308,15 +116,47 @@
     <display-name>Real Betis at Braga (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8105">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8105">
     <title lang="en">Real Betis at Braga (Spanish)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8152">
+    <display-name>Kansas City Royals at Cleveland Guardians (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8152">
+    <title lang="en">Kansas City Royals at Cleveland Guardians (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8153">
+    <display-name>Milwaukee Brewers at Boston Red Sox (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8153">
+    <title lang="en">Milwaukee Brewers at Boston Red Sox (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8154">
+    <display-name>Baltimore Orioles at Chicago White Sox (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8154">
+    <title lang="en">Baltimore Orioles at Chicago White Sox (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8155">
+    <display-name>Seattle Mariners at Texas Rangers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8155">
+    <title lang="en">Seattle Mariners at Texas Rangers (English)</title>
     <icon src=""/>
   </programme>
   <channel id="8108">
     <display-name>Atlético Madrid at Barcelona (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8108">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8108">
     <title lang="en">Atlético Madrid at Barcelona (English)</title>
     <icon src=""/>
   </programme>
@@ -324,7 +164,7 @@
     <display-name>Atlético Madrid at Barcelona (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8108">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8108">
     <title lang="en">Atlético Madrid at Barcelona (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -332,7 +172,7 @@
     <display-name>Atlético Madrid at Barcelona (Arabic)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8108">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8108">
     <title lang="en">Atlético Madrid at Barcelona (Arabic)</title>
     <icon src=""/>
   </programme>
@@ -340,7 +180,7 @@
     <display-name>Atlético Madrid at Barcelona (French)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8108">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8108">
     <title lang="en">Atlético Madrid at Barcelona (French)</title>
     <icon src=""/>
   </programme>
@@ -348,7 +188,7 @@
     <display-name>Liverpool at Paris Saint-Germain (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8109">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8109">
     <title lang="en">Liverpool at Paris Saint-Germain (English)</title>
     <icon src=""/>
   </programme>
@@ -356,7 +196,7 @@
     <display-name>Liverpool at Paris Saint-Germain (French)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8109">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8109">
     <title lang="en">Liverpool at Paris Saint-Germain (French)</title>
     <icon src=""/>
   </programme>
@@ -364,7 +204,7 @@
     <display-name>Liverpool at Paris Saint-Germain (Arabic)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8109">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8109">
     <title lang="en">Liverpool at Paris Saint-Germain (Arabic)</title>
     <icon src=""/>
   </programme>
@@ -372,23 +212,191 @@
     <display-name>Liverpool at Paris Saint-Germain (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8109">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8109">
     <title lang="en">Liverpool at Paris Saint-Germain (Spanish)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8156">
+    <display-name>Los Angeles Dodgers at Toronto Blue Jays (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8156">
+    <title lang="en">Los Angeles Dodgers at Toronto Blue Jays (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8157">
+    <display-name>Houston Astros at Colorado Rockies (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8157">
+    <title lang="en">Houston Astros at Colorado Rockies (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8158">
+    <display-name>Philadelphia Phillies at San Francisco Giants (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8158">
+    <title lang="en">Philadelphia Phillies at San Francisco Giants (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8159">
+    <display-name>St. Louis Cardinals at Washington Nationals (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8159">
+    <title lang="en">St. Louis Cardinals at Washington Nationals (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8160">
+    <display-name>Atlanta Braves at Los Angeles Angels (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8160">
+    <title lang="en">Atlanta Braves at Los Angeles Angels (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8161">
+    <display-name>Arizona Diamondbacks at New York Mets (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8161">
+    <title lang="en">Arizona Diamondbacks at New York Mets (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8162">
+    <display-name>Chicago Cubs at Tampa Bay Rays (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8162">
+    <title lang="en">Chicago Cubs at Tampa Bay Rays (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8163">
+    <display-name>Cincinnati Reds at Miami Marlins (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8163">
+    <title lang="en">Cincinnati Reds at Miami Marlins (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8166">
+    <display-name>Atlanta Hawks at Cleveland Cavaliers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8166">
+    <title lang="en">Atlanta Hawks at Cleveland Cavaliers (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8167">
+    <display-name>Minnesota Timberwolves at Orlando Magic (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8167">
+    <title lang="en">Minnesota Timberwolves at Orlando Magic (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8168">
+    <display-name>Milwaukee Bucks at Detroit Pistons (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8168">
+    <title lang="en">Milwaukee Bucks at Detroit Pistons (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8173">
+    <display-name>Buffalo Sabres at New York Rangers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8173">
+    <title lang="en">Buffalo Sabres at New York Rangers (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8164">
+    <display-name>Athletics Athletics at New York Yankees (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8164">
+    <title lang="en">Athletics Athletics at New York Yankees (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8174">
+    <display-name>Washington Capitals at Toronto Maple Leafs (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8174">
+    <title lang="en">Washington Capitals at Toronto Maple Leafs (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8165">
+    <display-name>Detroit Tigers at Minnesota Twins (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8165">
+    <title lang="en">Detroit Tigers at Minnesota Twins (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8169">
+    <display-name>Memphis Grizzlies at Denver Nuggets (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8169">
+    <title lang="en">Memphis Grizzlies at Denver Nuggets (English)</title>
     <icon src=""/>
   </programme>
   <channel id="8106">
     <display-name>Seattle Sounders FC at Tigres UANL (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8106">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8106">
     <title lang="en">Seattle Sounders FC at Tigres UANL (Spanish)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8170">
+    <display-name>Portland Trail Blazers at San Antonio Spurs (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8170">
+    <title lang="en">Portland Trail Blazers at San Antonio Spurs (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8171">
+    <display-name>Oklahoma City Thunder at LA Clippers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8171">
+    <title lang="en">Oklahoma City Thunder at LA Clippers (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8172">
+    <display-name>Dallas Mavericks at Phoenix Suns (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8172">
+    <title lang="en">Dallas Mavericks at Phoenix Suns (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8175">
+    <display-name>Edmonton Oilers at San Jose Sharks (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8175">
+    <title lang="en">Edmonton Oilers at San Jose Sharks (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8176">
+    <display-name>Cerro Porteño at Sporting Cristal (Spanish)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8176">
+    <title lang="en">Cerro Porteño at Sporting Cristal (Spanish)</title>
     <icon src=""/>
   </programme>
   <channel id="8107">
     <display-name>LA Galaxy at Toluca (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260408024427 +0000" stop="20260408084427 +0000" channel="8107">
+  <programme start="20260408051417 +0000" stop="20260408111417 +0000" channel="8107">
     <title lang="en">LA Galaxy at Toluca (Spanish)</title>
     <icon src=""/>
   </programme>
