@@ -1,17 +1,9 @@
 {
   "Football": [
     {
-      "id": "8296",
-      "name": "Nantes at AJ Auxerre (English)",
-      "url": "https://mainstreams.pro/hls/dza5z8f69.m3u8?st=Jpv1EwXAu_tjCPbUOI0CDtG2NtYpmf_ZnfAJm77hdSE&e=1775950689",
-      "start": "2026-04-11T18:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
-    },
-    {
       "id": "8293",
       "name": "Juventus at Atalanta (Italien)",
-      "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=Ok3My5qcdVxBw4nBzcAlgXtCeSgmBlhm78QqPa2GXos&e=1775950688",
+      "url": "https://edge2caster.pro/hls/syaLqucEne4k.m3u8?st=cYP2kSwoKuUngZm1pMFZuG7kTh5qY_YKFu9ZjjzP3b4&e=1775954210",
       "start": "2026-04-11T19:45:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
@@ -19,7 +11,7 @@
     {
       "id": "8289",
       "name": "Atlético Madrid at Sevilla (Spanish)",
-      "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=ODnGG0RyY66uPgq8aGL3_hAWbBIYo27CddZgjnnnC8A&e=1775950687",
+      "url": "https://edgestreams.pro/hls/377qj1h2727.m3u8?st=DhnF4HLdckE2SpWKKk_W-fm4JRkgKkdANiMTIbA_AHc&e=1775954210",
       "start": "2026-04-11T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
@@ -27,7 +19,7 @@
     {
       "id": "8297",
       "name": "Angers at Stade Rennais (English)",
-      "url": "https://mainstreams.pro/hls/dza5z8f69.m3u8?st=0wlIOGEDchcVmPtuXJSeRPwp-WEpuwfwm-O1EJXLbXI&e=1775950687",
+      "url": "https://edgestreams.pro/hls/dza5z8f69.m3u8?st=v1-Elqr_CW3ZL-bLefh8K3kC14XYI2lmCRDu-7YBBGg&e=1775954210",
       "start": "2026-04-11T20:05:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
@@ -35,33 +27,9 @@
   ],
   "Other": [
     {
-      "id": "8228",
-      "name": "Ottawa Senators at New York Islanders (English)",
-      "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=onlv6o6j72NQCkT0aLRinRT25BqNQBYQ0MUwmAzDqfI&e=1775950688",
-      "start": "2026-04-11T18:00:00",
-      "categoryId": 16,
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png"
-    },
-    {
-      "id": "8267",
-      "name": "Arizona Diamondbacks at Philadelphia Phillies (English)",
-      "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=H6z1LSG4mbsEeO-MdI0SsRjaFH2GVsdN53u3a7kbPyA&e=1775950688",
-      "start": "2026-04-11T18:05:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
-    },
-    {
-      "id": "8268",
-      "name": "Miami Marlins at Detroit Tigers (English)",
-      "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=_9FjYiT6qMCGzHv3C1SsFzkzJn2R1UODiWeC--xxg0k&e=1775950688",
-      "start": "2026-04-11T18:10:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
-    },
-    {
       "id": "8298",
       "name": "Tyson Fury vs Arslanbek Makhmudov (English)",
-      "url": "https://mainstreams.pro/hls/hbfhzbfzak46.m3u8?st=ZQ6oWJCild64RjKfflPHJ4nm8mL-IuSTmcQExUb48-E&e=1775950688",
+      "url": "https://edgestreams.pro/hls/hbfhzbfzak46.m3u8?st=UirHLagMOdiB8IXB09swCtgzjW3X3SLD7qhOBwDcWfU&e=1775954210",
       "start": "2026-04-11T19:00:00",
       "categoryId": 18,
       "logo": ""
@@ -69,7 +37,7 @@
     {
       "id": "8269",
       "name": "Pittsburgh Pirates at Chicago Cubs (English)",
-      "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=E3a_5qa8rZ12xc-pBT9CLrFgJcVgD3_EMkD23Yc3DjI&e=1775950688",
+      "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=hUFLyCpmP9yxGjKv5PUYgMKH0PFNIlX-VRkcXdTnWFA&e=1775954210",
       "start": "2026-04-11T19:20:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
@@ -77,7 +45,7 @@
     {
       "id": "8229",
       "name": "Washington Capitals at Pittsburgh Penguins (English)",
-      "url": "https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=g0PcqdpTQbMhlYT88nGcXT7ydMGFbj9_ZZd8GAD4Yzo&e=1775950687",
+      "url": "https://edge2caster.pro/hls/lmdsjkfgv52.m3u8?st=l-0qqdH0HG_frMyhtyDQm3Cyed47zj3v7-OQhH__at8&e=1775954210",
       "start": "2026-04-11T20:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
@@ -85,7 +53,7 @@
     {
       "id": "8270",
       "name": "Minnesota Twins at Toronto Blue Jays (English)",
-      "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=8Qb9XS1qiD39sdG98utUQ4ly9S3PeZWO4fUCeEyVrkM&e=1775950687",
+      "url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?st=_0mBx7w3DKJx-UITGLjjNiWrr1DGohtT3ml5HeHuIGM&e=1775954210",
       "start": "2026-04-11T20:07:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
@@ -93,7 +61,7 @@
     {
       "id": "8230",
       "name": "Edmonton Oilers at Los Angeles Kings (English)",
-      "url": "https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=V6mvSGjpICyR4jiqJHcwzkeqd5YwzPWpTon70eqEU0E&e=1775950687",
+      "url": "https://edgestreams.pro/hls/rtzaeyvhb53.m3u8?st=y6NiEEck77dvQZuuBwt9FRiwApgDxh-NrLGGUaAHo40&e=1775954210",
       "start": "2026-04-11T21:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
@@ -101,7 +69,7 @@
     {
       "id": "8271",
       "name": "Los Angeles Angels at Cincinnati Reds (English)",
-      "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=bOBXr-KqxKWeov_DVvG_jKZwTDE9pkfaDc63knx1pMY&e=1775950686",
+      "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=l6xg8x-o7i8UKgqKWegRBerSHIFeywmz5tBGYl68lVQ&e=1775954209",
       "start": "2026-04-11T21:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
@@ -109,7 +77,7 @@
     {
       "id": "8272",
       "name": "Athletics Athletics at New York Mets (English)",
-      "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=lEaDf1UA4V514aYWWw_fUZhKa0-oAr1nuyRugRFvlz8&e=1775950687",
+      "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=rhil5LAmOfTe6f6ASXtV0N6D2f4KOxJEyj7-R1NKdH8&e=1775954210",
       "start": "2026-04-11T21:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
@@ -117,7 +85,7 @@
     {
       "id": "8273",
       "name": "Chicago White Sox at Kansas City Royals (English)",
-      "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=NvcnxB0AruVpcJ5z_oNazjqa_X15k_eJArw-MKvcgZo&e=1775950687",
+      "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=uiGlBMP0WqE44v4zlxVbsdD7OnTALVjZsz-ZjzfPNhw&e=1775954210",
       "start": "2026-04-11T21:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
@@ -125,7 +93,7 @@
     {
       "id": "8231",
       "name": "New Jersey Devils at Detroit Red Wings (English)",
-      "url": "https://mainstreams.pro/hls/bnvcxwhfg54.m3u8?st=K7x0_TrhqoD5tHxfnfxj_7oh92EPD3zNGXvbmgU_a9A&e=1775950686",
+      "url": "https://edgestreams.pro/hls/bnvcxwhfg54.m3u8?st=vuSUcudwowimFNQa35cXgqICwqdpKrFMP2tlgXRKFCU&e=1775954209",
       "start": "2026-04-11T22:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
@@ -133,7 +101,7 @@
     {
       "id": "8232",
       "name": "St. Louis Blues at Chicago Blackhawks (English)",
-      "url": "https://mainstreams.pro/hls/sdezqfza55.m3u8?st=EA-F70S8nqBh0KSMVOEs5lQAZHQ9Bh6kTeGIIH5RKgc&e=1775950686",
+      "url": "https://edge2caster.pro/hls/sdezqfza55.m3u8?st=yxhRu7Hd3-9qzPKJQnlThuvSVHq_Fow-o6pj_6v7prU&e=1775954209",
       "start": "2026-04-11T22:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
@@ -141,7 +109,7 @@
     {
       "id": "8233",
       "name": "Minnesota Wild at Nashville Predators (English)",
-      "url": "https://mainstreams.pro/hls/poiryezafv56.m3u8?st=7umdcznSrZsNndM3EBjyCbhm2gJ5YJfYRTzjwpRrRRY&e=1775950686",
+      "url": "https://edgestreams.pro/hls/poiryezafv56.m3u8?st=fHxxdjsGQnuiG7TGss0qI4F09B3fQHBnPhaxdDM4BWw&e=1775954209",
       "start": "2026-04-11T22:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png"
@@ -149,7 +117,7 @@
     {
       "id": "8234",
       "name": "New York Rangers at Dallas Stars (English)",
-      "url": "https://mainstreams.pro/hls/rzavbdyua57.m3u8?st=95rZgaBiH1iEE-JuzYdRVFm7Wq_ujJV7J9WuQrYypg4&e=1775950686",
+      "url": "https://edge2caster.pro/hls/rzavbdyua57.m3u8?st=BWO067UeQfk9e1t6qgVFd9WraHKL6Dc73kicdxqiZNY&e=1775954209",
       "start": "2026-04-11T22:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
@@ -157,7 +125,7 @@
     {
       "id": "8235",
       "name": "Carolina Hurricanes at Utah Mammoth (English)",
-      "url": "https://mainstreams.pro/hls/earzfddshg58.m3u8?st=PQaU8e06Fp4obM7Hc80aK3qTlmJ7b6zgncm6vXDLOw0&e=1775950686",
+      "url": "https://edgestreams.pro/hls/earzfddshg58.m3u8?st=pXo05cRqy29U3V-VdMJd0GiXKN0T-kvKlzw0xZP1QUs&e=1775954209",
       "start": "2026-04-11T22:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png"
@@ -165,7 +133,7 @@
     {
       "id": "8210",
       "name": "UFC 327: Procházka vs. Ulberg (English)",
-      "url": "https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=LnceAx9FrTSzxZE90tR-HpMHYWgaxW2_5iY1EOkd_9E&e=1775950686",
+      "url": "https://edge2caster.pro/hls/zeuryuegn48.m3u8?st=oKXz5xlkSUbjdVSHPkDHpX5K7xymN0AoTq9G06TkXHk&e=1775954209",
       "start": "2026-04-11T22:30:00",
       "categoryId": 17,
       "logo": "data:image/png;base64,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"
@@ -173,7 +141,7 @@
     {
       "id": "8210",
       "name": "UFC 327: Procházka vs. Ulberg (English)",
-      "url": "https://mainstreams.pro/hls/oeenzgezcz47.m3u8?st=5Hz_TWv-d5TQ1tQnXv4cVVXCProCaSzlyuSE8AaDyE0&e=1775950686",
+      "url": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?st=bRTTQ4MByuhgIcgcX-iWAwvvvLDei61mBkY9pWNVr2o&e=1775954209",
       "start": "2026-04-11T22:30:00",
       "categoryId": 17,
       "logo": "data:image/png;base64,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"
@@ -181,15 +149,23 @@
     {
       "id": "8274",
       "name": "New York Yankees at Tampa Bay Rays (English)",
-      "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=40IMZ-_GVZz6Aik1Rqg82JxffLLdQbQzuKwWNos3Rxc&e=1775950685",
+      "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=rI66KuqAcym9QwtS7LtqgDHNlgyaC3PIzmYZzVdC-TI&e=1775954209",
       "start": "2026-04-11T23:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
     },
     {
+      "id": "8300",
+      "name": "Vito Mielnicki Jr vs Omar Ulises Huerta (English)",
+      "url": "https://edgestreams.pro/hls/eyrennte44.m3u8?st=TKUa5DRsEcE9S0lCi_XCFpsCIT4MwWxFHapBKWQzozw&e=1775954208",
+      "start": "2026-04-12T00:00:00",
+      "categoryId": 18,
+      "logo": ""
+    },
+    {
       "id": "8236",
       "name": "Florida Panthers at Toronto Maple Leafs (English)",
-      "url": "https://mainstreams.pro/hls/bvnzadfvyt59.m3u8?st=5UCvvA0nj2_ohG0O364FZDf6yF4Bl3RbjIYrAhgsRLs&e=1775950685",
+      "url": "https://edge2caster.pro/hls/bvnzadfvyt59.m3u8?st=nI_UDVVtU6S61jd4KWpswei_xOlVqPHJn4JcLbAUA0M&e=1775954208",
       "start": "2026-04-12T00:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
@@ -197,7 +173,7 @@
     {
       "id": "8237",
       "name": "Columbus Blue Jackets at Montreal Canadiens (English)",
-      "url": "https://mainstreams.pro/hls/cwxvbnfghq60.m3u8?st=_DWJxPWK6EgFXenu9PdQxramP5Aqpfnn5r_-QH-YoJA&e=1775950685",
+      "url": "https://edgestreams.pro/hls/cwxvbnfghq60.m3u8?st=JYzWX6i0QaoIeN3nrGXTBxYDWR6k8Ob-FvQ45HuHrNM&e=1775954208",
       "start": "2026-04-12T00:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
@@ -205,7 +181,7 @@
     {
       "id": "8238",
       "name": "Philadelphia Flyers at Winnipeg Jets (English)",
-      "url": "https://mainstreams.pro/hls/gfhfgsqda61.m3u8?st=yeHceTMmaUVYvkH1EKCZsQ2JLBASYPrVOujfXLyAWe8&e=1775950685",
+      "url": "https://mainstreams.pro/hls/gfhfgsqda61.m3u8?st=Rs8Sd-S6_5ZLTjz8VMzdjD0-0S2uQv0i65aJzAUpdvw&e=1775954208",
       "start": "2026-04-12T00:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
@@ -213,23 +189,15 @@
     {
       "id": "8239",
       "name": "Calgary Flames at Seattle Kraken (English)",
-      "url": "https://mainstreams.pro/hls/wxdaztfhd62.m3u8?st=m6EdFmtHOGko6eUsjdP2sRLmHshsjQElDhyf4Zk3XCg&e=1775950685",
+      "url": "https://edge2caster.pro/hls/wxdaztfhd62.m3u8?st=1mSQW5AY4jS0iDxi_gQNKAotS0MEP7H_Fh-9V46A2ec&e=1775954208",
       "start": "2026-04-12T00:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"
     },
     {
-      "id": "8300",
-      "name": "Vito Mielnicki Jr vs Omar Ulises Huerta (English)",
-      "url": "https://mainstreams.pro/hls/eyrennte44.m3u8?st=9SvqjoojqMmIy32PgaDFF4r96Wgcb3QuAxoq5l9pRug&e=1775950685",
-      "start": "2026-04-12T00:00:00",
-      "categoryId": 18,
-      "logo": ""
-    },
-    {
       "id": "8275",
       "name": "Washington Nationals at Milwaukee Brewers (English)",
-      "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=_qowtvL-gr2Deuf84Axrdptp1PORvsX0UugMdQFAb40&e=1775950685",
+      "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=XT8tV0G80L_fvnaiVyGgDIBZmDD8NX6cQxkaok8n4Ck&e=1775954208",
       "start": "2026-04-12T00:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
@@ -237,7 +205,7 @@
     {
       "id": "8276",
       "name": "Cleveland Guardians at Atlanta Braves (English)",
-      "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=e_HHR77-3E3NWF0ZLQoE424H84WrDyPVgIBLSqpNAYk&e=1775950684",
+      "url": "https://edgestreams.pro/hls/fskjanach24.m3u8?st=GhxByBtQGE6qEYfBFsvz4RufYOvDZPkwT80sT8QSpQM&e=1775954207",
       "start": "2026-04-12T00:15:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
@@ -245,7 +213,7 @@
     {
       "id": "8277",
       "name": "San Francisco Giants at Baltimore Orioles (English)",
-      "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=Cb0VEZj7IlAVH0zSn4nh8tt59Xpzx4pf1zydYNNmcZY&e=1775950684",
+      "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?st=sc-H0q3ou5uxaCcycQv5nYgr5z_LT-IyVmVxCRzJPkg&e=1775954207",
       "start": "2026-04-12T00:15:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
@@ -253,7 +221,7 @@
     {
       "id": "8278",
       "name": "Boston Red Sox at St. Louis Cardinals (English)",
-      "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=TorqmWiUg5k1bePC2FUAWIV-uU5SnBQkTW2yTlQSWMU&e=1775950685",
+      "url": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=ei3S0_LjrM4WqcyzPCHynoNGsQ0T7gSq1Fcrh1-C9Gg&e=1775954208",
       "start": "2026-04-12T00:15:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
@@ -261,7 +229,7 @@
     {
       "id": "8240",
       "name": "Vegas Golden Knights at Colorado Avalanche (English)",
-      "url": "https://mainstreams.pro/hls/wxcgfaiiog63.m3u8?st=0FpEwOhdwZGMjqndpDO_BdzwjN728v4ot9I3isRqkgc&e=1775950684",
+      "url": "https://edgestreams.pro/hls/wxcgfaiiog63.m3u8?st=nJeHx2--ASonAowDwXcwD1DDHGCipIQPoNHTCf9lkGY&e=1775954207",
       "start": "2026-04-12T01:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
@@ -269,7 +237,7 @@
     {
       "id": "8279",
       "name": "Colorado Rockies at San Diego Padres (English)",
-      "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=JvG6CO1ioP55VFam_VzG4SXIOK3YpZOUhdmX66rzCnk&e=1775950684",
+      "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=jnJM9BuhPQEycK1SxRQf0n58BGeIeuhjlohImRWsrdg&e=1775954207",
       "start": "2026-04-12T01:40:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
@@ -277,7 +245,7 @@
     {
       "id": "8280",
       "name": "Texas Rangers at Los Angeles Dodgers (English)",
-      "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=QnTOmJMDRV_-3zG-XimUbVABGIes4vXSVIIvNoW7atU&e=1775950683",
+      "url": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=ae9bq3k_---1q1-0n_g-HETfFtBwDfVcGp_l-Y7CVnE&e=1775954207",
       "start": "2026-04-12T02:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
@@ -285,7 +253,7 @@
     {
       "id": "8281",
       "name": "Houston Astros at Seattle Mariners (English)",
-      "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=TqGHqEaLdY54JFSH-5XuOtYcLHUpYzcaA3kJpWwCblo&e=1775950683",
+      "url": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=yG9phnrLY6z-zU_54_7gTrj6Q6Lww2VQfweto1GP0yM&e=1775954207",
       "start": "2026-04-12T02:40:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
@@ -293,7 +261,7 @@
     {
       "id": "8241",
       "name": "Vancouver Canucks at San Jose Sharks (English)",
-      "url": "https://mainstreams.pro/hls/gfsqdqsjhdaiu64.m3u8?st=pX1qZFXZK3a2lSe6xm6DWFxHpS6aU-Kw44KNCoLXBgE&e=1775950683",
+      "url": "https://edgestreams.pro/hls/gfsqdqsjhdaiu64.m3u8?st=BXcQyDLIEHq1ow7u5t8zKoEb-8wMUDCfdPlj_REUbPQ&e=1775954207",
       "start": "2026-04-12T03:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
@@ -301,7 +269,7 @@
     {
       "id": "8299",
       "name": "BKFC Fight Night Honolulu : Maki Pitolo vs Harry Coltrane (English)",
-      "url": "https://mainstreams.pro/hls/hezfnezkfzk45.m3u8?st=tGeuk43VclHg8g1wSGJWWOZ8-Gv-le9dv9CREtOFi6g&e=1775950683",
+      "url": "https://mainstreams.pro/hls/hezfnezkfzk45.m3u8?st=g7nYeQSANfBekvNkNCwTXIUMDKNTSbW9id3CLKdE6H8&e=1775954207",
       "start": "2026-04-12T04:00:00",
       "categoryId": 18,
       "logo": ""
