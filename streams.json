@@ -1,38 +1,8 @@
 [
   {
-    "id": "8341",
-    "name": "Arizona Diamondbacks at Philadelphia Phillies (English)",
-    "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=t3t8__RblXT-dQNTibxz0qEgXhc1xB4ye5RcDkOjZyw&e=1776037270",
-    "categoryId": 13,
-    "start": "2026-04-12T18:35:00",
-    "original_name_upper": "ARIZONA DIAMONDBACKS AT PHILADELPHIA PHILLIES",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
-  },
-  {
-    "id": "8342",
-    "name": "San Francisco Giants at Baltimore Orioles (English)",
-    "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=tH5ocNKYwKKejqh6hKW9uHOkalv7a2e3YQE73vQCud4&e=1776037270",
-    "categoryId": 13,
-    "start": "2026-04-12T18:35:00",
-    "original_name_upper": "SAN FRANCISCO GIANTS AT BALTIMORE ORIOLES",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-  },
-  {
-    "id": "8343",
-    "name": "Minnesota Twins at Toronto Blue Jays (English)",
-    "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=z3HNl9GnnVrjfQhuIT34QHcrOCgPizgxC0SkLeuzL8Y&e=1776037270",
-    "categoryId": 13,
-    "start": "2026-04-12T18:37:00",
-    "original_name_upper": "MINNESOTA TWINS AT TORONTO BLUE JAYS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
-  },
-  {
     "id": "8344",
     "name": "Los Angeles Angels at Cincinnati Reds (English)",
-    "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=4aHg9_RGYseTC1ZhIzHGDfrwjqsLBO-NyPvgiU1SMW0&e=1776037270",
+    "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=ukzKJBAJMa3F2GkEaTcnojn8t8zrJywTzq4AGMr_PYY&e=1776040738",
     "categoryId": 13,
     "start": "2026-04-12T18:40:00",
     "original_name_upper": "LOS ANGELES ANGELS AT CINCINNATI REDS",
@@ -42,7 +12,7 @@
   {
     "id": "8345",
     "name": "Athletics Athletics at New York Mets (English)",
-    "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=s9AS2Fws_J723MyWT9PCS8aQNEU25VgAAq0cA59o0Pc&e=1776037270",
+    "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=BsREjnwyR9xCXaWTzFSGBduE8QnYyZNw4PE4XPMM_CE&e=1776040738",
     "categoryId": 13,
     "start": "2026-04-12T18:40:00",
     "original_name_upper": "ATHLETICS ATHLETICS AT NEW YORK METS",
@@ -52,7 +22,7 @@
   {
     "id": "8346",
     "name": "Miami Marlins at Detroit Tigers (English)",
-    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=Y0_3oHCq7HuY4W3jWSQhmR793P39KnwKY9Ii9XuQADM&e=1776037270",
+    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=SaMaw2volry8kSOkvyH5ymsUCCJC3DYoYQsRHmUFCt0&e=1776040738",
     "categoryId": 13,
     "start": "2026-04-12T18:40:00",
     "original_name_upper": "MIAMI MARLINS AT DETROIT TIGERS",
@@ -62,7 +32,7 @@
   {
     "id": "8347",
     "name": "New York Yankees at Tampa Bay Rays (English)",
-    "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=HnQnZmHKMp_LrrYEqPHEb9y2bmvTH6KPJiUK1U4UF7g&e=1776037270",
+    "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=h9s2LzstWNSmsUDQ53GLoJh1uJmuQx6hIIR18p5OUM8&e=1776040738",
     "categoryId": 13,
     "start": "2026-04-12T18:40:00",
     "original_name_upper": "NEW YORK YANKEES AT TAMPA BAY RAYS",
@@ -72,7 +42,7 @@
   {
     "id": "8348",
     "name": "Chicago White Sox at Kansas City Royals (English)",
-    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=iB8M2rYIbRe0vudXVskAYhW16kAiggZdDE7qCSAPRGw&e=1776037270",
+    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=Qs382CoLDAcx0Ear8U1GJqR9Mgp5uuuvz2D1X2ZDmJQ&e=1776040738",
     "categoryId": 13,
     "start": "2026-04-12T19:10:00",
     "original_name_upper": "CHICAGO WHITE SOX AT KANSAS CITY ROYALS",
@@ -82,7 +52,7 @@
   {
     "id": "8349",
     "name": "Washington Nationals at Milwaukee Brewers (English)",
-    "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=3qAW9XdVfvee1h4XrQYW9_bJx4JR2YKctcdSIQQ-jwo&e=1776037270",
+    "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=In5bOP82nsT_B_TlRFSmCtFaY3U-L1X3Hr-ykWbeN_E&e=1776040738",
     "categoryId": 13,
     "start": "2026-04-12T19:10:00",
     "original_name_upper": "WASHINGTON NATIONALS AT MILWAUKEE BREWERS",
@@ -92,7 +62,7 @@
   {
     "id": "8350",
     "name": "Boston Red Sox at St. Louis Cardinals (English)",
-    "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=zmIhw6lU_Tx7Wi6mXx5yBXLplicA86qRNxrN6L8LACY&e=1776037270",
+    "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?st=XbbFUQHVzQ-neBC-7_o9y-Rs5TrKVqUZ_XcdPWC3hro&e=1776040738",
     "categoryId": 13,
     "start": "2026-04-12T19:15:00",
     "original_name_upper": "BOSTON RED SOX AT ST. LOUIS CARDINALS",
@@ -102,7 +72,7 @@
   {
     "id": "8351",
     "name": "Pittsburgh Pirates at Chicago Cubs (English)",
-    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=KJyEDP_v3upOUNPNfpnh0knJ7MXc3yVqmhQaSRj5Ndg&e=1776037269",
+    "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?st=GH7NMX-Xjo_ChD6-zjGf-wc2o3bXXP3b_ucPtcrQflw&e=1776040738",
     "categoryId": 13,
     "start": "2026-04-12T19:20:00",
     "original_name_upper": "PITTSBURGH PIRATES AT CHICAGO CUBS",
@@ -112,7 +82,7 @@
   {
     "id": "8314",
     "name": "Internazionale at Como (Italien)",
-    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=UIoiKBcrbX9EJGDtw5Jl3gEm9vaMRDKEnRzKvVCAJao&e=1776037269",
+    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=gaBu_tnV9vzaZCASapHcgfsVox7e1FFPtAbzIWTKEmo&e=1776040738",
     "categoryId": 9,
     "start": "2026-04-12T19:45:00",
     "original_name_upper": "INTERNAZIONALE AT COMO",
@@ -122,7 +92,7 @@
   {
     "id": "8318",
     "name": "Lorient at Lyon (English)",
-    "url": "https://mainstreams.pro/hls/dza5z8f69.m3u8?st=pZ1SJ9Iaj0wPsl6JoZzA0rsIdyNZhKGMaKNt1qVa2s4&e=1776037269",
+    "url": "https://mainstreams.pro/hls/dza5z8f69.m3u8?st=H-w-jmkyia-97vtDXaT36HSHbU5d_auD6EX7XwyH7-0&e=1776040738",
     "categoryId": 9,
     "start": "2026-04-12T19:45:00",
     "original_name_upper": "LORIENT AT LYON",
@@ -132,7 +102,7 @@
   {
     "id": "8309",
     "name": "Villarreal at Athletic Club (Spanish)",
-    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=LJLqESeRgAF6DYaony2KP5IpofuXaTNTUyxkoKuuzbM&e=1776037269",
+    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=PvfZ_MRsmS8juW7YickKViIDbD7UORnHKrDzpYX_6qg&e=1776040737",
     "categoryId": 9,
     "start": "2026-04-12T20:00:00",
     "original_name_upper": "VILLARREAL AT ATHLETIC CLUB",
@@ -142,7 +112,7 @@
   {
     "id": "8335",
     "name": "Pittsburgh Penguins at Washington Capitals (English)",
-    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=gO25ulhn6N9r2ZkH9C-9Wm0X1P5nGdje7haX09PdMfc&e=1776037269",
+    "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8?st=wIzakgz2Zh0IhTVXp6KPY4ztSAKO9Xc4nbItuE3mmI4&e=1776040738",
     "categoryId": 16,
     "start": "2026-04-12T20:00:00",
     "original_name_upper": "PITTSBURGH PENGUINS AT WASHINGTON CAPITALS",
@@ -152,7 +122,7 @@
   {
     "id": "8352",
     "name": "Colorado Rockies at San Diego Padres (English)",
-    "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=iui5SxQpDIEBDTjo6fuYuMx3zqz9_AewRSIl7-5XKdk&e=1776037269",
+    "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?st=5UDhMZbpoG85wRhFHitm_GQSmcetodrjEXm-OYqYtCs&e=1776040737",
     "categoryId": 13,
     "start": "2026-04-12T21:10:00",
     "original_name_upper": "COLORADO ROCKIES AT SAN DIEGO PADRES",
@@ -162,7 +132,7 @@
   {
     "id": "8353",
     "name": "Houston Astros at Seattle Mariners (English)",
-    "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=O1pVhQgzSbf1LOFnV40uRG8PF93zNQa2oELwAKwueRk&e=1776037269",
+    "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=q5yakx_ZW3hqiq1uMu9rWlsrlrj0Dmej7X8-tXkURAA&e=1776040737",
     "categoryId": 13,
     "start": "2026-04-12T21:10:00",
     "original_name_upper": "HOUSTON ASTROS AT SEATTLE MARINERS",
@@ -172,7 +142,7 @@
   {
     "id": "8354",
     "name": "Texas Rangers at Los Angeles Dodgers (English)",
-    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=MlLUpDdz4fDmna37-LsRmruP37UHo_T_S8uhWjM-yro&e=1776037269",
+    "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=VVybBWHLi38r33F3PzqEpZiQYBjlHXUX7hYsVdeMzQ4&e=1776040737",
     "categoryId": 13,
     "start": "2026-04-12T21:10:00",
     "original_name_upper": "TEXAS RANGERS AT LOS ANGELES DODGERS",
@@ -182,7 +152,7 @@
   {
     "id": "8336",
     "name": "Montreal Canadiens at New York Islanders (English)",
-    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=1l1-lFP_Bnagf8OCNPe4aqMe_7dh36TUDTkMyLivc_k&e=1776037268",
+    "url": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=H0sojy5i0_Rg0WtN1lYPuU4cRoSZKI989w3vj71zj5U&e=1776040736",
     "categoryId": 16,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "MONTREAL CANADIENS AT NEW YORK ISLANDERS",
@@ -192,7 +162,7 @@
   {
     "id": "8337",
     "name": "Boston Bruins at Columbus Blue Jackets (English)",
-    "url": "https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=SGE2knlEtRNwHSprLd4MnIOe52Tk1M1LOVS1SSuZBuU&e=1776037268",
+    "url": "https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=9WhwsfrMvJ_7Ixmz6epIDDDQLw9Tc6Zp5Wr2C6HiKsE&e=1776040736",
     "categoryId": 16,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "BOSTON BRUINS AT COLUMBUS BLUE JACKETS",
@@ -202,7 +172,7 @@
   {
     "id": "8320",
     "name": "Orlando Magic at Boston Celtics (English)",
-    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=yS1NEpkqUIVzCXv9p1K6yvCFRnL1v1X2B_0UaTU2IKU&e=1776037268",
+    "url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=86C7b-tat8so8lRwzXcaSQTNvJsiVHpelrQov81GKKY&e=1776040736",
     "categoryId": 4,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "ORLANDO MAGIC AT BOSTON CELTICS",
@@ -212,7 +182,7 @@
   {
     "id": "8321",
     "name": "Washington Wizards at Cleveland Cavaliers (English)",
-    "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=7cJf0dVhw7SmVrRoytXj6TQRfOUwnsQ6ajURyQ1fly8&e=1776037268",
+    "url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=9YY7YBd1t0v1HawGIrCauINDJUoaJeVDXzLnd0xlzAU&e=1776040737",
     "categoryId": 4,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "WASHINGTON WIZARDS AT CLEVELAND CAVALIERS",
@@ -222,7 +192,7 @@
   {
     "id": "8322",
     "name": "Detroit Pistons at Indiana Pacers (English)",
-    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=2x46aJUTFACctP7bFoiAo1URs9p42kQqocUSststTRk&e=1776037268",
+    "url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?st=ICMX5H4DogLnVw8jUPmjYT_Uh8e14-wvrBcuJqGhegA&e=1776040737",
     "categoryId": 4,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "DETROIT PISTONS AT INDIANA PACERS",
@@ -232,7 +202,7 @@
   {
     "id": "8323",
     "name": "Atlanta Hawks at Miami Heat (English)",
-    "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=6QqbvadaHUGITejtz2Lbxej8oCfY65RTDWnmVLZC-X8&e=1776037269",
+    "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?st=4JhigvouOy97g8N0JF3qY7y0WzKSf2I37g_YyDzORMA&e=1776040737",
     "categoryId": 4,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "ATLANTA HAWKS AT MIAMI HEAT",
@@ -242,7 +212,7 @@
   {
     "id": "8324",
     "name": "Charlotte Hornets at New York Knicks (English)",
-    "url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?st=dvnPTTaXL7A5h92YDQeKMSQkTfcNnTi6lTa4v-qbmIg&e=1776037269",
+    "url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?st=CAwqWdTO6oET-PgpRyepSvye3ZWJMyPZvOVWteuGYZY&e=1776040737",
     "categoryId": 4,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "CHARLOTTE HORNETS AT NEW YORK KNICKS",
@@ -252,7 +222,7 @@
   {
     "id": "8325",
     "name": "Milwaukee Bucks at Philadelphia 76ers (English)",
-    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=cDhffQlySLbjzbhJiyg7OKXPKEaIPV2FCW899X-iF8o&e=1776037269",
+    "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=6Sl_VnNIL02ENPYvD27e1Ol7gSJEE3TomSUVvK89TCY&e=1776040737",
     "categoryId": 4,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "MILWAUKEE BUCKS AT PHILADELPHIA 76ERS",
@@ -262,7 +232,7 @@
   {
     "id": "8326",
     "name": "Brooklyn Nets at Toronto Raptors (English)",
-    "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=URrixO43sThW7JBd_u_jtOv1T6MvkSZaQ5INwceYvIU&e=1776037269",
+    "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=YDaJr_IP53ZGgazFWG3oqpMtXGO2y9tELH5kCXO3-eM&e=1776040737",
     "categoryId": 4,
     "start": "2026-04-12T23:00:00",
     "original_name_upper": "BROOKLYN NETS AT TORONTO RAPTORS",
@@ -272,7 +242,7 @@
   {
     "id": "8338",
     "name": "Ottawa Senators at New Jersey Devils (English)",
-    "url": "https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=2STyEZacK0fMHFTMRP6l7GlXiAhZK7uCfEocnW935Cw&e=1776037268",
+    "url": "https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?st=f-Kj-lWTK-iQBoFbg_bYh4KOdMNBJ4L3ARvx6RtIyII&e=1776040736",
     "categoryId": 16,
     "start": "2026-04-13T00:00:00",
     "original_name_upper": "OTTAWA SENATORS AT NEW JERSEY DEVILS",
@@ -282,7 +252,7 @@
   {
     "id": "8355",
     "name": "Cleveland Guardians at Atlanta Braves (English)",
-    "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=VJPNhhvODHf8U2erUqfeG3aMUOH4p_utE1P38tGJMXA&e=1776037268",
+    "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=9LzP-ITCy0OIwZY_eycahs1X8GC-b0Eye5T-a0qgUYo&e=1776040736",
     "categoryId": 13,
     "start": "2026-04-13T00:20:00",
     "original_name_upper": "CLEVELAND GUARDIANS AT ATLANTA BRAVES",
@@ -292,7 +262,7 @@
   {
     "id": "8339",
     "name": "Vancouver Canucks at Anaheim Ducks (English)",
-    "url": "https://mainstreams.pro/hls/bnvcxwhfg54.m3u8?st=AFCSATdSlHS-lT2BlKLdcOxD_-jC-5kN60uN0rZP4nw&e=1776037268",
+    "url": "https://mainstreams.pro/hls/bnvcxwhfg54.m3u8?st=qTiqwVRjfUVPMRgupS3fRJmPAAbk_k49iQVW9Rs0GYk&e=1776040736",
     "categoryId": 16,
     "start": "2026-04-13T01:00:00",
     "original_name_upper": "VANCOUVER CANUCKS AT ANAHEIM DUCKS",
@@ -302,7 +272,7 @@
   {
     "id": "8327",
     "name": "Chicago Bulls at Dallas Mavericks (English)",
-    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=WD3FCRU-bOIHGht09v38PhnTkbMPEwdGBfed4heDrjQ&e=1776037267",
+    "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=omXeBrcKJJmnEMvgTwKEHilLViz8gwueERBVDRUvLAs&e=1776040735",
     "categoryId": 4,
     "start": "2026-04-13T01:30:00",
     "original_name_upper": "CHICAGO BULLS AT DALLAS MAVERICKS",
@@ -312,7 +282,7 @@
   {
     "id": "8328",
     "name": "Memphis Grizzlies at Houston Rockets (English)",
-    "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=NiFg2xrECrJMphn9zX8rOORwoP4wMPWpXXUVo40GHo8&e=1776037267",
+    "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=GR56GDrqUOQCqW9TOQhxqcNJmmTgqv3YXRy6kz0H2JI&e=1776040735",
     "categoryId": 4,
     "start": "2026-04-13T01:30:00",
     "original_name_upper": "MEMPHIS GRIZZLIES AT HOUSTON ROCKETS",
@@ -322,7 +292,7 @@
   {
     "id": "8329",
     "name": "New Orleans Pelicans at Minnesota Timberwolves (English)",
-    "url": "https://mainstreams.pro/hls/yjtzafghvjza74.m3u8?st=4Xdxv08IdB-IZIxB3k4Ni5ZOdZvu1f0FOKUBNYnDZvs&e=1776037267",
+    "url": "https://mainstreams.pro/hls/yjtzafghvjza74.m3u8?st=hCxI00qf6Op4C_8V4BNhvmG2wBq_5sNoZ0pGB1DJgK8&e=1776040735",
     "categoryId": 4,
     "start": "2026-04-13T01:30:00",
     "original_name_upper": "NEW ORLEANS PELICANS AT MINNESOTA TIMBERWOLVES",
@@ -332,7 +302,7 @@
   {
     "id": "8330",
     "name": "Phoenix Suns at Oklahoma City Thunder (Englishq)",
-    "url": "https://mainstreams.pro/hls/sqhdghzavbxu75.m3u8?st=GYD8yzgZIMnnyBaeHg6sAIYRM6rYTba38SIy9GJXL3Q&e=1776037267",
+    "url": "https://mainstreams.pro/hls/sqhdghzavbxu75.m3u8?st=yNv3QfKLSjSNBOYPRNixX6Jo4MqFgl9d0XmYi6bIJ7w&e=1776040735",
     "categoryId": 4,
     "start": "2026-04-13T01:30:00",
     "original_name_upper": "PHOENIX SUNS AT OKLAHOMA CITY THUNDER",
@@ -342,7 +312,7 @@
   {
     "id": "8331",
     "name": "Denver Nuggets at San Antonio Spurs (English)",
-    "url": "https://mainstreams.pro/hls/xcsfadafgzfg76.m3u8?st=pTVMbWUH_W0Z9Eq813BnK1ywTWGerQRLrZKnB-wL_KQ&e=1776037267",
+    "url": "https://mainstreams.pro/hls/xcsfadafgzfg76.m3u8?st=SPJECfxQPjf6p9w-6DS9N2smP-RT5KwOGfnnfFWFpwc&e=1776040736",
     "categoryId": 4,
     "start": "2026-04-13T01:30:00",
     "original_name_upper": "DENVER NUGGETS AT SAN ANTONIO SPURS",
@@ -352,7 +322,7 @@
   {
     "id": "8332",
     "name": "Utah Jazz at Los Angeles Lakers (English)",
-    "url": "https://mainstreams.pro/hls/rteztryzathc77.m3u8?st=zwC_MHvvfe_8qfzgrIkGRH2_WqdN9pDFh9-N0umlOok&e=1776037268",
+    "url": "https://mainstreams.pro/hls/rteztryzathc77.m3u8?st=ABuL5e_7Q3mCGbKvUyOR3IVqaLXHd-5Scm9L0cVYTHM&e=1776040736",
     "categoryId": 4,
     "start": "2026-04-13T01:30:00",
     "original_name_upper": "UTAH JAZZ AT LOS ANGELES LAKERS",
@@ -362,7 +332,7 @@
   {
     "id": "8333",
     "name": "Golden State Warriors at LA Clippers (English)",
-    "url": "https://mainstreams.pro/hls/bvsdgayiqf78.m3u8?st=IilJ1ppQZqLK5Vh6Xt8Uh-p0zVpxFgnTiOrS0ak8LVE&e=1776037268",
+    "url": "https://mainstreams.pro/hls/bvsdgayiqf78.m3u8?st=MeAVeNbR0tYsjNV2I5nb5YsA9agPlPDZOyRQEPV0n9Y&e=1776040736",
     "categoryId": 4,
     "start": "2026-04-13T01:30:00",
     "original_name_upper": "GOLDEN STATE WARRIORS AT LA CLIPPERS",
@@ -372,7 +342,7 @@
   {
     "id": "8334",
     "name": "Sacramento Kings at Portland Trail Blazers (English)",
-    "url": "https://mainstreams.pro/hls/omljkhqsdag79.m3u8?st=L8TYVAkrYBfULYLTveIj6c4xBBHBBTVwpwBAYvkgxJI&e=1776037268",
+    "url": "https://mainstreams.pro/hls/omljkhqsdag79.m3u8?st=O7QSZnykYCbshb5t3EqAgV_5Q-EfA3oYw5CU2wkes8A&e=1776040736",
     "categoryId": 4,
     "start": "2026-04-13T01:30:00",
     "original_name_upper": "SACRAMENTO KINGS AT PORTLAND TRAIL BLAZERS",
@@ -382,7 +352,7 @@
   {
     "id": "8340",
     "name": "Utah Mammoth at Calgary Flames (English)",
-    "url": "https://mainstreams.pro/hls/sdezqfza55.m3u8?st=lT8pyxbL8-HhxcbI_eCZbY5z4NsKMdSxqlKAaz4gs3c&e=1776037266",
+    "url": "https://mainstreams.pro/hls/sdezqfza55.m3u8?st=BEHHnMLYF1POBqelSxb-rv6pkLs_FhmKtcgoK0yo3I4&e=1776040735",
     "categoryId": 16,
     "start": "2026-04-13T02:00:00",
     "original_name_upper": "UTAH MAMMOTH AT CALGARY FLAMES",
@@ -392,7 +362,7 @@
   {
     "id": "8315",
     "name": "Lazio at Fiorentina (Italien)",
-    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=FUkCI84q4zB1SdBdvwA4TA-QRdocnOixqnKbs6-PFmE&e=1776037266",
+    "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=3nHWmgVzNaFQsdwtT0byH89DpNNdorAQdcQ8Nap7SrQ&e=1776040735",
     "categoryId": 9,
     "start": "2026-04-13T19:45:00",
     "original_name_upper": "LAZIO AT FIORENTINA",
@@ -402,7 +372,7 @@
   {
     "id": "8303",
     "name": "Leeds United at Manchester United (English)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=xNCArwq6gHGDYx4phGvV-SnAjnEF7cSj8_UbD8o4Eq8&e=1776037266",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=dpb1oflzPkKNVS9vh5Gh2c3VOt513cjfqciBHqtYQ34&e=1776040735",
     "categoryId": 9,
     "start": "2026-04-13T20:00:00",
     "original_name_upper": "LEEDS UNITED AT MANCHESTER UNITED",
@@ -412,7 +382,7 @@
   {
     "id": "8310",
     "name": "Getafe at Levante (Spanish)",
-    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=HNh6Au1vQucCFDPOKmEuXo4-XinQ1ayruLhn5lH4NzA&e=1776037266",
+    "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=mZBXD5--XZdPEm9hWLdMk50gKHFvTdCXoHJmva8FjDk&e=1776040735",
     "categoryId": 9,
     "start": "2026-04-13T20:00:00",
     "original_name_upper": "GETAFE AT LEVANTE",
