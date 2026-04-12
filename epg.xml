@@ -1,18 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="8298">
-    <display-name>Tyson Fury vs Arslanbek Makhmudov (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8298">
-    <title lang="en">Tyson Fury vs Arslanbek Makhmudov (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="8210">
     <display-name>UFC 327: Procházka vs. Ulberg (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8210">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8210">
     <title lang="en">UFC 327: Procházka vs. Ulberg (English)</title>
     <icon src=""/>
   </programme>
@@ -20,7 +12,7 @@
     <display-name>UFC 327: Procházka vs. Ulberg (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8210">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8210">
     <title lang="en">UFC 327: Procházka vs. Ulberg (English)</title>
     <icon src=""/>
   </programme>
@@ -28,111 +20,23 @@
     <display-name>UFC 327: Procházka vs. Ulberg (Server 3 (multiview))</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8210">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8210">
     <title lang="en">UFC 327: Procházka vs. Ulberg (Server 3 (multiview))</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8236">
-    <display-name>Florida Panthers at Toronto Maple Leafs (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8236">
-    <title lang="en">Florida Panthers at Toronto Maple Leafs (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8237">
-    <display-name>Columbus Blue Jackets at Montreal Canadiens (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8237">
-    <title lang="en">Columbus Blue Jackets at Montreal Canadiens (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8238">
-    <display-name>Philadelphia Flyers at Winnipeg Jets (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8238">
-    <title lang="en">Philadelphia Flyers at Winnipeg Jets (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8239">
-    <display-name>Calgary Flames at Seattle Kraken (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8239">
-    <title lang="en">Calgary Flames at Seattle Kraken (English)</title>
     <icon src=""/>
   </programme>
   <channel id="8300">
     <display-name>Vito Mielnicki Jr vs Omar Ulises Huerta (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8300">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8300">
     <title lang="en">Vito Mielnicki Jr vs Omar Ulises Huerta (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8275">
-    <display-name>Washington Nationals at Milwaukee Brewers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8275">
-    <title lang="en">Washington Nationals at Milwaukee Brewers (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8276">
-    <display-name>Cleveland Guardians at Atlanta Braves (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8276">
-    <title lang="en">Cleveland Guardians at Atlanta Braves (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8277">
-    <display-name>San Francisco Giants at Baltimore Orioles (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8277">
-    <title lang="en">San Francisco Giants at Baltimore Orioles (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8278">
-    <display-name>Boston Red Sox at St. Louis Cardinals (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8278">
-    <title lang="en">Boston Red Sox at St. Louis Cardinals (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8240">
-    <display-name>Vegas Golden Knights at Colorado Avalanche (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8240">
-    <title lang="en">Vegas Golden Knights at Colorado Avalanche (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8279">
-    <display-name>Colorado Rockies at San Diego Padres (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8279">
-    <title lang="en">Colorado Rockies at San Diego Padres (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8280">
-    <display-name>Texas Rangers at Los Angeles Dodgers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8280">
-    <title lang="en">Texas Rangers at Los Angeles Dodgers (English)</title>
     <icon src=""/>
   </programme>
   <channel id="8281">
     <display-name>Houston Astros at Seattle Mariners (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8281">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8281">
     <title lang="en">Houston Astros at Seattle Mariners (English)</title>
     <icon src=""/>
   </programme>
@@ -140,7 +44,7 @@
     <display-name>Vancouver Canucks at San Jose Sharks (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8241">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8241">
     <title lang="en">Vancouver Canucks at San Jose Sharks (English)</title>
     <icon src=""/>
   </programme>
@@ -148,7 +52,7 @@
     <display-name>BKFC Fight Night Honolulu : Maki Pitolo vs Harry Coltrane (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8319">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8319">
     <title lang="en">BKFC Fight Night Honolulu : Maki Pitolo vs Harry Coltrane (English)</title>
     <icon src=""/>
   </programme>
@@ -156,7 +60,7 @@
     <display-name>Sassuolo at Genoa (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8311">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8311">
     <title lang="en">Sassuolo at Genoa (Italien)</title>
     <icon src=""/>
   </programme>
@@ -164,15 +68,23 @@
     <display-name>Real Betis at Osasuna (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8306">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8306">
     <title lang="en">Real Betis at Osasuna (Spanish)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="8312">
+    <display-name>Napoli at Parma (Italien)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8312">
+    <title lang="en">Napoli at Parma (Italien)</title>
     <icon src=""/>
   </programme>
   <channel id="8304">
     <display-name>Newcastle United at Crystal Palace (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8304">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8304">
     <title lang="en">Newcastle United at Crystal Palace (English)</title>
     <icon src=""/>
   </programme>
@@ -180,23 +92,15 @@
     <display-name>Aston Villa at Nottingham Forest (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8305">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8305">
     <title lang="en">Aston Villa at Nottingham Forest (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8312">
-    <display-name>Napoli at Parma (Italien)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8312">
-    <title lang="en">Napoli at Parma (Italien)</title>
     <icon src=""/>
   </programme>
   <channel id="8301">
     <display-name>Tottenham Hotspur at Sunderland (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8301">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8301">
     <title lang="en">Tottenham Hotspur at Sunderland (English)</title>
     <icon src=""/>
   </programme>
@@ -204,7 +108,7 @@
     <display-name>Rayo Vallecano at Mallorca (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8307">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8307">
     <title lang="en">Rayo Vallecano at Mallorca (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -212,7 +116,7 @@
     <display-name>Lille at Toulouse (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8316">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8316">
     <title lang="en">Lille at Toulouse (English)</title>
     <icon src=""/>
   </programme>
@@ -220,7 +124,7 @@
     <display-name>Le Havre AC at Nice (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8317">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8317">
     <title lang="en">Le Havre AC at Nice (English)</title>
     <icon src=""/>
   </programme>
@@ -228,7 +132,7 @@
     <display-name>Manchester City at Chelsea (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8302">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8302">
     <title lang="en">Manchester City at Chelsea (English)</title>
     <icon src=""/>
   </programme>
@@ -236,7 +140,7 @@
     <display-name>Lecce at Bologna (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8313">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8313">
     <title lang="en">Lecce at Bologna (Italien)</title>
     <icon src=""/>
   </programme>
@@ -244,7 +148,7 @@
     <display-name>Real Oviedo at Celta Vigo (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8308">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8308">
     <title lang="en">Real Oviedo at Celta Vigo (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -252,7 +156,7 @@
     <display-name>Lorient at Lyon (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8318">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8318">
     <title lang="en">Lorient at Lyon (English)</title>
     <icon src=""/>
   </programme>
@@ -260,7 +164,7 @@
     <display-name>Internazionale at Como (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8314">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8314">
     <title lang="en">Internazionale at Como (Italien)</title>
     <icon src=""/>
   </programme>
@@ -268,7 +172,7 @@
     <display-name>Villarreal at Athletic Club (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8309">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8309">
     <title lang="en">Villarreal at Athletic Club (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -276,7 +180,7 @@
     <display-name>Lazio at Fiorentina (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8315">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8315">
     <title lang="en">Lazio at Fiorentina (Italien)</title>
     <icon src=""/>
   </programme>
@@ -284,7 +188,7 @@
     <display-name>Leeds United at Manchester United (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8303">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8303">
     <title lang="en">Leeds United at Manchester United (English)</title>
     <icon src=""/>
   </programme>
@@ -292,7 +196,7 @@
     <display-name>Getafe at Levante (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260412025410 +0000" stop="20260412085410 +0000" channel="8310">
+  <programme start="20260412052719 +0000" stop="20260412112719 +0000" channel="8310">
     <title lang="en">Getafe at Levante (Spanish)</title>
     <icon src=""/>
   </programme>
