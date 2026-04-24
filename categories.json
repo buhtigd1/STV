@@ -1,9 +1,51 @@
 {
+  "Football": [
+    {
+      "id": "8678",
+      "name": "1. FC Union Berlin at RB Leipzig (Deutch)",
+      "url": "https://mainstreams.pro/hls/ueyeztrazb4.m3u8?st=EqEm4khoaF62fOTUGYlxRO1yXLi4awNsy_AevcpdSRE&e=1777019986",
+      "start": "2026-04-24T19:30:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+    },
+    {
+      "id": "8676",
+      "name": "Cremonese at Napoli (Italy)",
+      "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=imQppDUxu2IA5A0dHCZrLFYHB-OLbLZaJJUkPfH5Hus&e=1777019986",
+      "start": "2026-04-24T19:45:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+    },
+    {
+      "id": "8677",
+      "name": "Lens at Brest (English)",
+      "url": "https://mainstreams.pro/hls/dza5z8f69.m3u8?st=C-l1mVsddYXI7Sg10E1q1GV0amTaQc4O6UK7oj3qW5o&e=1777019986",
+      "start": "2026-04-24T19:45:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+    },
+    {
+      "id": "8674",
+      "name": "Nottingham Forest at Sunderland (English)",
+      "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=qYvixEyDbOSdepn9ZTZC5P6V886fynRR_3j9ZsnlYzI&e=1777019986",
+      "start": "2026-04-24T20:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+    },
+    {
+      "id": "8675",
+      "name": "Real Madrid at Real Betis (Spanish)",
+      "url": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=9QWcKZ1P21ppQLLE1W7RXcCqQNmmNmPTWYMn-2ZSCkc&e=1777019986",
+      "start": "2026-04-24T20:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+    }
+  ],
   "Other": [
     {
       "id": "8653",
       "name": "NFL Draft (English)",
-      "url": "https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=9dcKIDOnhYAgccLsGL8uXyKNj7WkL0WhxYsRkwaWnoY&e=1777010142",
+      "url": "https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=hZEBoYl36YwVYV6FvsLWPOOz8XvJcLGStSxxiDug544&e=1777019986",
       "start": "2026-04-24T01:00:00",
       "categoryId": 14,
       "logo": ""
