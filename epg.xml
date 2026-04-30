@@ -1,106 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="8816">
-    <display-name>Chicago Cubs at San Diego Padres (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8816">
-    <title lang="en">Chicago Cubs at San Diego Padres (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8817">
-    <display-name>Houston Astros at Baltimore Orioles (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8817">
-    <title lang="en">Houston Astros at Baltimore Orioles (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8818">
-    <display-name>Colorado Rockies at Cincinnati Reds (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8818">
-    <title lang="en">Colorado Rockies at Cincinnati Reds (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8819">
-    <display-name>San Francisco Giants at Philadelphia Phillies (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8819">
-    <title lang="en">San Francisco Giants at Philadelphia Phillies (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8820">
-    <display-name>St. Louis Cardinals at Pittsburgh Pirates (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8820">
-    <title lang="en">St. Louis Cardinals at Pittsburgh Pirates (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8804">
-    <display-name>Orlando Magic at Detroit Pistons (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8804">
-    <title lang="en">Orlando Magic at Detroit Pistons (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8807">
-    <display-name>Montreal Canadiens at Tampa Bay Lightning (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8807">
-    <title lang="en">Montreal Canadiens at Tampa Bay Lightning (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8821">
-    <display-name>Washington Nationals at New York Mets (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8821">
-    <title lang="en">Washington Nationals at New York Mets (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8822">
-    <display-name>Detroit Tigers at Atlanta Braves (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8822">
-    <title lang="en">Detroit Tigers at Atlanta Braves (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8808">
-    <display-name>Pittsburgh Penguins at Philadelphia Flyers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8808">
-    <title lang="en">Pittsburgh Penguins at Philadelphia Flyers (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8805">
-    <display-name>Toronto Raptors at Cleveland Cavaliers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8805">
-    <title lang="en">Toronto Raptors at Cleveland Cavaliers (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8823">
-    <display-name>Arizona Diamondbacks at Milwaukee Brewers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8823">
-    <title lang="en">Arizona Diamondbacks at Milwaukee Brewers (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="8824">
     <display-name>Kansas City Royals at Athletics Athletics (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8824">
+  <programme start="20260430035530 +0000" stop="20260430095530 +0000" channel="8824">
     <title lang="en">Kansas City Royals at Athletics Athletics (English)</title>
     <icon src=""/>
   </programme>
@@ -108,7 +12,7 @@
     <display-name>Houston Rockets at Los Angeles Lakers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8806">
+  <programme start="20260430035530 +0000" stop="20260430095530 +0000" channel="8806">
     <title lang="en">Houston Rockets at Los Angeles Lakers (English)</title>
     <icon src=""/>
   </programme>
@@ -116,7 +20,7 @@
     <display-name>Utah Mammoth at Vegas Golden Knights (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260429235724 +0000" stop="20260430055724 +0000" channel="8809">
+  <programme start="20260430035530 +0000" stop="20260430095530 +0000" channel="8809">
     <title lang="en">Utah Mammoth at Vegas Golden Knights (English)</title>
     <icon src=""/>
   </programme>
