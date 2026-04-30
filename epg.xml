@@ -1,42 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="8841">
-    <display-name>Aston Villa at Nottingham Forest (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8841">
-    <title lang="en">Aston Villa at Nottingham Forest (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8842">
-    <display-name>SC Freiburg at Braga (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8842">
-    <title lang="en">SC Freiburg at Braga (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8843">
-    <display-name>Crystal Palace at Shakhtar Donetsk (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8843">
-    <title lang="en">Crystal Palace at Shakhtar Donetsk (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="8844">
-    <display-name>Strasbourg at Rayo Vallecano (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8844">
-    <title lang="en">Strasbourg at Rayo Vallecano (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="8832">
     <display-name>Kansas City Royals at Athletics Athletics (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8832">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8832">
     <title lang="en">Kansas City Royals at Athletics Athletics (English)</title>
     <icon src=""/>
   </programme>
@@ -44,7 +12,7 @@
     <display-name>Houston Astros at Baltimore Orioles (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8833">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8833">
     <title lang="en">Houston Astros at Baltimore Orioles (English)</title>
     <icon src=""/>
   </programme>
@@ -52,7 +20,7 @@
     <display-name>San Francisco Giants at Philadelphia Phillies (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8834">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8834">
     <title lang="en">San Francisco Giants at Philadelphia Phillies (English)</title>
     <icon src=""/>
   </programme>
@@ -60,7 +28,7 @@
     <display-name>New York Knicks at Atlanta Hawks (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8836">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8836">
     <title lang="en">New York Knicks at Atlanta Hawks (English)</title>
     <icon src=""/>
   </programme>
@@ -68,7 +36,7 @@
     <display-name>Dallas Stars at Minnesota Wild (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8845">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8845">
     <title lang="en">Dallas Stars at Minnesota Wild (English)</title>
     <icon src=""/>
   </programme>
@@ -76,7 +44,7 @@
     <display-name>Toronto Blue Jays at Minnesota Twins (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8835">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8835">
     <title lang="en">Toronto Blue Jays at Minnesota Twins (English)</title>
     <icon src=""/>
   </programme>
@@ -84,7 +52,7 @@
     <display-name>Boston Celtics at Philadelphia 76ers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8837">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8837">
     <title lang="en">Boston Celtics at Philadelphia 76ers (English)</title>
     <icon src=""/>
   </programme>
@@ -92,7 +60,7 @@
     <display-name>Denver Nuggets at Minnesota Timberwolves (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8838">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8838">
     <title lang="en">Denver Nuggets at Minnesota Timberwolves (English)</title>
     <icon src=""/>
   </programme>
@@ -100,7 +68,7 @@
     <display-name>Edmonton Oilers at Anaheim Ducks (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260430215851 +0000" stop="20260501035851 +0000" channel="8846">
+  <programme start="20260430230205 +0000" stop="20260501050205 +0000" channel="8846">
     <title lang="en">Edmonton Oilers at Anaheim Ducks (English)</title>
     <icon src=""/>
   </programme>
