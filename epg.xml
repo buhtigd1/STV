@@ -1,50 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="9220">
-    <display-name>Philadelphia Phillies at Boston Red Sox (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9220">
-    <title lang="en">Philadelphia Phillies at Boston Red Sox (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9207">
-    <display-name>Montreal Canadiens at Buffalo Sabres (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9207">
-    <title lang="en">Montreal Canadiens at Buffalo Sabres (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9221">
-    <display-name>Chicago Cubs at Atlanta Braves (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9221">
-    <title lang="en">Chicago Cubs at Atlanta Braves (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9222">
-    <display-name>Kansas City Royals at Chicago White Sox (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9222">
-    <title lang="en">Kansas City Royals at Chicago White Sox (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9224">
-    <display-name>Minnesota Lynx at Dallas Wings (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9224">
-    <title lang="en">Minnesota Lynx at Dallas Wings (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="9208">
     <display-name>Vegas Golden Knights at Anaheim Ducks (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9208">
+  <programme start="20260515045257 +0000" stop="20260515105257 +0000" channel="9208">
     <title lang="en">Vegas Golden Knights at Anaheim Ducks (English)</title>
     <icon src=""/>
   </programme>
@@ -52,7 +12,7 @@
     <display-name>New York Liberty at Portland Fire (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9225">
+  <programme start="20260515045257 +0000" stop="20260515105257 +0000" channel="9225">
     <title lang="en">New York Liberty at Portland Fire (English)</title>
     <icon src=""/>
   </programme>
@@ -60,7 +20,7 @@
     <display-name>San Francisco Giants at Los Angeles Dodgers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9223">
+  <programme start="20260515045257 +0000" stop="20260515105257 +0000" channel="9223">
     <title lang="en">San Francisco Giants at Los Angeles Dodgers (English)</title>
     <icon src=""/>
   </programme>
@@ -68,7 +28,7 @@
     <display-name>Detroit Pistons at Cleveland Cavaliers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9205">
+  <programme start="20260515045257 +0000" stop="20260515105257 +0000" channel="9205">
     <title lang="en">Detroit Pistons at Cleveland Cavaliers (English)</title>
     <icon src=""/>
   </programme>
@@ -76,7 +36,7 @@
     <display-name>Detroit Pistons at Cleveland Cavaliers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9205">
+  <programme start="20260515045257 +0000" stop="20260515105257 +0000" channel="9205">
     <title lang="en">Detroit Pistons at Cleveland Cavaliers (English)</title>
     <icon src=""/>
   </programme>
@@ -84,7 +44,7 @@
     <display-name>San Antonio Spurs at Minnesota Timberwolves (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9206">
+  <programme start="20260515045257 +0000" stop="20260515105257 +0000" channel="9206">
     <title lang="en">San Antonio Spurs at Minnesota Timberwolves (English)</title>
     <icon src=""/>
   </programme>
@@ -92,7 +52,7 @@
     <display-name>San Antonio Spurs at Minnesota Timberwolves (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260515000528 +0000" stop="20260515060528 +0000" channel="9206">
+  <programme start="20260515045257 +0000" stop="20260515105257 +0000" channel="9206">
     <title lang="en">San Antonio Spurs at Minnesota Timberwolves (English)</title>
     <icon src=""/>
   </programme>
