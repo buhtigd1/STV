@@ -1,179 +1,147 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="9442">
-    <display-name>Oleksandr Usyk vs Rico Verhoeven (English)</display-name>
+  <channel id="9457">
+    <display-name>Sassuolo at Parma (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9442">
-    <title lang="en">Oleksandr Usyk vs Rico Verhoeven (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9457">
+    <title lang="en">Sassuolo at Parma (Italien)</title>
     <icon src=""/>
   </programme>
-  <channel id="9444">
-    <display-name>PFL Brussels Habirora vs Henderson (English)</display-name>
+  <channel id="9446">
+    <display-name>Leeds United at West Ham United (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9444">
-    <title lang="en">PFL Brussels Habirora vs Henderson (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9446">
+    <title lang="en">Leeds United at West Ham United (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9426">
-    <display-name>Pittsburgh Pirates at Toronto Blue Jays (English)</display-name>
+  <channel id="9447">
+    <display-name>Arsenal at Crystal Palace (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9426">
-    <title lang="en">Pittsburgh Pirates at Toronto Blue Jays (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9447">
+    <title lang="en">Arsenal at Crystal Palace (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9427">
-    <display-name>Cleveland Guardians at Philadelphia Phillies (English)</display-name>
+  <channel id="9448">
+    <display-name>Manchester United at Brighton &amp; Hove Albion (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9427">
-    <title lang="en">Cleveland Guardians at Philadelphia Phillies (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9448">
+    <title lang="en">Manchester United at Brighton &amp; Hove Albion (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9428">
-    <display-name>Detroit Tigers at Baltimore Orioles (English)</display-name>
+  <channel id="9449">
+    <display-name>Aston Villa at Manchester City (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9428">
-    <title lang="en">Detroit Tigers at Baltimore Orioles (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9449">
+    <title lang="en">Aston Villa at Manchester City (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9429">
-    <display-name>Chicago White Sox at San Francisco Giants (English)</display-name>
+  <channel id="9450">
+    <display-name>Everton at Tottenham Hotspur (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9429">
-    <title lang="en">Chicago White Sox at San Francisco Giants (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9450">
+    <title lang="en">Everton at Tottenham Hotspur (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9430">
-    <display-name>Minnesota Twins at Boston Red Sox (English)</display-name>
+  <channel id="9451">
+    <display-name>Chelsea at Sunderland (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9430">
-    <title lang="en">Minnesota Twins at Boston Red Sox (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9451">
+    <title lang="en">Chelsea at Sunderland (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9431">
-    <display-name>New York Mets at Miami Marlins (English)</display-name>
+  <channel id="9452">
+    <display-name>Brentford at Liverpool (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9431">
-    <title lang="en">New York Mets at Miami Marlins (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9452">
+    <title lang="en">Brentford at Liverpool (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9432">
-    <display-name>Washington Nationals at Atlanta Braves (English)</display-name>
+  <channel id="9453">
+    <display-name>Wolverhampton Wanderers at Burnley (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9432">
-    <title lang="en">Washington Nationals at Atlanta Braves (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9453">
+    <title lang="en">Wolverhampton Wanderers at Burnley (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9433">
-    <display-name>Seattle Mariners at Kansas City Royals (English)</display-name>
+  <channel id="9454">
+    <display-name>Newcastle United at Fulham (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9433">
-    <title lang="en">Seattle Mariners at Kansas City Royals (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9454">
+    <title lang="en">Newcastle United at Fulham (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9440">
-    <display-name>Portland Fire at Toronto Tempo (English)</display-name>
+  <channel id="9455">
+    <display-name>AFC Bournemouth at Nottingham Forest (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9440">
-    <title lang="en">Portland Fire at Toronto Tempo (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9455">
+    <title lang="en">AFC Bournemouth at Nottingham Forest (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9423">
-    <display-name>Montreal Canadiens at Carolina Hurricanes (English)</display-name>
+  <channel id="9458">
+    <display-name>Udinese at Napoli (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9423">
-    <title lang="en">Montreal Canadiens at Carolina Hurricanes (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9458">
+    <title lang="en">Udinese at Napoli (Italien)</title>
     <icon src=""/>
   </programme>
-  <channel id="9434">
-    <display-name>St. Louis Cardinals at Cincinnati Reds (English)</display-name>
+  <channel id="9459">
+    <display-name>Juventus at Torino (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9434">
-    <title lang="en">St. Louis Cardinals at Cincinnati Reds (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9459">
+    <title lang="en">Juventus at Torino (Italien)</title>
     <icon src=""/>
   </programme>
-  <channel id="9435">
-    <display-name>Los Angeles Dodgers at Milwaukee Brewers (English)</display-name>
+  <channel id="9460">
+    <display-name>Cagliari at AC Milan (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9435">
-    <title lang="en">Los Angeles Dodgers at Milwaukee Brewers (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9460">
+    <title lang="en">Cagliari at AC Milan (Italien)</title>
     <icon src=""/>
   </programme>
-  <channel id="9422">
-    <display-name>New York Knicks at Cleveland Cavaliers (English)</display-name>
+  <channel id="9461">
+    <display-name>Como at Cremonese (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9422">
-    <title lang="en">New York Knicks at Cleveland Cavaliers (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9461">
+    <title lang="en">Como at Cremonese (Italien)</title>
     <icon src=""/>
   </programme>
-  <channel id="9422">
-    <display-name>New York Knicks at Cleveland Cavaliers (English)</display-name>
+  <channel id="9462">
+    <display-name>AS Roma at Hellas Verona (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9422">
-    <title lang="en">New York Knicks at Cleveland Cavaliers (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9462">
+    <title lang="en">AS Roma at Hellas Verona (Italien)</title>
     <icon src=""/>
   </programme>
-  <channel id="9441">
-    <display-name>Los Angeles Sparks at Las Vegas Aces (English)</display-name>
+  <channel id="9463">
+    <display-name>Genoa at Lecce (Italien)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9441">
-    <title lang="en">Los Angeles Sparks at Las Vegas Aces (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9463">
+    <title lang="en">Genoa at Lecce (Italien)</title>
     <icon src=""/>
   </programme>
-  <channel id="9445">
-    <display-name>WWE Saturday Night Main Event (English)</display-name>
+  <channel id="9456">
+    <display-name>Atlético Madrid at Villarreal (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9445">
-    <title lang="en">WWE Saturday Night Main Event (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9436">
-    <display-name>Athletics Athletics at San Diego Padres (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9436">
-    <title lang="en">Athletics Athletics at San Diego Padres (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9437">
-    <display-name>Texas Rangers at Los Angeles Angels (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9437">
-    <title lang="en">Texas Rangers at Los Angeles Angels (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9438">
-    <display-name>Colorado Rockies at Arizona Diamondbacks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9438">
-    <title lang="en">Colorado Rockies at Arizona Diamondbacks (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9394">
-    <display-name>Canadian Grand Prix Race (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260523230230 +0000" stop="20260524050230 +0000" channel="9394">
-    <title lang="en">Canadian Grand Prix Race (English)</title>
+  <programme start="20260524035630 +0000" stop="20260524095630 +0000" channel="9456">
+    <title lang="en">Atlético Madrid at Villarreal (Spanish)</title>
     <icon src=""/>
   </programme>
 </tv>
