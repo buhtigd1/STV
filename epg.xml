@@ -1,42 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="9487">
-    <display-name>Chicago Cubs at Pittsburgh Pirates (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9487">
-    <title lang="en">Chicago Cubs at Pittsburgh Pirates (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9488">
-    <display-name>Tampa Bay Rays at Baltimore Orioles (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9488">
-    <title lang="en">Tampa Bay Rays at Baltimore Orioles (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9489">
-    <display-name>Minnesota Twins at Chicago White Sox (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9489">
-    <title lang="en">Minnesota Twins at Chicago White Sox (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9490">
-    <display-name>St. Louis Cardinals at Milwaukee Brewers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9490">
-    <title lang="en">St. Louis Cardinals at Milwaukee Brewers (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="9491">
     <display-name>New York Yankees at Kansas City Royals (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9491">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9491">
     <title lang="en">New York Yankees at Kansas City Royals (English)</title>
     <icon src=""/>
   </programme>
@@ -44,7 +12,7 @@
     <display-name>Cincinnati Reds at New York Mets (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9492">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9492">
     <title lang="en">Cincinnati Reds at New York Mets (English)</title>
     <icon src=""/>
   </programme>
@@ -52,7 +20,7 @@
     <display-name>Arizona Diamondbacks at San Francisco Giants (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9493">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9493">
     <title lang="en">Arizona Diamondbacks at San Francisco Giants (English)</title>
     <icon src=""/>
   </programme>
@@ -60,7 +28,7 @@
     <display-name>Washington Nationals at Cleveland Guardians (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9494">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9494">
     <title lang="en">Washington Nationals at Cleveland Guardians (English)</title>
     <icon src=""/>
   </programme>
@@ -68,7 +36,7 @@
     <display-name>Philadelphia Phillies at San Diego Padres (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9495">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9495">
     <title lang="en">Philadelphia Phillies at San Diego Padres (English)</title>
     <icon src=""/>
   </programme>
@@ -76,7 +44,7 @@
     <display-name>Houston Astros at Texas Rangers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9496">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9496">
     <title lang="en">Houston Astros at Texas Rangers (English)</title>
     <icon src=""/>
   </programme>
@@ -84,7 +52,7 @@
     <display-name>Miami Marlins at Toronto Blue Jays (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9497">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9497">
     <title lang="en">Miami Marlins at Toronto Blue Jays (English)</title>
     <icon src=""/>
   </programme>
@@ -92,7 +60,7 @@
     <display-name>Portland Fire at New York Liberty (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9500">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9500">
     <title lang="en">Portland Fire at New York Liberty (English)</title>
     <icon src=""/>
   </programme>
@@ -100,7 +68,7 @@
     <display-name>New York Knicks at Cleveland Cavaliers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9485">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9485">
     <title lang="en">New York Knicks at Cleveland Cavaliers (English)</title>
     <icon src=""/>
   </programme>
@@ -108,7 +76,7 @@
     <display-name>New York Knicks at Cleveland Cavaliers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9485">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9485">
     <title lang="en">New York Knicks at Cleveland Cavaliers (English)</title>
     <icon src=""/>
   </programme>
@@ -116,7 +84,7 @@
     <display-name>Carolina Hurricanes at Montreal Canadiens (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9486">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9486">
     <title lang="en">Carolina Hurricanes at Montreal Canadiens (English)</title>
     <icon src=""/>
   </programme>
@@ -124,7 +92,7 @@
     <display-name>Colorado Rockies at Los Angeles Dodgers (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9498">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9498">
     <title lang="en">Colorado Rockies at Los Angeles Dodgers (English)</title>
     <icon src=""/>
   </programme>
@@ -132,7 +100,7 @@
     <display-name>Seattle Mariners at Athletics Athletics (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9499">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9499">
     <title lang="en">Seattle Mariners at Athletics Athletics (English)</title>
     <icon src=""/>
   </programme>
@@ -140,7 +108,7 @@
     <display-name>Connecticut Sun at Golden State Valkyries (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260525211219 +0000" stop="20260526031219 +0000" channel="9501">
+  <programme start="20260525230755 +0000" stop="20260526050755 +0000" channel="9501">
     <title lang="en">Connecticut Sun at Golden State Valkyries (English)</title>
     <icon src=""/>
   </programme>
