@@ -1,27 +1,2 @@
 <?xml version="1.0" ?>
-<tv>
-  <channel id="9527">
-    <display-name>Connecticut Sun at Portland Fire (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260528051022 +0000" stop="20260528111022 +0000" channel="9527">
-    <title lang="en">Connecticut Sun at Portland Fire (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9528">
-    <display-name>Washington Mystics at Seattle Storm (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260528051022 +0000" stop="20260528111022 +0000" channel="9528">
-    <title lang="en">Washington Mystics at Seattle Storm (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9543">
-    <display-name>Colorado Rockies at Los Angeles Dodgers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260528051022 +0000" stop="20260528111022 +0000" channel="9543">
-    <title lang="en">Colorado Rockies at Los Angeles Dodgers (English)</title>
-    <icon src=""/>
-  </programme>
-</tv>
+<tv/>
