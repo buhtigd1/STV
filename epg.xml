@@ -1,2 +1,83 @@
 <?xml version="1.0" ?>
-<tv/>
+<tv>
+  <channel id="9545">
+    <display-name>Los Angeles Angels at Detroit Tigers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9545">
+    <title lang="en">Los Angeles Angels at Detroit Tigers (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9546">
+    <display-name>Minnesota Twins at Chicago White Sox (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9546">
+    <title lang="en">Minnesota Twins at Chicago White Sox (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9547">
+    <display-name>Atlanta Braves at Boston Red Sox (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9547">
+    <title lang="en">Atlanta Braves at Boston Red Sox (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9548">
+    <display-name>Toronto Blue Jays at Baltimore Orioles (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9548">
+    <title lang="en">Toronto Blue Jays at Baltimore Orioles (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9549">
+    <display-name>Chicago Cubs at Pittsburgh Pirates (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9549">
+    <title lang="en">Chicago Cubs at Pittsburgh Pirates (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9552">
+    <display-name>Las Vegas Aces at Dallas Wings (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9552">
+    <title lang="en">Las Vegas Aces at Dallas Wings (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9550">
+    <display-name>Houston Astros at Texas Rangers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9550">
+    <title lang="en">Houston Astros at Texas Rangers (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9551">
+    <display-name>Oklahoma City Thunder at San Antonio Spurs (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9551">
+    <title lang="en">Oklahoma City Thunder at San Antonio Spurs (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9551">
+    <display-name>Oklahoma City Thunder at San Antonio Spurs (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9551">
+    <title lang="en">Oklahoma City Thunder at San Antonio Spurs (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9553">
+    <display-name>Indiana Fever at Golden State Valkyries (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260528143824 +0000" stop="20260528203824 +0000" channel="9553">
+    <title lang="en">Indiana Fever at Golden State Valkyries (English)</title>
+    <icon src=""/>
+  </programme>
+</tv>
