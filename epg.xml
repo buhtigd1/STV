@@ -1,51 +1,139 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="9639">
-    <display-name>WWE: Monday Night RAW (English)</display-name>
+  <channel id="9655">
+    <display-name>Belgium at Croatia (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260602041636 +0000" stop="20260602101636 +0000" channel="9639">
-    <title lang="en">WWE: Monday Night RAW (English)</title>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9655">
+    <title lang="en">Belgium at Croatia (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9636">
-    <display-name>Uzbekistan at Canada (English)</display-name>
+  <channel id="9656">
+    <display-name>Ghana at Wales (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260602041636 +0000" stop="20260602101636 +0000" channel="9636">
-    <title lang="en">Uzbekistan at Canada (English)</title>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9656">
+    <title lang="en">Ghana at Wales (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9631">
+  <channel id="9640">
+    <display-name>Detroit Tigers at Tampa Bay Rays (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9640">
+    <title lang="en">Detroit Tigers at Tampa Bay Rays (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9641">
+    <display-name>San Diego Padres at Philadelphia Phillies (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9641">
+    <title lang="en">San Diego Padres at Philadelphia Phillies (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9642">
+    <display-name>Baltimore Orioles at Boston Red Sox (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9642">
+    <title lang="en">Baltimore Orioles at Boston Red Sox (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9643">
+    <display-name>Miami Marlins at Washington Nationals (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9643">
+    <title lang="en">Miami Marlins at Washington Nationals (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9644">
+    <display-name>Cleveland Guardians at New York Yankees (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9644">
+    <title lang="en">Cleveland Guardians at New York Yankees (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9645">
+    <display-name>Kansas City Royals at Cincinnati Reds (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9645">
+    <title lang="en">Kansas City Royals at Cincinnati Reds (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9646">
+    <display-name>Toronto Blue Jays at Atlanta Braves (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9646">
+    <title lang="en">Toronto Blue Jays at Atlanta Braves (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9647">
+    <display-name>Chicago White Sox at Minnesota Twins (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9647">
+    <title lang="en">Chicago White Sox at Minnesota Twins (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9648">
+    <display-name>San Francisco Giants at Milwaukee Brewers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9648">
+    <title lang="en">San Francisco Giants at Milwaukee Brewers (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9649">
+    <display-name>Texas Rangers at St. Louis Cardinals (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9649">
+    <title lang="en">Texas Rangers at St. Louis Cardinals (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9650">
+    <display-name>Athletics Athletics at Chicago Cubs (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9650">
+    <title lang="en">Athletics Athletics at Chicago Cubs (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9651">
+    <display-name>Pittsburgh Pirates at Houston Astros (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9651">
+    <title lang="en">Pittsburgh Pirates at Houston Astros (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9652">
     <display-name>Colorado Rockies at Los Angeles Angels (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260602041636 +0000" stop="20260602101636 +0000" channel="9631">
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9652">
     <title lang="en">Colorado Rockies at Los Angeles Angels (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9632">
+  <channel id="9653">
     <display-name>Los Angeles Dodgers at Arizona Diamondbacks (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260602041636 +0000" stop="20260602101636 +0000" channel="9632">
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9653">
     <title lang="en">Los Angeles Dodgers at Arizona Diamondbacks (English)</title>
     <icon src=""/>
   </programme>
-  <channel id="9633">
+  <channel id="9654">
     <display-name>New York Mets at Seattle Mariners (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260602041636 +0000" stop="20260602101636 +0000" channel="9633">
+  <programme start="20260602090947 +0000" stop="20260602150947 +0000" channel="9654">
     <title lang="en">New York Mets at Seattle Mariners (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9638">
-    <display-name>Minnesota Lynx at Phoenix Mercury (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260602041636 +0000" stop="20260602101636 +0000" channel="9638">
-    <title lang="en">Minnesota Lynx at Phoenix Mercury (English)</title>
     <icon src=""/>
   </programme>
 </tv>
