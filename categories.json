@@ -1,133 +1,9 @@
 {
-  "F1": [
-    {
-      "id": "9703",
-      "name": "Motogp HUNGARY (English)",
-      "url": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?st=DpY_pwJjWTccGGIusNXh3DzXIgjiLBNP7-D0hwTjaQo&e=1780877820",
-      "start": "2026-06-05T09:45:00",
-      "categoryId": 15,
-      "logo": "data:image/png;base64,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"
-    }
-  ],
-  "Football": [
-    {
-      "id": "9772",
-      "name": "Slovenia at Croatia (English)",
-      "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=FaHwHpEe74hBHETuBjq6wz-fCTDh5_77YEZRaUFH5Kc&e=1780877819",
-      "start": "2026-06-07T19:45:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png"
-    },
-    {
-      "id": "9773",
-      "name": "Italy at Greece (English)",
-      "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=n-tAPsy_OPOxQCu3LEU06v0JOJolhtCTuM-E8EOsKBY&e=1780877818",
-      "start": "2026-06-07T20:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png"
-    },
-    {
-      "id": "9774",
-      "name": "Norway at Morocco (English)",
-      "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=aGTldiZSZ0ilM1IleJHOsSg59A6-_jj48BNMkFU20s0&e=1780877818",
-      "start": "2026-06-07T20:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png"
-    }
-  ],
   "Other": [
-    {
-      "id": "9756",
-      "name": "Boston Red Sox at New York Yankees (English)",
-      "url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?st=p5exWG8IYWVrBoA-K4pzS_KV2BFqjs0xlBem6IG3zqg&e=1780877820",
-      "start": "2026-06-07T18:35:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
-    },
-    {
-      "id": "9757",
-      "name": "Chicago White Sox at Philadelphia Phillies (English)",
-      "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?st=yBSKOoCc3ZnvWr7zxr-m6Ga8SWskozTUj3hOz8R1mQA&e=1780877820",
-      "start": "2026-06-07T18:35:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
-    },
-    {
-      "id": "9758",
-      "name": "Pittsburgh Pirates at Atlanta Braves (English)",
-      "url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=0mKi8nfE5Ed-5vmAGddIX6c0sNX96I-xt8jy7xdjSjQ&e=1780877820",
-      "start": "2026-06-07T18:35:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
-    },
-    {
-      "id": "9759",
-      "name": "Baltimore Orioles at Toronto Blue Jays (English)",
-      "url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?st=NQHlEE7pm9TSnw4dVhqCL62QNDfYc8o1jo9Twlo9rdQ&e=1780877820",
-      "start": "2026-06-07T18:37:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
-    },
-    {
-      "id": "9760",
-      "name": "Seattle Mariners at Detroit Tigers (English)",
-      "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=puaLWKESWeiqfsXnJVIbNSGYEq07QR6wzsGk5gmsJq4&e=1780877819",
-      "start": "2026-06-07T18:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
-    },
-    {
-      "id": "9761",
-      "name": "Tampa Bay Rays at Miami Marlins (English)",
-      "url": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?st=yqUKqfikPtwIj4BfjUtlLwVxVlE6QnA1wrkuxtMX1zQ&e=1780877819",
-      "start": "2026-06-07T18:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
-    },
-    {
-      "id": "9762",
-      "name": "Athletics Athletics at Houston Astros (English)",
-      "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=byGGvrOmvghbO6jVof8J_2KKewH50HMYkKHHDVbDB9I&e=1780877819",
-      "start": "2026-06-07T19:10:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
-    },
-    {
-      "id": "9763",
-      "name": "Kansas City Royals at Minnesota Twins (English)",
-      "url": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=yBiUUdeKXOQCplyhlLQJlH3GZr5SxeZFQqLY4Mvl0ZU&e=1780877819",
-      "start": "2026-06-07T19:10:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
-    },
-    {
-      "id": "9764",
-      "name": "Cincinnati Reds at St. Louis Cardinals (English)",
-      "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=l7n1jq6jwE5On6nyZ9WeqXfuY8HN6qaZCfbzNmJ4Rqg&e=1780877819",
-      "start": "2026-06-07T19:15:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
-    },
-    {
-      "id": "9765",
-      "name": "Cleveland Guardians at Texas Rangers (English)",
-      "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?st=uoGCrf9aq_oYtsl74Z88zJY5q81JBg4FxSY8BK_G8KE&e=1780877819",
-      "start": "2026-06-07T19:35:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
-    },
-    {
-      "id": "9775",
-      "name": "Chicago Sky at Toronto Tempo (English)",
-      "url": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?st=7f9fUaWt_YwFCC2T6S9ROkKgzCgp93Kby9qDEEyJLuU&e=1780877819",
-      "start": "2026-06-07T20:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/tor.png"
-    },
     {
       "id": "9766",
       "name": "Milwaukee Brewers at Colorado Rockies (English)",
-      "url": "https://edge2caster.pro/hls/kjhfzua25.m3u8?st=PeJamggoboD7jirCjLn6mMNcBQqPJXd8bIa4QPdrOYA&e=1780877818",
+      "url": "https://edge2caster.pro/hls/kjhfzua25.m3u8?st=sjHGhjb6IjWXPGqVidYs9Zk3nOD0_CB4UrXAdnG28os&e=1780884566",
       "start": "2026-06-07T20:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
@@ -135,7 +11,7 @@
     {
       "id": "9767",
       "name": "Washington Nationals at Arizona Diamondbacks (English)",
-      "url": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=C7v_PWbi2lqd2MeN1fG6ZeDkHVqsryvqArXSTPttaDw&e=1780877818",
+      "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=9nMPjnbgDpRcRHdlNOmK3XGGh4JyuPE_7OPmR6WIY5Q&e=1780884566",
       "start": "2026-06-07T20:15:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
@@ -143,7 +19,7 @@
     {
       "id": "9768",
       "name": "Los Angeles Angels at Los Angeles Dodgers (English)",
-      "url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=gVuYA9lMHKVgHBXyd0s_vvbV0UzfzltOwx7YomPcXUQ&e=1780877817",
+      "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=Dl2UcrQNucgGCFmQtQZJyN26CqTNP8QwY7mjZR27mpA&e=1780884565",
       "start": "2026-06-07T21:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
@@ -151,7 +27,7 @@
     {
       "id": "9769",
       "name": "New York Mets at San Diego Padres (English)",
-      "url": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=br8i2WVUN87TBFx6gCJUtLC4aVZNtSzVDgOOdcPjGFY&e=1780877817",
+      "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=qp1knZOlCxYmY_fBIULGWX5FRxQnUxwOLq8Z5X3ukwQ&e=1780884565",
       "start": "2026-06-07T21:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
@@ -159,7 +35,7 @@
     {
       "id": "9776",
       "name": "Portland Fire at Los Angeles Sparks (English)",
-      "url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=4h9rT_DDImxQC7MYWbpkPMIrfny9gz67Zow4XWpfYKI&e=1780877817",
+      "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=wDdsldV9by0o_L4YbF9hE3BdLIqebgCxnBcFWuIy5BU&e=1780884565",
       "start": "2026-06-08T00:00:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
@@ -167,7 +43,7 @@
     {
       "id": "9770",
       "name": "San Francisco Giants at Chicago Cubs (English)",
-      "url": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=Lb9GideeILLlY-WOudzEU1ntr3Q0VDlynvz2EN6G_cY&e=1780877817",
+      "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=fs40SAf6TezthEgrikAragaG1_gYh6StVdBn6IM0G0A&e=1780884565",
       "start": "2026-06-08T01:30:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
