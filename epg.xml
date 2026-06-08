@@ -1,51 +1,131 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="9766">
-    <display-name>Milwaukee Brewers at Colorado Rockies (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260607230927 +0000" stop="20260608050927 +0000" channel="9766">
-    <title lang="en">Milwaukee Brewers at Colorado Rockies (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9767">
-    <display-name>Washington Nationals at Arizona Diamondbacks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260607230927 +0000" stop="20260608050927 +0000" channel="9767">
-    <title lang="en">Washington Nationals at Arizona Diamondbacks (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9768">
-    <display-name>Los Angeles Angels at Los Angeles Dodgers (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260607230927 +0000" stop="20260608050927 +0000" channel="9768">
-    <title lang="en">Los Angeles Angels at Los Angeles Dodgers (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9769">
-    <display-name>New York Mets at San Diego Padres (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260607230927 +0000" stop="20260608050927 +0000" channel="9769">
-    <title lang="en">New York Mets at San Diego Padres (English)</title>
-    <icon src=""/>
-  </programme>
-  <channel id="9776">
-    <display-name>Portland Fire at Los Angeles Sparks (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260607230927 +0000" stop="20260608050927 +0000" channel="9776">
-    <title lang="en">Portland Fire at Los Angeles Sparks (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="9770">
     <display-name>San Francisco Giants at Chicago Cubs (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260607230927 +0000" stop="20260608050927 +0000" channel="9770">
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9770">
     <title lang="en">San Francisco Giants at Chicago Cubs (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9785">
+    <display-name>Uzbekistan at Netherlands (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9785">
+    <title lang="en">Uzbekistan at Netherlands (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9786">
+    <display-name>Northern Ireland at France (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9786">
+    <title lang="en">Northern Ireland at France (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9777">
+    <display-name>Seattle Mariners at Baltimore Orioles (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9777">
+    <title lang="en">Seattle Mariners at Baltimore Orioles (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9778">
+    <display-name>Boston Red Sox at Tampa Bay Rays (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9778">
+    <title lang="en">Boston Red Sox at Tampa Bay Rays (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9779">
+    <display-name>New York Yankees at Cleveland Guardians (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9779">
+    <title lang="en">New York Yankees at Cleveland Guardians (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9789">
+    <display-name>New York Liberty at Connecticut Sun (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9789">
+    <title lang="en">New York Liberty at Connecticut Sun (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9790">
+    <display-name>Indiana Fever at Washington Mystics (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9790">
+    <title lang="en">Indiana Fever at Washington Mystics (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9780">
+    <display-name>Philadelphia Phillies at Toronto Blue Jays (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9780">
+    <title lang="en">Philadelphia Phillies at Toronto Blue Jays (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9788">
+    <display-name>San Antonio Spurs at New York Knicks (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9788">
+    <title lang="en">San Antonio Spurs at New York Knicks (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9781">
+    <display-name>Houston Astros at Los Angeles Angels (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9781">
+    <title lang="en">Houston Astros at Los Angeles Angels (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9782">
+    <display-name>Cincinnati Reds at San Diego Padres (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9782">
+    <title lang="en">Cincinnati Reds at San Diego Padres (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9783">
+    <display-name>Washington Nationals at San Francisco Giants (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9783">
+    <title lang="en">Washington Nationals at San Francisco Giants (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9791">
+    <display-name>Seattle Storm at Las Vegas Aces (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9791">
+    <title lang="en">Seattle Storm at Las Vegas Aces (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9787">
+    <display-name>Spain at Peru (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9787">
+    <title lang="en">Spain at Peru (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9784">
+    <display-name>Milwaukee Brewers at Athletics Athletics (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260608041903 +0000" stop="20260608101903 +0000" channel="9784">
+    <title lang="en">Milwaukee Brewers at Athletics Athletics (English)</title>
     <icon src=""/>
   </programme>
 </tv>
