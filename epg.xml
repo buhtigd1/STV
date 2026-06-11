@@ -1,10 +1,42 @@
 <?xml version="1.0" ?>
 <tv>
+  <channel id="9835">
+    <display-name>Arizona Diamondbacks at Miami Marlins (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9835">
+    <title lang="en">Arizona Diamondbacks at Miami Marlins (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9836">
+    <display-name>Minnesota Twins at Detroit Tigers (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9836">
+    <title lang="en">Minnesota Twins at Detroit Tigers (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9837">
+    <display-name>St. Louis Cardinals at New York Mets (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9837">
+    <title lang="en">St. Louis Cardinals at New York Mets (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9838">
+    <display-name>Texas Rangers at Kansas City Royals (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9838">
+    <title lang="en">Texas Rangers at Kansas City Royals (English)</title>
+    <icon src=""/>
+  </programme>
   <channel id="9832">
     <display-name>South Africa at Mexico (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9832">
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9832">
     <title lang="en">South Africa at Mexico (English)</title>
     <icon src=""/>
   </programme>
@@ -12,7 +44,7 @@
     <display-name>South Africa at Mexico (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9832">
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9832">
     <title lang="en">South Africa at Mexico (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -20,15 +52,47 @@
     <display-name>South Africa at Mexico (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9832">
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9832">
     <title lang="en">South Africa at Mexico (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9839">
+    <display-name>Chicago Cubs at Colorado Rockies (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9839">
+    <title lang="en">Chicago Cubs at Colorado Rockies (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9840">
+    <display-name>Los Angeles Dodgers at Pittsburgh Pirates (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9840">
+    <title lang="en">Los Angeles Dodgers at Pittsburgh Pirates (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9841">
+    <display-name>Seattle Mariners at Baltimore Orioles (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9841">
+    <title lang="en">Seattle Mariners at Baltimore Orioles (English)</title>
+    <icon src=""/>
+  </programme>
+  <channel id="9844">
+    <display-name>Atlanta Braves at Chicago White Sox (English)</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9844">
+    <title lang="en">Atlanta Braves at Chicago White Sox (English)</title>
     <icon src=""/>
   </programme>
   <channel id="9834">
     <display-name>Vegas Golden Knights at Carolina Hurricanes (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9834">
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9834">
     <title lang="en">Vegas Golden Knights at Carolina Hurricanes (English)</title>
     <icon src=""/>
   </programme>
@@ -36,7 +100,7 @@
     <display-name>Czechia at South Korea (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9833">
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9833">
     <title lang="en">Czechia at South Korea (English)</title>
     <icon src=""/>
   </programme>
@@ -44,7 +108,7 @@
     <display-name>Czechia at South Korea (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9833">
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9833">
     <title lang="en">Czechia at South Korea (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -52,7 +116,7 @@
     <display-name>Czechia at South Korea (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9833">
+  <programme start="20260611143956 +0000" stop="20260611203956 +0000" channel="9833">
     <title lang="en">Czechia at South Korea (English)</title>
     <icon src=""/>
   </programme>
