@@ -1,18 +1,10 @@
 <?xml version="1.0" ?>
 <tv>
-  <channel id="9816">
-    <display-name>Los Angeles Sparks at Seattle Storm (English)</display-name>
-    <icon src=""/>
-  </channel>
-  <programme start="20260611055103 +0000" stop="20260611115103 +0000" channel="9816">
-    <title lang="en">Los Angeles Sparks at Seattle Storm (English)</title>
-    <icon src=""/>
-  </programme>
   <channel id="9832">
     <display-name>South Africa at Mexico (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611055103 +0000" stop="20260611115103 +0000" channel="9832">
+  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9832">
     <title lang="en">South Africa at Mexico (English)</title>
     <icon src=""/>
   </programme>
@@ -20,7 +12,7 @@
     <display-name>South Africa at Mexico (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611055103 +0000" stop="20260611115103 +0000" channel="9832">
+  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9832">
     <title lang="en">South Africa at Mexico (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -28,7 +20,7 @@
     <display-name>South Africa at Mexico (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611055103 +0000" stop="20260611115103 +0000" channel="9832">
+  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9832">
     <title lang="en">South Africa at Mexico (English)</title>
     <icon src=""/>
   </programme>
@@ -36,7 +28,7 @@
     <display-name>Vegas Golden Knights at Carolina Hurricanes (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611055103 +0000" stop="20260611115103 +0000" channel="9834">
+  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9834">
     <title lang="en">Vegas Golden Knights at Carolina Hurricanes (English)</title>
     <icon src=""/>
   </programme>
@@ -44,7 +36,7 @@
     <display-name>Czechia at South Korea (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611055103 +0000" stop="20260611115103 +0000" channel="9833">
+  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9833">
     <title lang="en">Czechia at South Korea (English)</title>
     <icon src=""/>
   </programme>
@@ -52,7 +44,7 @@
     <display-name>Czechia at South Korea (Spanish)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611055103 +0000" stop="20260611115103 +0000" channel="9833">
+  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9833">
     <title lang="en">Czechia at South Korea (Spanish)</title>
     <icon src=""/>
   </programme>
@@ -60,7 +52,7 @@
     <display-name>Czechia at South Korea (English)</display-name>
     <icon src=""/>
   </channel>
-  <programme start="20260611055103 +0000" stop="20260611115103 +0000" channel="9833">
+  <programme start="20260611104125 +0000" stop="20260611164125 +0000" channel="9833">
     <title lang="en">Czechia at South Korea (English)</title>
     <icon src=""/>
   </programme>

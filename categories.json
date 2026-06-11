@@ -3,7 +3,7 @@
     {
       "id": "9832",
       "name": "South Africa at Mexico (English)",
-      "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=PyMwqcYzbG25feGy5lDQYT1P9ItaPNgqswXjueJZuzk&e=1781167863",
+      "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=UBT0UMGZorQCmfHHHz5GwGYi2NghOZm8CtSgiT5bTu4&e=1781185285",
       "start": "2026-06-11T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
@@ -11,7 +11,7 @@
     {
       "id": "9832",
       "name": "South Africa at Mexico (Spanish)",
-      "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=sjcf85g52OCqJF9ONTekPcOQgHnAJF2o-EZhhhCUGG8&e=1781167863",
+      "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=ATxCsUUuEw8ux1sDqbPkmCAWqT2Q1cZZ2TwOemDmOCc&e=1781185285",
       "start": "2026-06-11T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
@@ -19,7 +19,7 @@
     {
       "id": "9832",
       "name": "South Africa at Mexico (English)",
-      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=dQX-_n_E5m9QH_qcnNUFAfyJXM9bHQwsXNFj23EGZaM&e=1781167863",
+      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=h4mpPnp7eRXA0-g6l4W59sftWbiWkwSPyLxxf6qE7Rc&e=1781185285",
       "start": "2026-06-11T20:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
@@ -27,7 +27,7 @@
     {
       "id": "9833",
       "name": "Czechia at South Korea (English)",
-      "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=j1x7o-ADG8QYj4dJVKKea4cdGUX_L5pcitbHOnVsOho&e=1781167862",
+      "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=jHfYIhOhnAvVgK948gBv7PtX2o3QSNgzYNaJVIolGOk&e=1781185284",
       "start": "2026-06-12T03:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png"
@@ -35,7 +35,7 @@
     {
       "id": "9833",
       "name": "Czechia at South Korea (Spanish)",
-      "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=C6_gkU-wkFkaWpvMiIL-opgs28XgFiO5iW0Bat8Q9UM&e=1781167862",
+      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=_xKUnlHyIZQVqTYFbPDaGdkqIHf4_CzqymW3__eHvBY&e=1781185284",
       "start": "2026-06-12T03:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png"
@@ -43,7 +43,7 @@
     {
       "id": "9833",
       "name": "Czechia at South Korea (English)",
-      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=T3NYCZh4CPhxiqpmk1ZCJe4m0z0jcS6TfPB7UK-OaPU&e=1781167862",
+      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=KdJ0i0WM5T_8w4dDsjThAl0gsMk2taEugPNvhVk5nMg&e=1781185284",
       "start": "2026-06-12T03:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png"
@@ -51,17 +51,9 @@
   ],
   "Other": [
     {
-      "id": "9816",
-      "name": "Los Angeles Sparks at Seattle Storm (English)",
-      "url": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?st=xJXij7jR_bmGef1i5QA2zOmRG4RP8_bg92gPID4ONKs&e=1781167863",
-      "start": "2026-06-11T03:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"
-    },
-    {
       "id": "9834",
       "name": "Vegas Golden Knights at Carolina Hurricanes (English)",
-      "url": "https://edge2caster.pro/hls/uyopzarf50.m3u8?st=WxhEyf-kiKM1ocQ_uK9Fu_wY37rSZYwhchBJ4-O1kMk&e=1781167862",
+      "url": "https://edgestreams.pro/hls/uyopzarf50.m3u8?st=8xI6nldyl85qNHODDcxk9RD0TURq65f_0qP0nDRfxDU&e=1781185284",
       "start": "2026-06-12T01:00:00",
       "categoryId": 16,
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png"

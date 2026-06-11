@@ -1,33 +1,29 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/buhtigd1/STV/main/epg.xml"
-#EXTINF:-1 tvg-id="9816" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png" group-title="Other",Los Angeles Sparks at Seattle Storm (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/ztyarueaghj71.m3u8?st=xJXij7jR_bmGef1i5QA2zOmRG4RP8_bg92gPID4ONKs&e=1781167863
 #EXTINF:-1 tvg-id="9832" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/mex.png" group-title="Football",South Africa at Mexico (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=PyMwqcYzbG25feGy5lDQYT1P9ItaPNgqswXjueJZuzk&e=1781167863
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=UBT0UMGZorQCmfHHHz5GwGYi2NghOZm8CtSgiT5bTu4&e=1781185285
 #EXTINF:-1 tvg-id="9832" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/mex.png" group-title="Football",South Africa at Mexico (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=sjcf85g52OCqJF9ONTekPcOQgHnAJF2o-EZhhhCUGG8&e=1781167863
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=ATxCsUUuEw8ux1sDqbPkmCAWqT2Q1cZZ2TwOemDmOCc&e=1781185285
 #EXTINF:-1 tvg-id="9832" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/mex.png" group-title="Football",South Africa at Mexico (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=dQX-_n_E5m9QH_qcnNUFAfyJXM9bHQwsXNFj23EGZaM&e=1781167863
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=h4mpPnp7eRXA0-g6l4W59sftWbiWkwSPyLxxf6qE7Rc&e=1781185285
 #EXTINF:-1 tvg-id="9834" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png" group-title="Other",Vegas Golden Knights at Carolina Hurricanes (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/uyopzarf50.m3u8?st=WxhEyf-kiKM1ocQ_uK9Fu_wY37rSZYwhchBJ4-O1kMk&e=1781167862
+https://edgestreams.pro/hls/uyopzarf50.m3u8?st=8xI6nldyl85qNHODDcxk9RD0TURq65f_0qP0nDRfxDU&e=1781185284
 #EXTINF:-1 tvg-id="9833" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/kors.png" group-title="Football",Czechia at South Korea (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=j1x7o-ADG8QYj4dJVKKea4cdGUX_L5pcitbHOnVsOho&e=1781167862
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=jHfYIhOhnAvVgK948gBv7PtX2o3QSNgzYNaJVIolGOk&e=1781185284
 #EXTINF:-1 tvg-id="9833" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/kors.png" group-title="Football",Czechia at South Korea (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=C6_gkU-wkFkaWpvMiIL-opgs28XgFiO5iW0Bat8Q9UM&e=1781167862
+https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=_xKUnlHyIZQVqTYFbPDaGdkqIHf4_CzqymW3__eHvBY&e=1781185284
 #EXTINF:-1 tvg-id="9833" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/kors.png" group-title="Football",Czechia at South Korea (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=T3NYCZh4CPhxiqpmk1ZCJe4m0z0jcS6TfPB7UK-OaPU&e=1781167862
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=KdJ0i0WM5T_8w4dDsjThAl0gsMk2taEugPNvhVk5nMg&e=1781185284
