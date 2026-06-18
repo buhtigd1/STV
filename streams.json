@@ -1,68 +1,8 @@
 [
   {
-    "id": "9987",
-    "name": "South Africa at Czechia (English)",
-    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=kqxBW_hIl5EPPNAXhdp8TexyXXnYKIdnYYUC3JXoPSU&e=1781821897",
-    "categoryId": 9,
-    "start": "2026-06-18T17:00:00",
-    "original_name_upper": "SOUTH AFRICA AT CZECHIA",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png"
-  },
-  {
-    "id": "9987",
-    "name": "South Africa at Czechia (Spanish)",
-    "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=37R_A_ZJggRq5x7kymMeebhNTGuZyBuccSu2DROQyHQ&e=1781821897",
-    "categoryId": 9,
-    "start": "2026-06-18T17:00:00",
-    "original_name_upper": "SOUTH AFRICA AT CZECHIA",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png"
-  },
-  {
-    "id": "9987",
-    "name": "South Africa at Czechia (English)",
-    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=w9539oNghXvSpvNL3msAaIVM8oxqc8cKXgjpjkxuglM&e=1781821897",
-    "categoryId": 9,
-    "start": "2026-06-18T17:00:00",
-    "original_name_upper": "SOUTH AFRICA AT CZECHIA",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png"
-  },
-  {
-    "id": "9987",
-    "name": "South Africa at Czechia (Arabic)",
-    "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=0joYwI1kllyjXE-RFncb6ywizO58x4nINAuAH1OEHVw&e=1781821897",
-    "categoryId": 9,
-    "start": "2026-06-18T17:00:00",
-    "original_name_upper": "SOUTH AFRICA AT CZECHIA",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png"
-  },
-  {
-    "id": "9992",
-    "name": "Toronto Blue Jays at Boston Red Sox (English)",
-    "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?st=f51wc6-OUZaJLSu6Mv0lYDJFX11M7HDzVur86hTu9Ig&e=1781821897",
-    "categoryId": 13,
-    "start": "2026-06-18T18:35:00",
-    "original_name_upper": "TORONTO BLUE JAYS AT BOSTON RED SOX",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
-  },
-  {
-    "id": "9993",
-    "name": "Cleveland Guardians at Milwaukee Brewers (English)",
-    "url": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?st=9BzC7zx7elAFumSJU4BwTeB7Yr0-LG-lX7WXVsHxROI&e=1781821897",
-    "categoryId": 13,
-    "start": "2026-06-18T19:10:00",
-    "original_name_upper": "CLEVELAND GUARDIANS AT MILWAUKEE BREWERS",
-    "logoTeam1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png",
-    "logoTeam2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
-  },
-  {
     "id": "9994",
     "name": "Minnesota Twins at Texas Rangers (English)",
-    "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=qyp1Uiuses3S5eHAKB7-Cl_ihnpCc7igskwvs9Vyjs8&e=1781821897",
+    "url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=cnLqQL6VkUvPBp7L8KdbLhm9CvJdWL8tB93BGd2hBLI&e=1781831565",
     "categoryId": 13,
     "start": "2026-06-18T19:35:00",
     "original_name_upper": "MINNESOTA TWINS AT TEXAS RANGERS",
@@ -72,7 +12,7 @@
   {
     "id": "9988",
     "name": "Bosnia-Herzegovina at Switzerland (English)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=LjIVY7D-bRNHjIRQYwalZ5UoFG98qvjGr_pA-puzn9I&e=1781821896",
+    "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=iGh6-yYraUnBpgESTfq7Gsb_WloqNf52YtOltbiuXrU&e=1781831565",
     "categoryId": 9,
     "start": "2026-06-18T20:00:00",
     "original_name_upper": "BOSNIA-HERZEGOVINA AT SWITZERLAND",
@@ -82,7 +22,7 @@
   {
     "id": "9988",
     "name": "Bosnia-Herzegovina at Switzerland (Spanish)",
-    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=37R_A_ZJggRq5x7kymMeebhNTGuZyBuccSu2DROQyHQ&e=1781821897",
+    "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=B7sGBTUWn_WViZnI_1Q2yJGeaYTDKlGsJ2d6SvsgkPY&e=1781831565",
     "categoryId": 9,
     "start": "2026-06-18T20:00:00",
     "original_name_upper": "BOSNIA-HERZEGOVINA AT SWITZERLAND",
@@ -92,7 +32,7 @@
   {
     "id": "9988",
     "name": "Bosnia-Herzegovina at Switzerland (English)",
-    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=w9539oNghXvSpvNL3msAaIVM8oxqc8cKXgjpjkxuglM&e=1781821897",
+    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=0gK3vqQQehdRcAIsumUqIs5_GsZMrUoosLj28VM5Zls&e=1781831565",
     "categoryId": 9,
     "start": "2026-06-18T20:00:00",
     "original_name_upper": "BOSNIA-HERZEGOVINA AT SWITZERLAND",
@@ -102,7 +42,7 @@
   {
     "id": "9988",
     "name": "Bosnia-Herzegovina at Switzerland (Arabic)",
-    "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=0joYwI1kllyjXE-RFncb6ywizO58x4nINAuAH1OEHVw&e=1781821897",
+    "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=QJh4CKm-Q6ZUxRBwRgWDkJvIv-s3AZjwE5V547ZifTA&e=1781831565",
     "categoryId": 9,
     "start": "2026-06-18T20:00:00",
     "original_name_upper": "BOSNIA-HERZEGOVINA AT SWITZERLAND",
@@ -112,7 +52,7 @@
   {
     "id": "9995",
     "name": "Baltimore Orioles at Seattle Mariners (English)",
-    "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=ZozYONtC6BhMYYbS5ZVQ6tTaPZ1sYCHEgo-cHA07Vts&e=1781821896",
+    "url": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=YFpW-uJzczu9vWWkn3VIYlloQSrzw3UCJaGseIcSV4g&e=1781831565",
     "categoryId": 13,
     "start": "2026-06-18T21:10:00",
     "original_name_upper": "BALTIMORE ORIOLES AT SEATTLE MARINERS",
@@ -122,7 +62,7 @@
   {
     "id": "9989",
     "name": "Qatar at Canada (English)",
-    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=LjIVY7D-bRNHjIRQYwalZ5UoFG98qvjGr_pA-puzn9I&e=1781821896",
+    "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=anYy0GkugjM4bY3mNHQqo5FwFc0PrV2XSoDX4nTBLZ8&e=1781831564",
     "categoryId": 9,
     "start": "2026-06-18T23:00:00",
     "original_name_upper": "QATAR AT CANADA",
@@ -132,7 +72,7 @@
   {
     "id": "9989",
     "name": "Qatar at Canada (Spanish)",
-    "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?st=hz7yZBRl-_BwbXLa4kvwJyeWG2vAKtFUv26v5n2olt0&e=1781821896",
+    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=dSaEzlNcXmoVEX55dduiWwkt_xjwVkp7MgfRpu4HtiY&e=1781831564",
     "categoryId": 9,
     "start": "2026-06-18T23:00:00",
     "original_name_upper": "QATAR AT CANADA",
@@ -142,7 +82,7 @@
   {
     "id": "9989",
     "name": "Qatar at Canada (English)",
-    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=vUVzkITtMDmG5hLTL4CeoNKGQYDj298NRswIk5AWf9M&e=1781821896",
+    "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=0gK3vqQQehdRcAIsumUqIs5_GsZMrUoosLj28VM5Zls&e=1781831565",
     "categoryId": 9,
     "start": "2026-06-18T23:00:00",
     "original_name_upper": "QATAR AT CANADA",
@@ -152,7 +92,7 @@
   {
     "id": "9989",
     "name": "Qatar at Canada (Arabic)",
-    "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=9PxoR1lLEvVUHvphBN2R4AnHovOmizIOOl3i0pcfhWM&e=1781821896",
+    "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?st=QJh4CKm-Q6ZUxRBwRgWDkJvIv-s3AZjwE5V547ZifTA&e=1781831565",
     "categoryId": 9,
     "start": "2026-06-18T23:00:00",
     "original_name_upper": "QATAR AT CANADA",
@@ -162,7 +102,7 @@
   {
     "id": "9996",
     "name": "New York Mets at Philadelphia Phillies (English)",
-    "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=NV6WfIEqOQ-LWYiN7Z59-1MadQtqoa5CFAbOVopuHlw&e=1781821896",
+    "url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=mYTrxHv6eusovQa28W-2DLkPD0eC99VjNe8xYR6bQUs&e=1781831564",
     "categoryId": 13,
     "start": "2026-06-18T23:40:00",
     "original_name_upper": "NEW YORK METS AT PHILADELPHIA PHILLIES",
@@ -172,7 +112,7 @@
   {
     "id": "9997",
     "name": "Chicago White Sox at New York Yankees (English)",
-    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=byw8Vw3KqkVZdx5mBb95e0CqfHGmoJT7ux70ETb9YTc&e=1781821896",
+    "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=dYSji2kmgYBLxj6JT02zTFLAQW2mGXStbD7bB3-2dYA&e=1781831564",
     "categoryId": 13,
     "start": "2026-06-19T00:05:00",
     "original_name_upper": "CHICAGO WHITE SOX AT NEW YORK YANKEES",
@@ -182,7 +122,7 @@
   {
     "id": "9998",
     "name": "San Francisco Giants at Atlanta Braves (English)",
-    "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=xyq121XFeDQavLPs_OmWxJt4MNbT1CG4-zKqmIBwBk8&e=1781821896",
+    "url": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?st=eQtdiPvDJCOJ6rF1zob7qsbxLeuRKUxJOOvAbgwmuw4&e=1781831564",
     "categoryId": 13,
     "start": "2026-06-19T00:15:00",
     "original_name_upper": "SAN FRANCISCO GIANTS AT ATLANTA BRAVES",
@@ -192,7 +132,7 @@
   {
     "id": "9991",
     "name": "Atlanta Dream at Indiana Fever (English)",
-    "url": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=KOihQMFZ-pBIlBlqfgDiImU2iAHnQUJr9oCDPZL4soc&e=1781821896",
+    "url": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?st=penY5zHVOqhm7hmDh8HBzKnaQpLhdcuXmq26lcJ2LwE&e=1781831564",
     "categoryId": 4,
     "start": "2026-06-19T00:30:00",
     "original_name_upper": "ATLANTA DREAM AT INDIANA FEVER",
@@ -202,7 +142,7 @@
   {
     "id": "9999",
     "name": "St. Louis Cardinals at Kansas City Royals (English)",
-    "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=PMJlGztKKTMCeQuhCOoSzY3iEh0yl2Lj4Vgmm2vIXOM&e=1781821896",
+    "url": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=i4eYMDPNqMD35bwElk3Ocq0pJN2utzrXvNh2kpbjP6c&e=1781831564",
     "categoryId": 13,
     "start": "2026-06-19T00:40:00",
     "original_name_upper": "ST. LOUIS CARDINALS AT KANSAS CITY ROYALS",
@@ -212,7 +152,7 @@
   {
     "id": "9990",
     "name": "South Korea at Mexico (English)",
-    "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=lgPV2qqifdDo8cbqcQqOnVRT4w534VREo4_Jn_2y8o0&e=1781821895",
+    "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=5fmItNA6-pdVcJ6t0tGeWqHW481BJ_KqHb2q_4skOQo&e=1781831563",
     "categoryId": 9,
     "start": "2026-06-19T02:00:00",
     "original_name_upper": "SOUTH KOREA AT MEXICO",
@@ -222,7 +162,7 @@
   {
     "id": "9990",
     "name": "South Korea at Mexico (Spanish)",
-    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=gg-E1nZF0MMsDmxpRMJoHpI_L4LA55JGYUD7utP7QrY&e=1781821895",
+    "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=cW8OhmKUykcPAPwJ2AME7PGKJMiwtQyZOd-yowRftJE&e=1781831563",
     "categoryId": 9,
     "start": "2026-06-19T02:00:00",
     "original_name_upper": "SOUTH KOREA AT MEXICO",
@@ -232,7 +172,7 @@
   {
     "id": "9990",
     "name": "South Korea at Mexico (English)",
-    "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=704NREuDGH_wgSnh84kJOFZ3f7w131VNQB-14bEgXY0&e=1781821895",
+    "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=szr8QBRjfhENAlK8lut0yVBcF--xKKELR3hQ5Pnzo4w&e=1781831563",
     "categoryId": 9,
     "start": "2026-06-19T02:00:00",
     "original_name_upper": "SOUTH KOREA AT MEXICO",
@@ -242,7 +182,7 @@
   {
     "id": "9990",
     "name": "South Korea at Mexico (Arabic)",
-    "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=Dl2HmJEsD05hj227vZTgst4H9IOEthdRxIp8qzTTlsI&e=1781821895",
+    "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=3H9C6GdiXZZf43KWpFY6q5Uv84switnA5iG8a1_HAUA&e=1781831564",
     "categoryId": 9,
     "start": "2026-06-19T02:00:00",
     "original_name_upper": "SOUTH KOREA AT MEXICO",
@@ -252,7 +192,7 @@
   {
     "id": "10000",
     "name": "Los Angeles Angels at Athletics Athletics (English)",
-    "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=iQNTjCgIrsZ7EkqlQkPmPpV03_-o6c7RMvhl1qAEI4o&e=1781821895",
+    "url": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=LurgvSh8KZl_mk3I9GrkseaDt7BfNkOL0bW5u2G2BP0&e=1781831563",
     "categoryId": 13,
     "start": "2026-06-19T02:40:00",
     "original_name_upper": "LOS ANGELES ANGELS AT ATHLETICS ATHLETICS",
