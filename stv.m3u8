@@ -1,25 +1,49 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/buhtigd1/STV/main/epg.xml"
-#EXTINF:-1 tvg-id="10232" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" group-title="Other",Athletics Athletics at Los Angeles Angels (English)
+#EXTINF:-1 tvg-id="10238" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bra.png" group-title="Football",Japan at Brazil (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=kc_OAzwIo8LZu8IgsQD_-pXQcmr5KSST4jmSRRf5nk4&e=1782698752
-#EXTINF:-1 tvg-id="10219" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/chi.png" group-title="Other",Las Vegas Aces at Chicago Sky (English)
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=ToIlp1ncK1Gi5wEgntPHru2diTR0CnXdjhiL_M_SvTU&e=1782717249
+#EXTINF:-1 tvg-id="10238" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bra.png" group-title="Football",Japan at Brazil (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?st=ltH27eslX6JPV-lmNytvUEgfzjQymWspD1BVNOLtOfI&e=1782698752
-#EXTINF:-1 tvg-id="10233" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" group-title="Other",Atlanta Braves at San Francisco Giants (English)
+https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=kDvEEfUdojxm3ajA70cvzcbrv7hVTAIDaL8LIwfB_gA&e=1782717249
+#EXTINF:-1 tvg-id="10238" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bra.png" group-title="Football",Japan at Brazil (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=f-PIelX_NQ6vbq1cd_V2xCNxDdUeIjg8pSrH20PCzJY&e=1782698751
-#EXTINF:-1 tvg-id="10234" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png" group-title="Other",Los Angeles Dodgers at San Diego Padres (English)
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=0m6KsEqMhuW87FZ_NhIT_6W5Q6wupkXlmtKOrWa6dnY&e=1782717249
+#EXTINF:-1 tvg-id="10238" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/bra.png" group-title="Football",Japan at Brazil (French)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://edge2caster.pro/hls/hefbafbakx28.m3u8?st=sQtEmUHKbzpIHbvCw9dKnUc1afDnuD1QU5vwFwUA9GY&e=1782698751
-#EXTINF:-1 tvg-id="10220" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png" group-title="Other",New York Liberty at Golden State Valkyries (English)
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=vRYYEODYrt4KhejNasB8vnM_XDbEOECf1xDNBAbxXQA&e=1782717249
+#EXTINF:-1 tvg-id="10239" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ger.png" group-title="Football",Paraguay at Germany (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=q_yEyraPM5ToePX3_F9e_2-heXqXkFO-rAYxEQcNn1o&e=1782698751
-#EXTINF:-1 tvg-id="10235" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" group-title="Other",New York Yankees at Boston Red Sox (English)
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=mNRivBYhgNFfMw3vgYp1Db3bDq-vVuZMVBWrP22HWkg&e=1782717248
+#EXTINF:-1 tvg-id="10239" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ger.png" group-title="Football",Paraguay at Germany (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=CTgbUNmvl9OIXhlL8ANxL5cE6leOVH1RzZPZmLF-CFU&e=1782698751
+https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=LrnBhximLP89wPgeEk0POwkH3V4moXrHZsU1afVHE40&e=1782717248
+#EXTINF:-1 tvg-id="10239" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ger.png" group-title="Football",Paraguay at Germany (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=H4q1z53vCIuVUp69Q4476Yx6MefH_GfzQ_LFLekWGoU&e=1782717248
+#EXTINF:-1 tvg-id="10239" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ger.png" group-title="Football",Paraguay at Germany (French)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=qbQp8OlTpnrqR7CC43HxKbxqIzQOWzNfhrv4iOgfLZs&e=1782717248
+#EXTINF:-1 tvg-id="10240" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ned.png" group-title="Football",Morocco at Netherlands (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=mNRivBYhgNFfMw3vgYp1Db3bDq-vVuZMVBWrP22HWkg&e=1782717248
+#EXTINF:-1 tvg-id="10240" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ned.png" group-title="Football",Morocco at Netherlands (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=LrnBhximLP89wPgeEk0POwkH3V4moXrHZsU1afVHE40&e=1782717248
+#EXTINF:-1 tvg-id="10240" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ned.png" group-title="Football",Morocco at Netherlands (Spanish)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=H4q1z53vCIuVUp69Q4476Yx6MefH_GfzQ_LFLekWGoU&e=1782717248
+#EXTINF:-1 tvg-id="10240" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/ned.png" group-title="Football",Morocco at Netherlands (French)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streams.center/
+https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=qbQp8OlTpnrqR7CC43HxKbxqIzQOWzNfhrv4iOgfLZs&e=1782717248

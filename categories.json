@@ -1,52 +1,100 @@
 {
-  "Other": [
+  "Football": [
     {
-      "id": "10232",
-      "name": "Athletics Athletics at Los Angeles Angels (English)",
-      "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=kc_OAzwIo8LZu8IgsQD_-pXQcmr5KSST4jmSRRf5nk4&e=1782698752",
-      "start": "2026-06-28T20:15:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+      "id": "10238",
+      "name": "Japan at Brazil (English)",
+      "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=ToIlp1ncK1Gi5wEgntPHru2diTR0CnXdjhiL_M_SvTU&e=1782717249",
+      "start": "2026-06-29T18:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
     },
     {
-      "id": "10219",
-      "name": "Las Vegas Aces at Chicago Sky (English)",
-      "url": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?st=ltH27eslX6JPV-lmNytvUEgfzjQymWspD1BVNOLtOfI&e=1782698752",
-      "start": "2026-06-28T21:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
+      "id": "10238",
+      "name": "Japan at Brazil (Arabic)",
+      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=kDvEEfUdojxm3ajA70cvzcbrv7hVTAIDaL8LIwfB_gA&e=1782717249",
+      "start": "2026-06-29T18:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
     },
     {
-      "id": "10233",
-      "name": "Atlanta Braves at San Francisco Giants (English)",
-      "url": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=f-PIelX_NQ6vbq1cd_V2xCNxDdUeIjg8pSrH20PCzJY&e=1782698751",
-      "start": "2026-06-28T21:05:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+      "id": "10238",
+      "name": "Japan at Brazil (Spanish)",
+      "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=0m6KsEqMhuW87FZ_NhIT_6W5Q6wupkXlmtKOrWa6dnY&e=1782717249",
+      "start": "2026-06-29T18:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
     },
     {
-      "id": "10234",
-      "name": "Los Angeles Dodgers at San Diego Padres (English)",
-      "url": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?st=sQtEmUHKbzpIHbvCw9dKnUc1afDnuD1QU5vwFwUA9GY&e=1782698751",
-      "start": "2026-06-28T21:10:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+      "id": "10238",
+      "name": "Japan at Brazil (French)",
+      "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=vRYYEODYrt4KhejNasB8vnM_XDbEOECf1xDNBAbxXQA&e=1782717249",
+      "start": "2026-06-29T18:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
     },
     {
-      "id": "10220",
-      "name": "New York Liberty at Golden State Valkyries (English)",
-      "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?st=q_yEyraPM5ToePX3_F9e_2-heXqXkFO-rAYxEQcNn1o&e=1782698751",
-      "start": "2026-06-29T00:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
+      "id": "10239",
+      "name": "Paraguay at Germany (English)",
+      "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=mNRivBYhgNFfMw3vgYp1Db3bDq-vVuZMVBWrP22HWkg&e=1782717248",
+      "start": "2026-06-29T21:30:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
     },
     {
-      "id": "10235",
-      "name": "New York Yankees at Boston Red Sox (English)",
-      "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=CTgbUNmvl9OIXhlL8ANxL5cE6leOVH1RzZPZmLF-CFU&e=1782698751",
-      "start": "2026-06-29T00:20:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+      "id": "10239",
+      "name": "Paraguay at Germany (Arabic)",
+      "url": "https://edgestreams.pro/hls/eJmauBDCIf.m3u8?st=LrnBhximLP89wPgeEk0POwkH3V4moXrHZsU1afVHE40&e=1782717248",
+      "start": "2026-06-29T21:30:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+    },
+    {
+      "id": "10239",
+      "name": "Paraguay at Germany (Spanish)",
+      "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=H4q1z53vCIuVUp69Q4476Yx6MefH_GfzQ_LFLekWGoU&e=1782717248",
+      "start": "2026-06-29T21:30:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+    },
+    {
+      "id": "10239",
+      "name": "Paraguay at Germany (French)",
+      "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?st=qbQp8OlTpnrqR7CC43HxKbxqIzQOWzNfhrv4iOgfLZs&e=1782717248",
+      "start": "2026-06-29T21:30:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+    },
+    {
+      "id": "10240",
+      "name": "Morocco at Netherlands (English)",
+      "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=mNRivBYhgNFfMw3vgYp1Db3bDq-vVuZMVBWrP22HWkg&e=1782717248",
+      "start": "2026-06-30T02:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+    },
+    {
+      "id": "10240",
+      "name": "Morocco at Netherlands (Arabic)",
+      "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=LrnBhximLP89wPgeEk0POwkH3V4moXrHZsU1afVHE40&e=1782717248",
+      "start": "2026-06-30T02:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+    },
+    {
+      "id": "10240",
+      "name": "Morocco at Netherlands (Spanish)",
+      "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=H4q1z53vCIuVUp69Q4476Yx6MefH_GfzQ_LFLekWGoU&e=1782717248",
+      "start": "2026-06-30T02:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+    },
+    {
+      "id": "10240",
+      "name": "Morocco at Netherlands (French)",
+      "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?st=qbQp8OlTpnrqR7CC43HxKbxqIzQOWzNfhrv4iOgfLZs&e=1782717248",
+      "start": "2026-06-30T02:00:00",
+      "categoryId": 9,
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
     }
   ]
 }
