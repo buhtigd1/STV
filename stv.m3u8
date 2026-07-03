@@ -1,61 +1,25 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/buhtigd1/STV/main/epg.xml"
-#EXTINF:-1 tvg-id="10297" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png" group-title="Other",Chicago White Sox at Cleveland Guardians (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=XJ7KK0VtnS_wU5v4ju647kPj_RlOycZhfDaerKHSBBM&e=1783048136
-#EXTINF:-1 tvg-id="10292" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/por.png" group-title="Football",Croatia at Portugal (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=H2KXyLwGEa0WPqEsjegzVRQja5UfenRn1vlDtzo7db8&e=1783048135
-#EXTINF:-1 tvg-id="10292" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/por.png" group-title="Football",Croatia at Portugal (Arabic)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=3pcPMCe5yyDBvKXDABCxChG0dpuoYfKkZzYDk2vQCfM&e=1783048135
-#EXTINF:-1 tvg-id="10292" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/por.png" group-title="Football",Croatia at Portugal (Spanish)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=5xEaEkmWzTGdMCds_Ae4SkJrYh9HXhboC9H-ZGRb38s&e=1783048136
-#EXTINF:-1 tvg-id="10298" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" group-title="Other",St. Louis Cardinals at Atlanta Braves (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=caK6wG0MLjWYI4xQvkKa9ADl9x0WWjJLaHwBUJyzAdE&e=1783048135
-#EXTINF:-1 tvg-id="10303" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png" group-title="Other",Atlanta Dream at Washington Mystics (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=MmdVan0n-d4-DVpDSogGb1APqQZRAiuZkkaIpzHTneI&e=1783048135
-#EXTINF:-1 tvg-id="10299" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" group-title="Other",Tampa Bay Rays at Kansas City Royals (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=xBoU93NVNqLvA4vaHlEoMZVYvn40QYp48Mt1CeJyTPU&e=1783048135
-#EXTINF:-1 tvg-id="10304" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/con.png" group-title="Other",Dallas Wings at Connecticut Sun (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=keRiJgUZuPuPtkEFnutixYkp1OKQDpgJFDWF7hn97YE&e=1783048134
-#EXTINF:-1 tvg-id="10300" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Other",Detroit Tigers at Texas Rangers (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=ku-WlTskaagiFPqW1WkS53bpJTGWj5LdmMTHJbZpjCE&e=1783048134
 #EXTINF:-1 tvg-id="10301" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="Other",Los Angeles Angels at Seattle Mariners (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=jyUTxpxNz0lb5b-3K1qcGhp3CJT7q0nuw9EcXdi8Iyk&e=1783048134
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=P8L7lv2jqcTv6ESUDOsLjU5YfApPttyqK_0yMMYjNmo&e=1783064642
 #EXTINF:-1 tvg-id="10305" tvg-logo="https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png" group-title="Other",Seattle Storm at Phoenix Mercury (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=5Yji-PD8CfaEbxjhk2E4BphMIxN_dJNf_5aMfJsphU4&e=1783048134
+https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=mec116gpcalGCdBaIddakhChbM1hcBuxRPcRg6R15NM&e=1783064642
 #EXTINF:-1 tvg-id="10302" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png" group-title="Other",San Diego Padres at Los Angeles Dodgers (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=H9v8GWJJdHDQ5nGn1wMqRlMYkE-AQVZN50uyst6zqks&e=1783048133
+https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=aHsDlq2YiKRq6UlFUU1Cz5KFdehsdMAR9y-oEsKk2Kc&e=1783064641
 #EXTINF:-1 tvg-id="10293" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/sui.png" group-title="Football",Algeria at Switzerland (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=YQu__Ni-3QHM8dzvFV0PmXcODt80RjymyB8h-f9NRLs&e=1783048133
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=DrRWXk-5TrxnkcdywBNMxW2i8XwvLsQThjmoGMjdkwA&e=1783064641
 #EXTINF:-1 tvg-id="10293" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/sui.png" group-title="Football",Algeria at Switzerland (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=5Og3dbdauuGUAHjpC-cf-2BhVfB8iVmouubQUoIHJz4&e=1783048133
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=KGVwnynjpT4Ue18_qr04OxJnBprUjndbg28tginu2kE&e=1783064641
 #EXTINF:-1 tvg-id="10293" tvg-logo="https://a.espncdn.com/i/teamlogos/countries/500/sui.png" group-title="Football",Algeria at Switzerland (Spanish)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=zUfTp323BxlKRUrlJYIM3HP83LCMoyEoJhOyqmEoVoM&e=1783048133
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=G-jw8sJZ4HyZ_oQBf04KiV_GrpRNjYoGyt2Zjiv5KAA&e=1783064641

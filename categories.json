@@ -1,33 +1,9 @@
 {
   "Football": [
     {
-      "id": "10292",
-      "name": "Croatia at Portugal (English)",
-      "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=H2KXyLwGEa0WPqEsjegzVRQja5UfenRn1vlDtzo7db8&e=1783048135",
-      "start": "2026-07-03T00:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
-    },
-    {
-      "id": "10292",
-      "name": "Croatia at Portugal (Arabic)",
-      "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=3pcPMCe5yyDBvKXDABCxChG0dpuoYfKkZzYDk2vQCfM&e=1783048135",
-      "start": "2026-07-03T00:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
-    },
-    {
-      "id": "10292",
-      "name": "Croatia at Portugal (Spanish)",
-      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=5xEaEkmWzTGdMCds_Ae4SkJrYh9HXhboC9H-ZGRb38s&e=1783048136",
-      "start": "2026-07-03T00:00:00",
-      "categoryId": 9,
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
-    },
-    {
       "id": "10293",
       "name": "Algeria at Switzerland (English)",
-      "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=YQu__Ni-3QHM8dzvFV0PmXcODt80RjymyB8h-f9NRLs&e=1783048133",
+      "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=DrRWXk-5TrxnkcdywBNMxW2i8XwvLsQThjmoGMjdkwA&e=1783064641",
       "start": "2026-07-03T04:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
@@ -35,7 +11,7 @@
     {
       "id": "10293",
       "name": "Algeria at Switzerland (Arabic)",
-      "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=5Og3dbdauuGUAHjpC-cf-2BhVfB8iVmouubQUoIHJz4&e=1783048133",
+      "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=KGVwnynjpT4Ue18_qr04OxJnBprUjndbg28tginu2kE&e=1783064641",
       "start": "2026-07-03T04:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
@@ -43,7 +19,7 @@
     {
       "id": "10293",
       "name": "Algeria at Switzerland (Spanish)",
-      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=zUfTp323BxlKRUrlJYIM3HP83LCMoyEoJhOyqmEoVoM&e=1783048133",
+      "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=G-jw8sJZ4HyZ_oQBf04KiV_GrpRNjYoGyt2Zjiv5KAA&e=1783064641",
       "start": "2026-07-03T04:00:00",
       "categoryId": 9,
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
@@ -51,57 +27,9 @@
   ],
   "Other": [
     {
-      "id": "10297",
-      "name": "Chicago White Sox at Cleveland Guardians (English)",
-      "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?st=XJ7KK0VtnS_wU5v4ju647kPj_RlOycZhfDaerKHSBBM&e=1783048136",
-      "start": "2026-07-02T23:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
-    },
-    {
-      "id": "10298",
-      "name": "St. Louis Cardinals at Atlanta Braves (English)",
-      "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=caK6wG0MLjWYI4xQvkKa9ADl9x0WWjJLaHwBUJyzAdE&e=1783048135",
-      "start": "2026-07-03T00:15:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
-    },
-    {
-      "id": "10303",
-      "name": "Atlanta Dream at Washington Mystics (English)",
-      "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=MmdVan0n-d4-DVpDSogGb1APqQZRAiuZkkaIpzHTneI&e=1783048135",
-      "start": "2026-07-03T00:30:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png"
-    },
-    {
-      "id": "10299",
-      "name": "Tampa Bay Rays at Kansas City Royals (English)",
-      "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=xBoU93NVNqLvA4vaHlEoMZVYvn40QYp48Mt1CeJyTPU&e=1783048135",
-      "start": "2026-07-03T00:40:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
-    },
-    {
-      "id": "10304",
-      "name": "Dallas Wings at Connecticut Sun (English)",
-      "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=keRiJgUZuPuPtkEFnutixYkp1OKQDpgJFDWF7hn97YE&e=1783048134",
-      "start": "2026-07-03T01:00:00",
-      "categoryId": 4,
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
-    },
-    {
-      "id": "10300",
-      "name": "Detroit Tigers at Texas Rangers (English)",
-      "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=ku-WlTskaagiFPqW1WkS53bpJTGWj5LdmMTHJbZpjCE&e=1783048134",
-      "start": "2026-07-03T01:05:00",
-      "categoryId": 13,
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
-    },
-    {
       "id": "10301",
       "name": "Los Angeles Angels at Seattle Mariners (English)",
-      "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=jyUTxpxNz0lb5b-3K1qcGhp3CJT7q0nuw9EcXdi8Iyk&e=1783048134",
+      "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=P8L7lv2jqcTv6ESUDOsLjU5YfApPttyqK_0yMMYjNmo&e=1783064642",
       "start": "2026-07-03T02:40:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
@@ -109,7 +37,7 @@
     {
       "id": "10305",
       "name": "Seattle Storm at Phoenix Mercury (English)",
-      "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=5Yji-PD8CfaEbxjhk2E4BphMIxN_dJNf_5aMfJsphU4&e=1783048134",
+      "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=mec116gpcalGCdBaIddakhChbM1hcBuxRPcRg6R15NM&e=1783064642",
       "start": "2026-07-03T03:00:00",
       "categoryId": 4,
       "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"
@@ -117,7 +45,7 @@
     {
       "id": "10302",
       "name": "San Diego Padres at Los Angeles Dodgers (English)",
-      "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=H9v8GWJJdHDQ5nGn1wMqRlMYkE-AQVZN50uyst6zqks&e=1783048133",
+      "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=aHsDlq2YiKRq6UlFUU1Cz5KFdehsdMAR9y-oEsKk2Kc&e=1783064641",
       "start": "2026-07-03T03:10:00",
       "categoryId": 13,
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
