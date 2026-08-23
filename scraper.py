@@ -6,6 +6,8 @@ import datetime
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import os
+import random
+import logging
 from collections import defaultdict
 
 # ────────────────────────────────────────────────
@@ -22,16 +24,40 @@ CATEGORIES_JSON = "categories.json"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Category mapping — used for both grouping and M3U group-title
 CATEGORY_MAP = {
-    15:  {"key": 15,  "name": "F1",       "icon": "🏎️", "priority": 0},  # F1 on top
-    9:   {"key": 9,   "name": "Football",   "icon": "⚽", "priority": 1},
+    15:  {"key": 15,  "name": "F1",       "icon": "🏎️", "priority": 0},
+    9:   {"key": 9,   "name": "Football", "icon": "⚽", "priority": 1},
     "other": {"key": "other", "name": "Other", "icon": "", "priority": 99},
 }
 
-NFL_PATTERNS = [
-    "NFL", "NATIONAL FOOTBALL"
-]
+NFL_PATTERNS = ["NFL", "NATIONAL FOOTBALL"]
+
+# ────────────────────────────────────────────────
+# Logging setup
+# ────────────────────────────────────────────────
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[logging.StreamHandler()]
+)
+
+# ────────────────────────────────────────────────
+# Retry wrapper with jitter
+# ────────────────────────────────────────────────
+async def fetch_with_retry(client, url, headers=None, max_attempts=5):
+    attempt = 0
+    while attempt < max_attempts:
+        try:
+            resp = await client.get(url, headers=headers)
+            resp.raise_for_status()
+            return resp
+        except Exception as e:
+            attempt += 1
+            wait = 2 ** attempt + random.uniform(0, 1)
+            logging.warning(f"Attempt {attempt} failed for {url}: {e}. Retrying in {wait:.2f}s...")
+            await asyncio.sleep(wait)
+    logging.error(f"All {max_attempts} attempts failed for {url}")
+    return None
 
 # ────────────────────────────────────────────────
 async def resolve_m3u8(client: httpx.AsyncClient, embed_url: str) -> str:
@@ -39,46 +65,57 @@ async def resolve_m3u8(client: httpx.AsyncClient, embed_url: str) -> str:
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Referer": "https://streams.center/",
     }
-    try:
-        r1 = await client.get(embed_url, headers=headers, follow_redirects=True)
-        iframe_match = re.search(r'<iframe\s+src=["\']([^"\']+)["\']', r1.text, re.I)
-        if not iframe_match:
+    attempt = 0
+    while attempt < 3:
+        try:
+            r1 = await client.get(embed_url, headers=headers, follow_redirects=True)
+            iframe_match = re.search(r'<iframe\s+src=["\']([^"\']+)["\']', r1.text, re.I)
+            if not iframe_match:
+                return embed_url
+
+            inner = iframe_match.group(1)
+            if inner.startswith('//'):
+                inner = 'https:' + inner
+
+            headers["Referer"] = embed_url
+            r2 = await client.get(inner, headers=headers, follow_redirects=True)
+
+            input_match = re.search(r'input\s*:\s*["\']([A-Za-z0-9+/=]{40,})["\']', r2.text)
+            if input_match:
+                decrypt = await client.post(
+                    "https://streams.center/embed/decrypt.php",
+                    data={"input": input_match.group(1)},
+                    headers={**headers, "X-Requested-With": "XMLHttpRequest", "Referer": inner}
+                )
+                if decrypt.is_success and ".m3u8" in decrypt.text:
+                    return decrypt.text.strip()
+
             return embed_url
+        except Exception as e:
+            attempt += 1
+            wait = 2 ** attempt + random.uniform(0, 1)
+            logging.warning(f"resolve_m3u8 attempt {attempt} failed: {e}. Retrying in {wait:.2f}s...")
+            await asyncio.sleep(wait)
+    logging.error(f"resolve_m3u8 failed for {embed_url}")
+    return embed_url
 
-        inner = iframe_match.group(1)
-        if inner.startswith('//'):
-            inner = 'https:' + inner
-
-        headers["Referer"] = embed_url
-        r2 = await client.get(inner, headers=headers, follow_redirects=True)
-
-        input_match = re.search(r'input\s*:\s*["\']([A-Za-z0-9+/=]{40,})["\']', r2.text)
-        if input_match:
-            decrypt = await client.post(
-                "https://streams.center/embed/decrypt.php",
-                data={"input": input_match.group(1)},
-                headers={**headers, "X-Requested-With": "XMLHttpRequest", "Referer": inner}
-            )
-            if decrypt.is_success and ".m3u8" in decrypt.text:
-                return decrypt.text.strip()
-
-        return embed_url
-    except Exception as e:
-        print(f"Resolve failed: {embed_url} → {e}")
-        return embed_url
-
-
+# ────────────────────────────────────────────────
 async def main():
     api_url = "https://backend.streamcenter.live/api/Parties?pageNumber=1&pageSize=500"
     epg_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/epg.xml"
 
-    async with httpx.AsyncClient(timeout=httpx.Timeout(35.0), verify=False) as client:
+    async with httpx.AsyncClient(
+        timeout=httpx.Timeout(35.0),
+        verify=False,   # TLS workaround
+        http2=False     # avoid TLSv1 SNI mismatch
+    ) as client:
         try:
-            print("Fetching events...")
-            resp = await client.get(api_url)
-            resp.raise_for_status()
+            logging.info("Fetching events...")
+            resp = await fetch_with_retry(client, api_url)
+            if not resp:
+                raise RuntimeError("Failed to fetch events after retries")
             games = resp.json()
-            print(f"→ {len(games)} events received")
+            logging.info(f"→ {len(games)} events received")
 
             raw_streams = []
             for game in games:
@@ -122,7 +159,7 @@ async def main():
                         s["url"] = await resolve_m3u8(client, s["url"])
                     return s
 
-            print(f"Resolving {len(raw_streams)} links...")
+            logging.info(f"Resolving {len(raw_streams)} links...")
             resolved = await asyncio.gather(*(process(s) for s in raw_streams), return_exceptions=True)
             valid = [r for r in resolved if isinstance(r, dict) and ".m3u8" in r.get("url", "")]
 
@@ -162,11 +199,10 @@ async def main():
             with open(os.path.join(BASE_DIR, EPG_FILENAME), "w", encoding="utf-8") as f:
                 f.write(minidom.parseString(ET.tostring(root)).toprettyxml(indent="  "))
 
-            # ── M3U with real group-titles + team logos ──
+            # ── M3U ──
             with open(os.path.join(BASE_DIR, M3U_FILENAME), "w", encoding="utf-8") as f:
                 f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
                 for s in valid:
-                    # Determine group-title from category
                     cid = s.get("categoryId")
                     group_name = "Other"
                     if cid == 10 or any(p in s.get("original_name_upper", "") for p in NFL_PATTERNS):
