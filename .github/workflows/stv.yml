@@ -1,0 +1,38 @@
+name: STV Scraper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Generate Playlist
+        run: |
+          python provider.py
+
+      - name: Commit Updated Files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add stv.m3u stv.log
+          git commit -m "Update $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git push
