@@ -1,27 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Scrape IPTV channels from:
-https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_6/sports_channels.json
-
-Output:
-    stv.m3u
-    stv.log
-
-Features:
-    - Generates Kodi-compatible M3U
-    - Preserves User-Agent, Referer, Origin headers
-    - Adds #KODIPROP for HLS and DASH streams
-    - Logs providers and channels processed
-"""
-
 import requests
 from datetime import datetime
 
-JSON_URL = (
-    "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_6/sports_channels.json"
-)
+JSON_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_6/sports_channels.json"
 
 M3U_FILE = "stv.m3u"
 LOG_FILE = "stv.log"
@@ -32,8 +15,7 @@ HEADERS = {
 
 
 def log(message):
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
+    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
     line = f"[{timestamp}] {message}"
 
     print(line)
@@ -66,8 +48,8 @@ def parse_url_and_headers(link):
 
     for item in header_part.split("&"):
         if "=" in item:
-            key, value = item.split("=", 1)
-            headers[key.strip()] = value.strip()
+            k, v = item.split("=", 1)
+            headers[k.strip()] = v.strip()
 
     return stream_url.strip(), headers
 
@@ -75,7 +57,7 @@ def parse_url_and_headers(link):
 def build_kodi_headers(headers):
     result = []
 
-    header_map = {
+    mapping = {
         "user-agent": "User-Agent",
         "User-Agent": "User-Agent",
         "referer": "Referer",
@@ -86,26 +68,32 @@ def build_kodi_headers(headers):
 
     added = set()
 
-    for key, kodi_name in header_map.items():
-        if key in headers and kodi_name not in added:
-            result.append(f"{kodi_name}={headers[key]}")
-            added.add(kodi_name)
+    for source_key, kodi_key in mapping.items():
+        value = headers.get(source_key)
+
+        if value and kodi_key not in added:
+            result.append(f"{kodi_key}={value}")
+            added.add(kodi_key)
 
     return "&".join(result)
 
 
 def write_channel(
     playlist,
-    group_name,
+    provider_name,
     logo,
     channel_name,
     stream_url,
     headers,
+    api_key=""
 ):
+
     playlist.write(
-        f'#EXTINF:-1 tvg-name="{channel_name}" '
+        f'#EXTINF:-1 '
+        f'tvg-name="{channel_name}" '
         f'tvg-logo="{logo}" '
-        f'group-title="{group_name}",{channel_name}\n'
+        f'group-title="{provider_name}",'
+        f'{channel_name}\n'
     )
 
     manifest = detect_manifest_type(stream_url)
@@ -117,6 +105,19 @@ def write_channel(
 
         playlist.write(
             f"#KODIPROP:inputstream.adaptive.manifest_type={manifest}\n"
+        )
+
+    #
+    # DRM Key (KID:KEY)
+    #
+    if api_key and ":" in api_key:
+
+        playlist.write(
+            "#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n"
+        )
+
+        playlist.write(
+            f"#KODIPROP:inputstream.adaptive.license_key={api_key}\n"
         )
 
     kodi_headers = build_kodi_headers(headers)
@@ -139,7 +140,7 @@ def main():
     response = requests.get(
         JSON_URL,
         headers=HEADERS,
-        timeout=30,
+        timeout=60
     )
 
     response.raise_for_status()
@@ -148,12 +149,10 @@ def main():
 
     provider_count = 0
     channel_count = 0
+    drm_count = 0
 
     with open(M3U_FILE, "w", encoding="utf-8") as playlist:
 
-        #
-        # M3U Header
-        #
         playlist.write("#EXTM3U\n\n")
 
         for provider in providers:
@@ -165,10 +164,10 @@ def main():
                 "Unknown"
             )
 
-            provider_logo = provider.get(
+            logo = provider.get(
                 "image",
                 ""
-            )
+            ).replace("&amp;", "&")
 
             formats = provider.get(
                 "formats",
@@ -192,7 +191,12 @@ def main():
                     ""
                 ).strip()
 
-                if not link:
+                api_key = item.get(
+                    "api",
+                    ""
+                ).strip()
+
+                if not title or not link:
                     continue
 
                 link = link.replace("&amp;", "&")
@@ -201,21 +205,26 @@ def main():
                     parse_url_and_headers(link)
                 )
 
+                if api_key and ":" in api_key:
+                    drm_count += 1
+
                 write_channel(
                     playlist=playlist,
-                    group_name=provider_name,
-                    logo=provider_logo,
+                    provider_name=provider_name,
+                    logo=logo,
                     channel_name=title,
                     stream_url=stream_url,
                     headers=stream_headers,
+                    api_key=api_key
                 )
 
                 channel_count += 1
 
-    log(f"Providers processed: {provider_count}")
-    log(f"Channels written: {channel_count}")
-    log(f"Playlist saved: {M3U_FILE}")
-    log("Finished")
+    log(f"Providers processed : {provider_count}")
+    log(f"Channels written    : {channel_count}")
+    log(f"DRM channels found  : {drm_count}")
+    log(f"Playlist saved      : {M3U_FILE}")
+    log("Finished successfully")
 
 
 if __name__ == "__main__":
