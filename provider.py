@@ -9,8 +9,14 @@ JSON_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/pro
 M3U_FILE = "stv.m3u"
 LOG_FILE = "stv.log"
 
+DEFAULT_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/151.0.0.0 Safari/537.36"
+)
+
 HEADERS = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": DEFAULT_UA
 }
 
 
@@ -42,11 +48,11 @@ def parse_url_and_headers(link):
 
     stream_url, header_part = link.split("|", 1)
 
-    header_part = header_part.replace("&amp;", "&")
+    header_part = header_part.replace("&amp;amp;", "&amp;")
 
     headers = {}
 
-    for item in header_part.split("&"):
+    for item in header_part.split("&amp;"):
         if "=" in item:
             k, v = item.split("=", 1)
             headers[k.strip()] = v.strip()
@@ -55,27 +61,25 @@ def parse_url_and_headers(link):
 
 
 def build_kodi_headers(headers):
-    result = []
+    result = [f"User-Agent={DEFAULT_UA}"]
 
-    mapping = {
-        "user-agent": "User-Agent",
-        "User-Agent": "User-Agent",
-        "referer": "Referer",
-        "Referer": "Referer",
-        "origin": "Origin",
-        "Origin": "Origin",
-    }
+    referer = (
+        headers.get("Referer")
+        or headers.get("referer")
+    )
 
-    added = set()
+    origin = (
+        headers.get("Origin")
+        or headers.get("origin")
+    )
 
-    for source_key, kodi_key in mapping.items():
-        value = headers.get(source_key)
+    if referer:
+        result.append(f"Referer={referer}")
 
-        if value and kodi_key not in added:
-            result.append(f"{kodi_key}={value}")
-            added.add(kodi_key)
+    if origin:
+        result.append(f"Origin={origin}")
 
-    return "&".join(result)
+    return "&amp;".join(result)
 
 
 def write_channel(
@@ -107,9 +111,6 @@ def write_channel(
             f"#KODIPROP:inputstream.adaptive.manifest_type={manifest}\n"
         )
 
-    #
-    # DRM Key (KID:KEY)
-    #
     if api_key and ":" in api_key:
 
         playlist.write(
@@ -122,11 +123,14 @@ def write_channel(
 
     kodi_headers = build_kodi_headers(headers)
 
-    if kodi_headers:
-        playlist.write(
-            "#KODIPROP:inputstream.adaptive.stream_headers="
-            f"{kodi_headers}\n"
-        )
+    playlist.write(
+        "#KODIPROP:inputstream.adaptive.stream_headers="
+        f"{kodi_headers}\n"
+    )
+
+    playlist.write(
+        f"#EXTVLCOPT:http-user-agent={DEFAULT_UA}\n"
+    )
 
     playlist.write(stream_url + "\n\n")
 
@@ -167,7 +171,7 @@ def main():
             logo = provider.get(
                 "image",
                 ""
-            ).replace("&amp;", "&")
+            ).replace("&amp;amp;", "&amp;")
 
             formats = provider.get(
                 "formats",
@@ -199,7 +203,10 @@ def main():
                 if not title or not link:
                     continue
 
-                link = link.replace("&amp;", "&")
+                link = link.replace(
+                    "&amp;amp;",
+                    "&amp;"
+                )
 
                 stream_url, stream_headers = (
                     parse_url_and_headers(link)
