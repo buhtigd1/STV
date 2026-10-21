@@ -113,7 +113,7 @@ def write_channel(
     if api_key and ":" in api_key:
 
         playlist.write(
-            "#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n"
+            "#KODIPROP:inputstream.adaptive.license_type=clearkey\n"
         )
 
         playlist.write(
