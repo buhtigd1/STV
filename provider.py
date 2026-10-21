@@ -13,6 +13,13 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
+# Pakai UA tetap agar semua channel konsisten di Kodi
+DEFAULT_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/151.0.0.0 Safari/537.36"
+)
+
 
 def log(message):
     timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
@@ -42,7 +49,11 @@ def parse_url_and_headers(link):
 
     stream_url, header_part = link.split("|", 1)
 
-    header_part = header_part.replace("&amp;", "&")
+    header_part = (
+        header_part
+        .replace("&amp;amp;", "&")
+        .replace("&amp;", "&")
+    )
 
     headers = {}
 
@@ -52,30 +63,6 @@ def parse_url_and_headers(link):
             headers[k.strip()] = v.strip()
 
     return stream_url.strip(), headers
-
-
-def build_kodi_headers(headers):
-    result = []
-
-    mapping = {
-        "user-agent": "User-Agent",
-        "User-Agent": "User-Agent",
-        "referer": "Referer",
-        "Referer": "Referer",
-        "origin": "Origin",
-        "Origin": "Origin",
-    }
-
-    added = set()
-
-    for source_key, kodi_key in mapping.items():
-        value = headers.get(source_key)
-
-        if value and kodi_key not in added:
-            result.append(f"{kodi_key}={value}")
-            added.add(kodi_key)
-
-    return "&".join(result)
 
 
 def write_channel(
@@ -108,7 +95,7 @@ def write_channel(
         )
 
     #
-    # DRM Key (KID:KEY)
+    # DRM ClearKey
     #
     if api_key and ":" in api_key:
 
@@ -120,15 +107,39 @@ def write_channel(
             f"#KODIPROP:inputstream.adaptive.license_key={api_key}\n"
         )
 
-    kodi_headers = build_kodi_headers(headers)
+    ua = (
+        headers.get("User-Agent")
+        or headers.get("user-agent")
+        or DEFAULT_UA
+    )
 
-    if kodi_headers:
+    ref = (
+        headers.get("Referer")
+        or headers.get("referer")
+    )
+
+    org = (
+        headers.get("Origin")
+        or headers.get("origin")
+    )
+
+    playlist.write(
+        f"#KODIPROP:http-user-agent={ua}\n"
+    )
+
+    if ref:
         playlist.write(
-            "#KODIPROP:inputstream.adaptive.stream_headers="
-            f"{kodi_headers}\n"
+            f"#KODIPROP:http-referrer={ref}\n"
         )
 
-    playlist.write(stream_url + "\n\n")
+    if org:
+        playlist.write(
+            f"#KODIPROP:http-origin={org}\n"
+        )
+
+    playlist.write(
+        stream_url + "\n\n"
+    )
 
 
 def main():
@@ -151,7 +162,11 @@ def main():
     channel_count = 0
     drm_count = 0
 
-    with open(M3U_FILE, "w", encoding="utf-8") as playlist:
+    with open(
+        M3U_FILE,
+        "w",
+        encoding="utf-8"
+    ) as playlist:
 
         playlist.write("#EXTM3U\n\n")
 
@@ -164,10 +179,11 @@ def main():
                 "Unknown"
             )
 
-            logo = provider.get(
-                "image",
-                ""
-            ).replace("&amp;", "&")
+            logo = (
+                provider.get("image", "")
+                .replace("&amp;amp;", "&")
+                .replace("&amp;", "&")
+            )
 
             formats = provider.get(
                 "formats",
@@ -199,7 +215,11 @@ def main():
                 if not title or not link:
                     continue
 
-                link = link.replace("&amp;", "&")
+                link = (
+                    link
+                    .replace("&amp;amp;", "&")
+                    .replace("&amp;", "&")
+                )
 
                 stream_url, stream_headers = (
                     parse_url_and_headers(link)
@@ -234,3 +254,4 @@ if __name__ == "__main__":
     except Exception as e:
         log(f"ERROR: {e}")
         raise
+``
